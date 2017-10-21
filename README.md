@@ -34,6 +34,4 @@ Si bien existen aplicaciones y portales que implementan alguna de las anteriores
 
 __Promotor__
 
-* [Jesús Pérez Melero](jesusperezmelero@gmail.com)
-
-__Perfil colaboradorxs__
+* Jesús Pérez Melero
