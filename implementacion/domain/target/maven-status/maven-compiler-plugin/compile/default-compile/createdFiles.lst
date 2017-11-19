@@ -1,6 +1,0 @@
-com\madridonyou\micro\domain\outputs\LoginOutput.class
-com\madridonyou\micro\domain\inputs\LoginInput.class
-com\madridonyou\micro\domain\outputs\RegisterOutput.class
-com\madridonyou\micro\domain\dynamoTables\MoyUsers.class
-com\madridonyou\micro\domain\inputs\RegisterInput.class
-com\madridonyou\micro\domain\user\User.class
