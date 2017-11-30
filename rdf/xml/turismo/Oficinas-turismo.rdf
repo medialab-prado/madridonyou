@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/162374d21c0d143fba590435fbf7e2cc">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Andalucia.</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida felipe ii 15</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.424183525039</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.673810495427334</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">912 031 200</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d0abc974d4ae6510VgnVCM1000001d4a900aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/e71f0aa2ed94afb5e84cabf28aea9dfb">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Andorra</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alcala 73</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.420463942385524</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6873880759267004</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 317 453</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=eb68444a2951c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/9387150725befd867f4bd624576b9145">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Austria</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle juan alvarez mendizabal 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MONCLOA-ARAVACA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Moncloa-Aravaca"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42352919018361</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7137893492193244</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 426 832</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b659eddb85d6e410VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/702b30dce5700d02e4581ea6122879ef">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Brasil</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle almagro 28</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMBERI</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Chamberí"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.43017960044132</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.692768600492918</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 020 689</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b15d47048781c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/b356e7aed7ee82589e54a466e0dca157">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Castilla - Leon</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alcala 105</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42177018095319</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6828394778643716</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 780 324</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c93c19d41471c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/8d917ee2013f097c962fa85297f0ffea">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de China</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle gran via 39</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42009464369331</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.705324957516307</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 480 011 </dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0dad19d41471c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/168411596e4c04bb30eaf83385d15c96">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Cuba</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paseo habana 50</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMARTIN</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/page/Chamberí"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.4509737804771</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6864959795755223</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 113 097</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=048c19d41471c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/1ba922ac006a8e5f2b123684c2f4d65f">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Francia</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle serrano 40</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42603070001693</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.68752726535081</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 489 737 (Informacion)           
+</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bbbc19d41471c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/9c00c015dd972511f07e7a8752e0cc2e">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Gran Bretana</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paseo castellana 259</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FUENCARRAL-EL PARDO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Fuencarral-El_Pardo"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.47592404926307</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6872691224974417</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 146 497</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=fc37eddb85d6e410VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/489c6d68b55121aa7644432b9e2b07e6">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Guatemala</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle fernando el santo 27</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMBERI</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Chamberí"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42811147922819</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.69060179113649</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 440 347 / 913 441 417</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=df5f44e4373f6310VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/7f650a872c8ada674c272eed2b19bea6">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Holanda</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paseo castellana 141</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FUENCARRAL-EL PARDO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Fuencarral-El_Pardo"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.47592404926307</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6872691224974417</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 498 082</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d320ac7ab6d6e410VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/2d5d4cf93ccf992b3fe617b32b8296a3">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Irlanda</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paseo castellana 46</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.43419977951646</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6878816351465096</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 456 420</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f50d19d41471c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/974aa39be46f0ba832c70a2bcf9b816c">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Iran</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle maria de molina 26</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.4375784193194</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6848033506224906</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 643 613</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=66e6e7510551c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/14ad095ecc1c3e1b87f3c522836e9158">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Italia</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paseo castellana 114</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.436434892176365</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6862183867739926</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 670 670</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=1b2d19d41471c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/c44bebb973e14fe539676e0e9155b121">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Jordania</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle villanueva 5</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.4225708087371</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.687598129527758</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 813 987</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ad3d19d41471c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/808ab3429a151b9b348751fe236fd522">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de La Rioja</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle serrano 25</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.426596411628736</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.687839531572201</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 764 852</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=5558bc4e9ef0b210VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/ca923c97a1ca2616a429d2e548f794c3">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Malta</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paseo castellana 45</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMBERI</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Chamberí"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.43569358766222</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.689677189614338</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 913 061</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f8f6e7510551c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/c154d855a0f33bb1ee7365af5a204279">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Marruecos</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle ventura rodriguez 24</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MONCLOA-ARAVACA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Moncloa-Aravaca"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42420902572595</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.714574560417809</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 412 995</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=9fbd19d41471c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/561918f13a2832726ec7f2e16ecd76c1">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Mexico</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">carrera san jeronimo 46</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.41605298613373</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.697338423479512</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 611 827 / 915 613 520</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=22dd19d41471c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/50f5a0b224ddb1270e0f523c7efae216">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Noruega</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza colon 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMBERI</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Chamberí"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42567707652306</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6909305470033527</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 440 987</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=7e78444a2951c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/eeed616bd5c04152c5221a1d420232d1">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Nueva York</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle bravo murillo 101</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMBERI</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Chamberí"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.43466453809479</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.700501765839506</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 585 573</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=2e68a3eee7553210VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/ee07c6fb926a29e3a77a8212f6d03c01">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Peru</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza marques de salamanca 10</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.429674007218026</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6792883340980196</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">911 937 511</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b4ed19d41471c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/62ce4772adc0fbeae29391fc0e22509c">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Polonia</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle princesa 3</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MONCLOA-ARAVACA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Moncloa-Aravaca"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42474213964734</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7128591034859424</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 414 808 / 915 414 333</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=47fd19d41471c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/cc9278caa262fa9229c91339d6632c1b">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Portugal</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle lagasca 88</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42991206232817</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6847491581278606</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 617 230</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f3ad9a4aca553210VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/d3bbb7db3a960ca3c2afc4e901b73578">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Rumania</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alcantara 49</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.43064345216766</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6737334953475242</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 014 268</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=021399cf56d6e410VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/49efa4a1752df440cb7d48a74b0ad317">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Seychelles</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle princesa 40</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.429538155017795</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.715255790482151</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 020 804</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=1e17e7510551c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/c7c78b1b1039c7ad582c7b0d502df797">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Tahiti</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle serrano 40</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.426021621426464</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.687538961488509</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 489 747</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=90192b0194de1210VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/2a2107d1bcb556a30424faede85797a2">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de Tunez</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alberto aguilera 11</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42967754133076</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7087142557455817</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 481 435</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=145e19d41471c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/d8b1e8799e830314f9f50dd6b6f03c51">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de la Comunidad de Madrid. Calle Alcala, 31</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alcala 31</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.41842560545147</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6982941133384717</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Informacion turistica y cultural: 902 100 007            
+</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=9a0b992ad93d2310VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/f04b8b59e703ac3889bf1ce4ca52db81">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de la Comunidad de Madrid. Calle Duque de Medinaceli</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle duque de medinaceli 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.415295360876854</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6959869173057225</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Informacion turistica y cultural:  902 100 007    
+</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c26d19d41471c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/3372e5eee55ede903fe098d8e2d33f65">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de Turismo de la Comunidad de Madrid. Ifema. Feria de Madrid</dbp:name>
+	<owl:sameAs rdf:resource="http://es.dbpedia.org/resource/IFEMA"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida partenon 5</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BARAJAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Barajas_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.46428771594393</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6164023947650836</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Informacion turistica y cultural: 902 100 007</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=1286c040b8f36310VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/3ab1ba9281946d58b3af79ac29258167">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/office"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Punto de Informacion Turistica. Paseo del Prado</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza neptuno 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RETIRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Retiro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.41688576337496</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.692184322678944</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 787 810</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=1f6bdae9bb525510VgnVCM2000001f4a900aRCRD"/>
+</rdf:Description>
+
+</rdf:RDF>

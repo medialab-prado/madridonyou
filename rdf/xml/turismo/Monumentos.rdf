@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/c821676842228981f9b9618632b27274">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Banco de Espana</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Bank_of_Spain"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alcala 48</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.4188339187439</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.69482107480432</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 385 000 (centralita)</dbp:phoneNumber>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">De lunes a viernes: 8.30 a 14.00 h   Sabados, domingos y festivos: cerrado  Festivos 2017: 6 de enero; 20 de marzo; 13 y 14 de abril; 1, 2 y 15 de mayo; 15 de agosto; 12 de octubre; 1 y 9 de noviembre; 6, 8 y 25 de diciembre.</rdfs:comment>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=487d995a8bf5d010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/285da2198b2b496c9d447cc4ac6b0734">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Basilica Pontificia de San Miguel</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/St._Michael's_Basilica_(Madrid)"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle san justo 4</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.414203159177625</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7096715906562716</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 484 011</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=9c383d232e91f010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/418ef6127e44214882c61e372e866691">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Nacional de Espana</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Biblioteca_Nacional_de_Espa%C3%B1a"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paseo recoletos 20</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.423001908945956</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.69084423390357</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 807 823 / 05 (Informacion) 915 807 800 (Centralita) 915 807 894 (Informacion sobre Exposiciones) 915 169 867 (Informacion sobre el Museo y actividades infantiles) 915 807 755 (Registro General y Carteria)                                                                                                
+</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=2b8d995a8bf5d010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/f416d0fbce436dde50730df3a12bba3b">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bolsa de Madrid</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Palace_of_la_Bolsa_de_Madrid"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza lealtad 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RETIRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Retiro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.41688576337496</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.692184322678944</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 095 000 (Bolsas y mercados espanoles (BME)</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0a9d81eb5f51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/e3408432c1a48a52fb6c74d926b38886">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casa de America</dbp:name>
+	<owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Casa_de_América_(Madrid)"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza cibeles 4</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.41975904857138</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.692284495888486</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 954 800 (informacion) </dbp:phoneNumber>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Punto de informacion    Lunes a viernes de 9 a 15 y de 16 a 20:30 horas    Exposiciones (Salas Frida Khalo y Diego Rivera)    Lunes a viernes de 11 a 19:30 horas, sabados de 11 a 15 horas. Domingos cerrado.    Visitas guiadas    Sabados y domingos, a las 11, 12 y 13 horas.    Venta de entradas anticipadas en el Punto de informacion de Casa de America.    Restaurante (Acceso por Paseo Recoletos, 2)    De 13:30 a 16 y de 20:30 a 0 horas. Cerrado domingos todo el dia; lunes y martes noche en otono e invierno.</rdfs:comment>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=10f979262ef5d010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/58f03e4be24a4ff9d2d3ba639f11fd6a">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casa de Cisneros</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Casa_de_Cisneros_(Madrid)"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza villa 4</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.41490075227339</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7105039839947347</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=023de35bba51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/d60642d771d69f91ab31dc215ab74b52">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casa de La Panaderia</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Casa_de_la_Panader%C3%ADa"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza mayor 27</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.41583855082183</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7074257084323636</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=944de35bba51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/b7b039c6a9efeaa40d2fc8b4b7af4c82">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casa de La Villa. Ayuntamiento de Madrid</dbp:name>
+	<owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Casa_de_la_Villa_de_Madrid"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza villa 5</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.41518829867041</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7106248754622504</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=483f68540e41c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/c8b5850476913c169ecbb4d02bbe32a5">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casa de Las Siete Chimeneas</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/House_of_las_Siete_Chimeneas"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza rey 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42020264263883</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6964264776282376</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=275de35bba51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/de4d4ada2968c13a4eb3d7f023fd42a6">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casa de Velazquez</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Casa_de_Vel%C3%A1zquez"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle paul guinard 3</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MONCLOA-ARAVACA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Moncloa-Aravaca"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.441013640676644</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7299866834370903</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 551 580</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=a48de35bba51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/48361618e16f4608602887058e49074f">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Castillo de la Alameda</dbp:name>
+	<owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Castillo_de_La_Alameda"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle antonio sancha 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BARAJAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Barajas_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.45835460563491</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.5932903820278788</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 667 415                                                                         
+</dbp:phoneNumber>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Abierto fines de semana y festivos (incluso los lunes festivos)  De 1 de abril a 15 de junio y de 15 de septiembre a 30 de septiembre: sabados, domingos y festivos de 10 a 21 horas.  De 16 de junio a 15 de septiembre: sabados, domingos y festivos de 10 a 20 horas.  De octubre a marzo: sabados, domingos y festivos de 10 a 18 horas.  Cerrado: 24, 25, 31 de diciembre, 1 de enero, 6 de enero, 1 de mayo.</rdfs:comment>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=fe43c4be8e688210VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/08f90c1a417155361a5c4b8d297e0d78">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Centro de Estudios Politicos y Constitucionales</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Centro_de_Estudios_Pol%C3%ADticos_y_Constitucionales"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza marina espa&amp;ntilde;ola 9</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42063654129458</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7124503472242387</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 401 950</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=8c5d1e79ee71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/0189caa552598b845b29b17a427692d1">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Circulo de Bellas Artes</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/C%C3%ADrculo_de_Bellas_Artes"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alcala 42</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.41842683569739</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6965967618484465</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 605 400 (Informacion general) / 913 892 426 (taquilla)                                                                          
+</dbp:phoneNumber>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Salas de exposiciones:  de 11 a 14 y de 17 a 21 horas. (martes a domingo). Lunes cerrado.   Azotea:  de lunes a viernes de 9 a 21 horas, sabados, domingos y festivos de 11 a 21 horas (horario sujeto a cambios).   Taquilla (cine y espectaculos):  de 16 a 22 horas (miercoles a domingo). Horario sujeto a cambios   Cafeteria 'La Pecera':  De 8 a 1 horas, viernes, sabado y domingo hasta las 3 horas.</rdfs:comment>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=8fdf1e79ee71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/98f13708210194c475687be6106a3b84">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Congreso de los Diputados</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:Congress_of_Deputies_(Spain)"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza cortes 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.41626174493484</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.697081267552528</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 906 000</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=365f29ea9281c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/b326a08bb69d28ec5947c8438f12dd66">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Consejo de Estado</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Spanish_Council_of_State"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle mayor 79</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.4149668099875</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7129445136801347</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 166 262</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ff4ed4985261c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/d2cd33e9c0236a8c2d8bd3fa91ad3acf">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Convento de las Comendadoras de Santiago</dbp:name>
+	<owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Convento_de_las_Comendadoras_de_Santiago_(Madrid)"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza comendadoras 10</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.4273968151307</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.708949668437218</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ee6b13db5b71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/25f934d475a8cfdfabfa603816d6ca4f">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Edificio Metropolis</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Metropolis_Building"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alcala 39</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.41866416622284</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6975775550486154</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6c3c7d448b51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/ed4a7a7c60dd40f9e7e1de2a254e76aa">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ermita de San Isidro</dbp:name>
+	<owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Ermita_de_San_Isidro_(Madrid)"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paseo quince de mayo 62</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.39949832410487</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.73168274610084</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 650 841</dbp:phoneNumber>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ermita:  sabados de 11 a 13 horas (celebracion de la Eucaristia a las 12 horas).   Fuente del Santo:  solo permanece abierta desde la semana anterior a la fiesta de San Isidro hasta la semana posterior.   Oficio en rito hispano mozarabe:  los dias 2 de enero a las 18 horas (comienzo del ano Caput anni) y 11 de mayo a las 18,30 horas (aniversario de la dedicacion).</rdfs:comment>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=913cfa8389c10310VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/74c51c08166a444760e2363ae10eaaa7">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ermita de Santa Maria la Antigua</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Hermitage_of_Santa_Mar%C3%ADa_la_Antigua_(Madrid)"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle monsenor oscar romero 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.380299379931614</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.741676977905724</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 628 536 (Parroquia de San Sebastian Martir)</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f19e059cb751c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/55603a5f239e435c642244be3e891b85">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Instituto Cervantes</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Instituto_Cervantes"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alcala 49</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.419245261976</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6953321647484363</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 367 600</dbp:phoneNumber>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Recepcion: 8 a 19 horas  Registro:  lunes a jueves: de 8 a 15 horas  Viernes: de 8 a 14 horas    Exposiciones: consultar programa</rdfs:comment>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e6c50a47f441f010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/a87ff679a2f3e71d9181a67b7542122c">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ministerio de Justicia</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Ministry_of_Justice_(Spain)"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle san bernardo 45</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42412618887789</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.707536103996874</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 902 000 (Centralita)               
+</dbp:phoneNumber>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Atencion telefonica:  de lunes a viernes de 8 a 19:30 horas y sabados de 8 a 15 horas</rdfs:comment>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=98fb29ea9281c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/955cb567b6e38f4c6b3f28cc857fc38c">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Museo de Historia de Madrid</dbp:name>
+	<owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Museo_de_Historia_de_Madrid"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle fuencarral 78</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42577054821346</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.700845660719608</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 011 863</dbp:phoneNumber>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HORARIO DE VERANO:  de martes a domingo de 10:00 a 19 horas.  Cerrado : todos los lunes y los dias 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre.</rdfs:comment>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=8f3079262ef5d010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/654784daf0b133e42d02214b22cb03a6">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Palacio de Buenavista. Cuartel General del Ejercito</dbp:name>
+	<owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Palacio_de_Buenavista_(Madrid)"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza cibeles 3</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.419660627134164</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6936744082913036</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 802 200</dbp:phoneNumber>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Relevo de la Guardia: ultimo viernes de cada mes, a las 11 horas en la fachada de la calle de Alcala.</rdfs:comment>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e9c292355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/45ddfa251d2530f6865be72a998b03dc">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Palacio de Cibeles</dbp:name>
+	<owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Palacio_de_Cibeles"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza cibeles 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RETIRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Retiro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.419011767401095</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.692206111679657</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=535e5a0f8161c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/2d405b367158e3f12d7c1e31a96b3af3">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Palacio Real</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Royal_Palace_of_Madrid"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle bailen 0</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42075212551193</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.712699107286406</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 548 700 (Informacion general)</dbp:phoneNumber>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Horario    De octubre a marzo: de 10 a 18 horas  De abril a septiembre: de 10 a 20 horas  Cierre taquillas una hora antes  Dia 14 de junio de 2017 cerrado a las 15 horas  Dia 15 de junio de 2017 cerrado en jornada completa</rdfs:comment>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=47ddef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/2478f263ea867250ce8fcbfd57c06fe4">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plaza de Oriente</dbp:name>
+	<owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Plaza_de_Oriente"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza oriente 0</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=773492355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/264a8d02fe9429236ad8796df3f16ec6">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plaza Mayor</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Plaza_Mayor,_Madrid"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza mayor 0</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.41498735934118</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.706662448203068</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0a4492355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/1fb2a1c37b18aa4611c3949d6148d0f8">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plaza Monumental de Toros de las Ventas</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Madrid_%E2%80%93_Las_Ventas"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alcala 237</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.431580111585106</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6628728693917627</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 562 200 </dbp:phoneNumber>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La plaza de toros de Las Ventas esta abierta  todos los dias de 10 a 17:30 horas, para realizacion de visitas guiadas , excepto dias de cierre excepcional.   Los dias de corrida se cierra 4 horas antes del inicio del espectaculo, que se celebran:   Todos los domingos desde finales de marzo hasta principios de octubre  Durante la Feria de San Isidro  Durante la Feria de Otono en octubre  Dias de cierre: 25 de diciembre, 1 y 6 de enero y 2 de mayo.      Por motivos de organizacion, el Tour podra variar su recorrido y horario informando al visitante antes del acceso.</rdfs:comment>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=5d7d0713fb71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/0013c1f9274d50638be6c93cf2bd0681">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Puerta del Sol</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Puerta_del_Sol"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza puerta del sol 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.416887979993966</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7022740027977377</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=af0ae1abeee79410VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/3b92d18aa7a6176dd37d372bc2f1eb71">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real Academia Nacional de Farmacia</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Royal_Academy_of_Pharmacy"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle farmacia 9</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.423966629698484</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6997070566405665</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 310 307  / 915 223 147</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=3e9bff632081c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/4d6b3e38b952600251ee92fe603170ff">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real Fabrica de Tapices</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle fuenterrabia 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RETIRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Retiro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.406087329011655</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.682515969574079</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 340 550</dbp:phoneNumber>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">De lunes a viernes de 10 a 14 horas.  Cerrado: sabados, domingos, festivos, Semana Santa y agosto.</rdfs:comment>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=53cbff632081c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/369b655eb3de0bcd93dc000dd0a3456e">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real Jardin Botanico</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza murillo 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RETIRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Retiro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.41238214985831</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.692032097926277</dbp:longitude>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Jardin esta abierto al publico todos los dias del ano, excepto los dias de Navidad y Ano Nuevo.   Enero y febrero: de 10 a 18 horas  Marzo: de 10 a 19 horas  Abril: de 10 a 20 horas  De mayo a agosto de 10 a 21 horas  Septiembre: de 10 a 20 horas  Octubre: de 10 a 19 horas  Noviembre y diciembre: de 10 a 18 horas</rdfs:comment>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e9234477786b0310VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/3c59dc048e8850243be8079a5c74d079">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Senado</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:Spanish_Senate"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle bailen 3</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42145565624762</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.712565078821235</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">900 103 038 / 915 381 852 / 915 381 853 / 915 381 854 / 915 381 518</dbp:phoneNumber>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oficina de informacion:  De lunes a jueves, de 9 a 14.30 horas y los viernes, de 9.30 a 14 horas.</rdfs:comment>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c86f29ea9281c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/0ac04853f8058f61af1ca7630e786d22">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Monument"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sociedad General de Autores y Editores (SGAE)</dbp:name>
+	<owl:sameAs rdf:resource="http://es.dbpedia.org/page/Sociedad_General_de_Autores_y_Editores"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle fernando vi 4</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.425444297155785</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6966927307702515</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 499 550 / 00          
+</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=7b9332df1d51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+</rdf:RDF>

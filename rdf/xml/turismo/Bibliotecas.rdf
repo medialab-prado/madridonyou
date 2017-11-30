@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/b4568df26077653eeadf29596708c94b">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Historica Municipal</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle conde duque 9</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42737760210632</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7106116887809817</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Secretaria: 915885737. Informacion y Referencia: 915885767, 914800557 y 915885744 </dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ccbc3d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/9ddfcb3b0c57ed911c5f4bf34407493e">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Musical Victor Espinos</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle conde duque 9</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42737760210632</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7106116887809817</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 588 57 53 / 91 588 57 39 / 91 588 57 55                                                         
+91 588 57 60</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d482270f58c6c310VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/21be9a4bd4f81549a9d1d241981cec3c">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Acuna</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle quintana 9</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MONCLOA-ARAVACA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Moncloa-Aravaca"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.427942010682415</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7169600607379985</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 413 619                                                                       
+</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e9ad995a8bf5d010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/e8fd4a8a5bab2b3785d794ab51fef55c">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Canillejas</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle musas 11</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAN BLAS-CANILLEJAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/San_Blas-Canillejas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.43776263645119</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6083782410803944</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 424 499</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=a8cd995a8bf5d010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/c9036ddf3c6c397b23d2ec75377056f2">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Carabanchel Luis Rosales</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle antonia rodriguez sacristan 7</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.373420234648606</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7480802097487653</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">912 760 233                                                                                                          
+</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=7a73f884ad3f9210VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/ac5dab2e99eee9cf9ec672e383691302">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Centro Pedro Salinas</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glorieta puerta de toledo 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.40709558029403</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.711046518464516</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 665 407</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=67ed995a8bf5d010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/94e4451ad23909020c28b26ca3a13cb8">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Chamberi 'Jose Luis Sampedro'</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle felipe el hermoso 4</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMBERI</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Chamberí"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.43539063992494</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6996132452669075</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 459 782</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=5a2279262ef5d010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/f0bda020d2470f2e74990a07a607ebd9">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Elena Fortun (Retiro)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle doctor esquerdo 189</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RETIRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Retiro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.40356992125351</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.672414651864732</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 019 146 </dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=44213d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/01f7bcbbe3c7bfcab8456603495841fb">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Fuencarral - El Pardo. Rafael Alberti</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle sangenjo 38</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FUENCARRAL-EL PARDO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Fuencarral-El_Pardo"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.48791129077104</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6984002338920092</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 319 552 / 917 319 553</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=260e995a8bf5d010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/e5a4d6bf330f23a8707bb0d6001dfbe8">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Hortaleza</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle abertura 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HORTALEZA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Hortaleza"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.47723185032398</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6496247031818596</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 633 284</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e42e995a8bf5d010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/e59bed9538a7a165e0d2a1c34335a4ab">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Latina - Antonio Mingote</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle rafael finat 51</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LATINA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Latina_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.37944226151668</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.769445829090458</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 093 625</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c73e995a8bf5d010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/4abe17a1c80cbdd2aa241b70840879de">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Moratalaz</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle corregidor alonso de tobar 5</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MORATALAZ</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Moratalaz"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.404043531769375</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.649450874958104</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 394 688</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=457e995a8bf5d010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/d2cdf047a6674cef251d56544a3cf029">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Aluche (Latina)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle camarena 10</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LATINA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Latina_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.39597072367931</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7562716852987847</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 719 89 96</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=7f0e3d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/d8d31bd778da8bdd536187c36e48892b">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Ana Maria Matute (Carabanchel)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle de los comuneros de castilla 30</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.3975850662447</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7207386328562357</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 588 08 30                                                                                                                                                      
+</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=628e3d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/17ed8abedc255908be746d245e50263a">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Buenavista (Salamanca)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida toreros 5</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.43199309720514</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.670929243543714</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 724 08 04</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c53e3d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/97d98119037c5b8a9663cb21fb8ebf47">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Canillejas (San Blas-Canillejas)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle boltana 23</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAN BLAS-CANILLEJAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/San_Blas-Canillejas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.44640229188281</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6117933204271098</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 741 11 34</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=eb9e995a8bf5d010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/59e0b2658e9f2e77f8d4d83f8d07ca84">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Ciudad Lineal (Ciudad Lineal)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida institucion libre de ensenanza (antigua calle hermanos garcia noblejas) 14</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CIUDAD LINEAL</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Ciudad_Lineal"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.43641736294729</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.637346971302506</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 887 566</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=82ce995a8bf5d010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/e1314fc026da60d837353d20aefaf054">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Conde Duque (Centro)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle conde duque 9</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42738668300474</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7105999955473625</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 588 59 10</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=13ec3d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/2ce02ac4b13a2e9c3b99f59ffbbbd7f9">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Damaso Alonso (Chamartin)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle manuel ferrero 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMARTIN</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Chamartín_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.467453379213175</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6846112774442705</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 350 31 50</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=5870007f8441f010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/f0147baabbca0c5fb84973c06167d14a">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Eugenio Trias. Casa de Fieras de El Retiro</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paseo fernan nunez 24</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RETIRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Retiro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.4166091081099</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6795930368034804</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 480 48 38</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e791bed05ceed310VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/abf16f3e792cd62c80b4644db25f4404">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Francisco Ayala (Vicalvaro)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bulevar indalecio prieto 21</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VICALVARO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Vicálvaro"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.39982891410407</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.621281890570377</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 301 64 66</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f05279262ef5d010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/e22dd5dabde45eda5a1a67772c8e25dd">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Francisco Ibanez (Chamartin)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle mantuano 51</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMARTIN</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Chamartín_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.44810636195716</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6762309620097398</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 510 37 56</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0fce3d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/231141b34c82aa95e48810a9d1b33a79">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Gabriel Garcia Marquez (Usera)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza pueblo 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USERA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Usera"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.366768324753416</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.701141063083806</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 318 86 91                                                  
+</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e4bf3d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/54e36c5ff5f6a1802925ca009f3ebb68">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Gerardo Diego (Villa de Vallecas)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle monte aya 12</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VILLA DE VALLECAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Villa_de_Vallecas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.37790196240434</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6227296605039516</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 380 66 33</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ca903d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/67b98e17ed75125c912af26dd15901a9">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Gloria Fuertes (Barajas)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida logrono 179</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BARAJAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Barajas_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.46055947228695</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.5937461811785347</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 312 02 58</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=1f64c2c6e051c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/6a5dfac4be1502501489fc0f5a24b667">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Huerta de la Salud (Hortaleza)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle mar de las antillas 10</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HORTALEZA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Hortaleza"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.47571688103069</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.64667257750353</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 764 52 43</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=9c5879262ef5d010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/e6c0394f5d2806033b89b3d2038ff62b">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Ivan de Vargas (Centro)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle san justo 5</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.41410290844665</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7098591212735883</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 586 211</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0b60e92be3c5e210VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/b3f635b861138665e9d7fb98908d287a">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Jose Hierro (San Blas-Canillejas)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle maria sevilla diago 15</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAN BLAS-CANILLEJAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/San_Blas-Canillejas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.433291625973624</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6105662311927453</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 313 55 28</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=338879262ef5d010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/d25414405eb37dae1c14b18d6a2cac34">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Jose Saramago (Fuencarral-El Pardo)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida monforte de lemos 38</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FUENCARRAL-EL PARDO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Fuencarral-El_Pardo"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.47860087334554</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7094408342979954</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 588 68 91</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=70d879262ef5d010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/cefab442b1728a7c1b49c63f1a55781c">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal La Chata (Carabanchel)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle general ricardos 252</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.38330593504341</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7420633861175796</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 422 05 33</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d9a879262ef5d010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/4e8f4e419dfcea0432b4e78db83b22a8">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal La Elipa (Ciudad Lineal)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle nuestra senora del villar 6</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CIUDAD LINEAL</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Ciudad_Lineal"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42342659084215</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.651841641389484</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 403 63 22</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=697c598d1351c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/b41410c1bf53bb1c703c66cf1a20c1c7">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Manuel Vazquez Montalban (Tetuan)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle francos rodriguez 67</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TETUAN</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Tetuán_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.45749513485957</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.710539712535917</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 398 07 23                                                                                                                                     
+91 398 07 26</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b5ca89e2c9e5d010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/e7314ada4e0093f4b36df18d99961a87">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Mario Vargas Llosa (Centro)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle barcelo 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.426642215368176</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.699722994908341</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 802 433                                                                                                                                                   
+</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6c4dbc2658739410VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/d9b05ab5aae3664ffb00a5d7d65e1666">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Maria Lejarraga (Hortaleza)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle princesa de eboli 29</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HORTALEZA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Hortaleza"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.49041562546542</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.655356751728003</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 513 33 83</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d862492de8c8c510VgnVCM2000001f4a900aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/ba1b3eba322eab5d895aa3023fe78b9c">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Maria Zambrano (Tetuan)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza donoso 5</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TETUAN</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Tetuán_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.46903299144094</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6976620067964996</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 733 90 43</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=74703d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/11c484ea9305ea4c7bb6b2e6d570d466">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Miguel Delibes (Moratalaz)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle arroyo belincoso 11</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MORATALAZ</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Moratalaz"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.40971737692924</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6529822109115133</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 328 73 00</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=9e8f3d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/e642f223cbe941750fd5d38668fabf2b">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Pablo Neruda (Ciudad Lineal)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle ascao 4</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CIUDAD LINEAL</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Ciudad_Lineal"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42941133441142</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6416899839787695</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 406 14 72</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d5c548d20675e010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/a63fc8c5d915e1f1a40f40e6c7499863">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Portazgo (Puente de Vallecas)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle cantalapiedra 11</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.393189968014696</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6554147649183943</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 757 03 23</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=89a40a47f441f010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/052335232b11864986bb2fa20fa38748">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Pozo del Tio Raimundo (Puente de Vallecas)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida glorietas 19</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.3735856436473</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6602546064905397</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 507 07 34</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d7203d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/df9028fcb6b065e000ffe8a4f03eeb38">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Pio Baroja (Arganzuela)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle arganda 12</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ARGANZUELA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Arganzuela"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.40003652682007</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7074488154950584</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 474 16 03</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=17f879262ef5d010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/442cde81694ca09a626eeddefd1b74ca">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal San Blas (San Blas-Canillejas)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle san roman del valle 8</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAN BLAS-CANILLEJAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/San_Blas-Canillejas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.420231627534996</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6218113860909074</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 313 52 97</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=2e403d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/7283518d47a05a09d33779a17adf1707">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Vallecas (Puente de Vallecas)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle puerto del monasterio 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.395023959810636</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.665554302127492</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 588 60 51</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=11c03d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/3e15cc11f979ed25912dff5b0669f2cd">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal Vicalvaro</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle villardondiego 36</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VICALVARO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Vicálvaro"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.405283650744316</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6086278232922804</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 775 31 43</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=67e03d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/d1823f3f9ecc570e195fa1a89edd16d2">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Municipal angel Gonzalez (Latina)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle granja de torrehermosa 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LATINA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Latina_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.397074625115906</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7664885474841556</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 512 35 42</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ec750a2153ef9210VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/f39ae9ff3a81f499230c4126e01f421b">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Puente de Vallecas 'Miguel Hernandez'</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida rafael alberti 36</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.38449423079662</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6429247082087737</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 033 195</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=535979262ef5d010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/e9b73bccd1762555582b513ff9d02492">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Ruiz Egea</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle raimundo fernandez villaverde 6</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMBERI</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Chamberí"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.446595985821794</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7028897237155656</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 349 029</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b2413d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/8698ff92115213ab187d31d4ee5da8ea">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Salamanca - Manuel Alvar</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle azcona 42</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.43440083847048</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.66897244650415</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 263 701 </dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d51979262ef5d010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/1eb8f3246aecffc51378828093edcdcc">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Usera - Jose Hierro</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida rafaela ybarra 43</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USERA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Usera"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.38188182427109</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7106164073640233</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 229 501</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=943979262ef5d010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/6aa9bd14b2edcac06a1e703e66e76017">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Villa de Vallecas - Luis Martin Santos</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza antonio maria segovia 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VILLA DE VALLECAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Villa_de_Vallecas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.38091437280583</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.613674447421734</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">912 760 231</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=09ac38d60b41c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/4fbfc967560eef990de7e92bbbe91509">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Publica Villaverde - Maria Moliner</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle villalonso 16</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VILLAVERDE</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Villaverde_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.34952409541233</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.710123586489839</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 230 194  </dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=127979262ef5d010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/be75a012836bcda38b7be0df5a1a9de5">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca Regional Joaquin Leguina</dbp:name>
+	<owl:sameAs rdf:resource="http://es.dbpedia.org/page/Biblioteca_Regional_Joaquin_Leguina"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle ramirez de prado 3</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ARGANZUELA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Arganzuela"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.39990747999322</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.690042467266191</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 208 850 / 917 208 860</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=71c2f95a5875b510VgnVCM2000001f4a900aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/dfc05caea5f75b105ccd435aadc24d4a">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biblioteca del Defensor del Pueblo</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle fortuny 22</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMBERI</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Chamberí"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.433268128292234</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.690017893133342</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914327900                                                                                                                                          
+</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=139ac21d2343c510VgnVCM1000001d4a900aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/db957c626a8cd7a27231adfbf51e20eb">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casa San Cristobal</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle rocafort 101</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VILLAVERDE</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Villaverde_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.34244856729781</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.686807481597248</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 966 048</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=dcdb3d0b5e71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/1621144014ea9a814b61ec88edd0cc36">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Centro Social y Cultural La Casa Encendida</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ronda valencia 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.40595710517701</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.699779793558763</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">902 430 322                                                                 
+</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c27f8899fc81c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/a501bebf79d570651ff601788ea9d16d">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/Library"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hemeroteca Municipal</dbp:name>
+	<owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Hemeroteca_Municipal_de_Madrid"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle conde duque 11</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42802889001877</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.710182353581842</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">91 588 57 71 (Informacion general); 91 513 31 64 y 91 588 57 72 (Informacion especializada: infohemeroteca@madrid.es); 91 588 57 73 (Servicio reprografia: nmicrofilm@madrid.es)                                                            </dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=11951e79ee71c010VgnVCM1000000b205a0aRCRD"/>
+</rdf:Description>
+
+</rdf:RDF>

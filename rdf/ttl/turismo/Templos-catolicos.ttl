@@ -1,0 +1,1952 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbp: <http://dbpedia.org/property/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://www.madridonyou.es/resources/e8a642ed6a9ad20fb159472950db3d65> a dbo:ReligiousBuilding ;
+	dbp:name "Basilica La Milagrosa"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_la_Milagrosa> ;
+	dbp:address "calle garcia de paredes 45"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:latitude "40.436738433323576"^^xsd:float ;
+	dbp:longitude "-3.695724577042382"^^xsd:float ;
+	dbp:phoneNumber "914 473 248 "^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=53b313db5b71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Chamberi> .
+
+<http://www.madridonyou.es/resources/285da2198b2b496c9d447cc4ac6b0734> a dbo:ReligiousBuilding ;
+	dbp:name "Basilica Pontificia de San Miguel"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Basilica_Pontificia_de_San_Miguel_(Madrid)> ;
+	dbp:address "calle san justo 4"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.414203159177625"^^xsd:float ;
+	dbp:longitude "-3.7096715906562716"^^xsd:float ;
+	dbp:phoneNumber "915 484 011"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9c383d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/8d9766a69b764fefc12f56739424d136> a dbo:ReligiousBuilding ;
+	dbp:name "Catedral Santa Maria la Real de la Almudena"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Catedral_de_Santa_Maria_la_Real_de_la_Almudena_de_Madrid> ;
+	dbp:address "calle mayor 90"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.41521119054696"^^xsd:float ;
+	dbp:longitude "-3.7142200549476727"^^xsd:float ;
+	dbp:phoneNumber "915 480 930"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=15647b503a71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/d2cd33e9c0236a8c2d8bd3fa91ad3acf> a dbo:ReligiousBuilding ;
+	dbp:name "Convento de las Comendadoras de Santiago"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Convento_de_las_Comendadoras_de_Santiago_(Madrid)> ;
+	dbp:address "plaza comendadoras 10"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.4273968151307"^^xsd:float ;
+	dbp:longitude "-3.708949668437218"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=ee6b13db5b71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/ed4a7a7c60dd40f9e7e1de2a254e76aa> a dbo:ReligiousBuilding ;
+	dbp:name "Ermita de San Isidro"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_San_Isidro_(Madrid)> ;
+	dbp:address "paseo quince de mayo 62"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.39949832410487"^^xsd:float ;
+	dbp:longitude "-3.73168274610084"^^xsd:float ;
+	dbp:phoneNumber "913 650 841"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=913cfa8389c10310VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/74c51c08166a444760e2363ae10eaaa7> a dbo:ReligiousBuilding ;
+	dbp:name "Ermita de Santa Maria la Antigua"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_Santa_Maria_la_Antigua_(Madrid)> ;
+	dbp:address "calle monsenor oscar romero 1"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.380299379931614"^^xsd:float ;
+	dbp:longitude "-3.741676977905724"^^xsd:float ;
+	dbp:phoneNumber "914 628 536 (Parroquia de San Sebastian Martir)"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=f19e059cb751c010VgnVCM2000000c205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/0cd6a652ed1f7811192db1f700c8f0e7> a dbo:ReligiousBuilding ;
+	dbp:name "Ermita Virgen del Puerto"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Ermita_de_la_Virgen_del_Puerto> ;
+	dbp:address "paseo virgen del puerto 4"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.41556461689203"^^xsd:float ;
+	dbp:longitude "-3.7211426105677465"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=fd7755004e91f010VgnVCM2000000c205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/ca793d8b79c1b6665cf109d6077a8277> a dbo:ReligiousBuilding ;
+	dbp:name "Iglesia de las Calatravas (Concepcion Real de Calatrava)"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_las_Calatravas_(Madrid)> ;
+	dbp:address "calle alcala 25"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.418196333786035"^^xsd:float ;
+	dbp:longitude "-3.698963613858259"^^xsd:float ;
+	dbp:phoneNumber "915 218 035"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=e8013d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/eb98676e8ee16adce38796051a5cc7ff> a dbo:ReligiousBuilding ;
+	dbp:name "Iglesia de las Maravillas"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_las_Maravillas> ;
+	dbp:address "calle principe de vergara 23"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:latitude "40.425568693198244"^^xsd:float ;
+	dbp:longitude "-3.6803433622264965"^^xsd:float ;
+	dbp:phoneNumber "914 353 932"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=eb113d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> .
+
+<http://www.madridonyou.es/resources/efd1cc79cc10bd573c737e42818c236d> a dbo:ReligiousBuilding ;
+	dbp:name "Iglesia Nuestra Senora de Montserrat"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_Nuestra_Senora_de_Montserrat> ;
+	dbp:address "calle san bernardo 79"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.42764597271771"^^xsd:float ;
+	dbp:longitude "-3.70651199134605"^^xsd:float ;
+	dbp:phoneNumber "914 471 250"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=70138ed67151c010VgnVCM2000000c205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/b445e314138101eecc58503e98aa2b2d> a dbo:ReligiousBuilding ;
+	dbp:name "Iglesia San Antonio de los Alemanes"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Antonio_de_los_Alemanes> ;
+	dbp:address "calle puebla 22"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.42195996338601"^^xsd:float ;
+	dbp:longitude "-3.7022913826706088"^^xsd:float ;
+	dbp:phoneNumber "915 223 774"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=614013db5b71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/0655f117444fc1911ab9c6f6b0139051> a dbo:ReligiousBuilding ;
+	dbp:name "Iglesia San Pedro el Viejo"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Iglesia_de_San_Pedro_el_Viejo> ;
+	dbp:address "calle nuncio 14"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.41320112124687"^^xsd:float ;
+	dbp:longitude "-3.71000286701288"^^xsd:float ;
+	dbp:phoneNumber "913 651 284"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=f35013db5b71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/333cb763facc6ce398ff83845f224d62> a dbo:ReligiousBuilding ;
+	dbp:name "Monasterio de las Descalzas Reales"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_las_Descalzas_Reales_(Madrid)> ;
+	dbp:address "plaza descalzas 3"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.418233359889484"^^xsd:float ;
+	dbp:longitude "-3.706213134639163"^^xsd:float ;
+	dbp:phoneNumber """914 548 700                                                             
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=12e113db5b71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/6dbd2699e8e7ec0047de2d5d1b28a75b> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Dulce Nombre de Maria"^^xsd:string ;
+	dbp:address "calle san florencio 1"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.40449501144985"^^xsd:float ;
+	dbp:longitude "-3.660403328017802"^^xsd:float ;
+	dbp:phoneNumber "914 333 865"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=f34313db5b71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/2122c699d5e3d2fa6690771845bd7904> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia el Salvador y San Nicolas"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Parroquia_de_San_Salvador_y_San_Nicolas> ;
+	dbp:address "calle atocha 58"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.41206198418387"^^xsd:float ;
+	dbp:longitude "-3.6988294216852573"^^xsd:float ;
+	dbp:phoneNumber "913 690 579"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=6cfdef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/caaba8f9c17ff9baae8702889428bfd6> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Hilario de Poitiers"^^xsd:string ;
+	dbp:address "calle luis chamizo 7"^^xsd:string ;
+	dbp:district "LATINA"^^xsd:string ;
+	dbp:latitude "40.38654718095017"^^xsd:float ;
+	dbp:longitude "-3.7658625807637525"^^xsd:float ;
+	dbp:phoneNumber "917 650 821"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=62d48aa6bd91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Latina_(Madrid)> .
+
+<http://www.madridonyou.es/resources/c5f5c23be1b71adb51ea9dc8e9d444a8> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Ignacio de Loyola"^^xsd:string ;
+	dbp:address "calle pinos alta 79"^^xsd:string ;
+	dbp:district "TETUAN"^^xsd:string ;
+	dbp:latitude "40.468565866733734"^^xsd:float ;
+	dbp:longitude "-3.6989311423195184"^^xsd:float ;
+	dbp:phoneNumber "913 153 302"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=dd82ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Tetuan_(Madrid)> .
+
+<http://www.madridonyou.es/resources/8487e01fbaf43e758c17f86472cbf3e6> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Ildefonso y Santos Justo y Pastor"^^xsd:string ;
+	dbp:address "calle colon 16"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.42386432820311"^^xsd:float ;
+	dbp:longitude "-3.7017217786628307"^^xsd:float ;
+	dbp:phoneNumber "915 220 860"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=60a2ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/50cf0763d8eb871776d4f28b39deb564> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Ireneo"^^xsd:string ;
+	dbp:address "calle carlota o'neill 26"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.443043847037785"^^xsd:float ;
+	dbp:longitude "-3.6494251662051975"^^xsd:float ;
+	dbp:phoneNumber "913 677 727"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=f2b2ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/db98dc0dbafde48e8f74c0de001d35e4> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Isidoro y San Pedro Claver"^^xsd:string ;
+	dbp:address "calle balaguer 1"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:latitude "40.47116011484349"^^xsd:float ;
+	dbp:longitude "-3.6511705107261823"^^xsd:float ;
+	dbp:phoneNumber "913 831 443"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=85c2ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> .
+
+<http://www.madridonyou.es/resources/018dd1e07a2de4a08e6612341bf2323e> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Isidro Labrador"^^xsd:string ;
+	dbp:address "calle parque eugenia de montijo 54"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.37851572353142"^^xsd:float ;
+	dbp:longitude "-3.7514232625433643"^^xsd:float ;
+	dbp:phoneNumber "914 621 304"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=18d2ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/7c220a2091c26a7f5e9f1cfb099511e3> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Jaime"^^xsd:string ;
+	dbp:address "calle juan jose martinez seco 54"^^xsd:string ;
+	dbp:district "VILLAVERDE"^^xsd:string ;
+	dbp:latitude "40.35148579491901"^^xsd:float ;
+	dbp:longitude "-3.688147368960391"^^xsd:float ;
+	dbp:phoneNumber "917 979 535"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=aae2ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Villaverde_(Madrid)> .
+
+<http://www.madridonyou.es/resources/e250c59336b505ed411d455abaa30b4d> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Jenaro"^^xsd:string ;
+	dbp:address "calle vital aza 81"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.433901372590746"^^xsd:float ;
+	dbp:longitude "-3.6377948138217833"^^xsd:float ;
+	dbp:phoneNumber "913 672 238"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=3df2ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/69b09198d4248b8f24494f27a01367b9> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Jeronimo el Real (Los Jeronimos)"^^xsd:string ;
+	dbp:address "calle moreto 4"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:latitude "40.41435509318014"^^xsd:float ;
+	dbp:longitude "-3.690531846398855"^^xsd:float ;
+	dbp:phoneNumber "914 203 078 "^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=cf03ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/f11bec1411101c743f64df596773d0b2> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Joaquin"^^xsd:string ;
+	dbp:address "calle amposta 24"^^xsd:string ;
+	dbp:district "SAN BLAS-CANILLEJAS"^^xsd:string ;
+	dbp:latitude "40.425594096303556"^^xsd:float ;
+	dbp:longitude "-3.6214245911710283"^^xsd:float ;
+	dbp:phoneNumber "913 130 145"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5223ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/San_Blas-Canillejas> .
+
+<http://www.madridonyou.es/resources/0ae1dd3954ee840075de1395771b6c9c> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Jorge"^^xsd:string ;
+	dbp:address "calle padre damian 22"^^xsd:string ;
+	dbp:district "CHAMARTIN"^^xsd:string ;
+	dbp:latitude "40.455891271634634"^^xsd:float ;
+	dbp:longitude "-3.686734728579395"^^xsd:float ;
+	dbp:phoneNumber "914 582 531"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=e433ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/page/Chamartin_(Madrid)> .
+
+<http://www.madridonyou.es/resources/900c563bfd2c48c16701acca83ad858a> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Jose"^^xsd:string ;
+	dbp:address "calle alcala 43"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.41904792380414"^^xsd:float ;
+	dbp:longitude "-3.6966856794698795"^^xsd:float ;
+	dbp:phoneNumber "915 226 784"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=e41a0713fb71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/414a7497190eaef6b5d75d5a6a11afcf> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Jose de Calasanz"^^xsd:string ;
+	dbp:address "calle imagen 12"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.384493380359146"^^xsd:float ;
+	dbp:longitude "-3.666935091842646"^^xsd:float ;
+	dbp:phoneNumber "914 778 315"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7743ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/1216c80c345fd073952e021e86387b3c> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Jose Maria Escriva de Balaguer"^^xsd:string ;
+	dbp:address "calle ganimedes 19"^^xsd:string ;
+	dbp:district "MONCLOA-ARAVACA"^^xsd:string ;
+	dbp:latitude "40.46603358226542"^^xsd:float ;
+	dbp:longitude "-3.7860032500253666"^^xsd:float ;
+	dbp:phoneNumber "913 575 565"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=a0b7a1bd396e9110VgnVCM2000000c205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Moncloa-Aravaca> .
+
+<http://www.madridonyou.es/resources/ebf12cb74e96e67e63783d93c534ef27> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Jose Obrero"^^xsd:string ;
+	dbp:address "calle julio antonio 3"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.382840349062946"^^xsd:float ;
+	dbp:longitude "-3.7302890287830914"^^xsd:float ;
+	dbp:phoneNumber "914 657 274"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0a53ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/05edf455cb266ccb3ea3ac2715f87326> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Juan Bautista"^^xsd:string ;
+	dbp:address "calle faustina pe&ntilde;alver 1"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.45278137219362"^^xsd:float ;
+	dbp:longitude "-3.659189384942855"^^xsd:float ;
+	dbp:phoneNumber "914 135 171"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9c63ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/6acc0d64d756bbb169a55c43c192b40b> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Juan Bautista de la Concepcion"^^xsd:string ;
+	dbp:address "calle camarena 57"^^xsd:string ;
+	dbp:district "LATINA"^^xsd:string ;
+	dbp:latitude "40.395022148365726"^^xsd:float ;
+	dbp:longitude "-3.7552948542232087"^^xsd:float ;
+	dbp:phoneNumber "917 195 134"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=66235f463b81c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Latina_(Madrid)> .
+
+<http://www.madridonyou.es/resources/e6e713296627dff6475085cc6a224464> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Juan Bosco"^^xsd:string ;
+	dbp:address "calle doctor larra y cerezo 9"^^xsd:string ;
+	dbp:district "LATINA"^^xsd:string ;
+	dbp:latitude "40.410134369605316"^^xsd:float ;
+	dbp:longitude "-3.735097948426098"^^xsd:float ;
+	dbp:phoneNumber "914 634 189"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=2f73ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Latina_(Madrid)> .
+
+<http://www.madridonyou.es/resources/477b02d99dd6c00c5ba852bb9a9e1f6c> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Juan Crisostomo"^^xsd:string ;
+	dbp:address "calle domenico scarlatti 2"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:latitude "40.441838983283944"^^xsd:float ;
+	dbp:longitude "-3.7161407988931483"^^xsd:float ;
+	dbp:phoneNumber "915 495 328"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=772a0713fb71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Chamberi> .
+
+<http://www.madridonyou.es/resources/d04d42cdf14579cd294e5079e0745411> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Juan de avila"^^xsd:string ;
+	dbp:address "calle fornillos 5"^^xsd:string ;
+	dbp:district "USERA"^^xsd:string ;
+	dbp:latitude "40.382717533912206"^^xsd:float ;
+	dbp:longitude "-3.7138885312540326"^^xsd:float ;
+	dbp:phoneNumber "914 693 307"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=b193ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Usera> .
+
+<http://www.madridonyou.es/resources/6346dc723395e1ee8ef57f4883be4cb4> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Juan de Dios"^^xsd:string ;
+	dbp:address "calle monte de montjuich 19"^^xsd:string ;
+	dbp:district "VILLA DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.3807925678668"^^xsd:float ;
+	dbp:longitude "-3.614556896185747"^^xsd:float ;
+	dbp:phoneNumber "913 013 421"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=44a3ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Villa_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/7fcc48d22804dbbe9b66b607d51389d4> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Juan de la Cruz"^^xsd:string ;
+	dbp:address "plaza san juan de la cruz 2"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:latitude "40.44099515864825"^^xsd:float ;
+	dbp:longitude "-3.693480968127322"^^xsd:float ;
+	dbp:phoneNumber "915 339 417"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0a3a0713fb71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Chamberi> .
+
+<http://www.madridonyou.es/resources/2517756c5a9be6ac007fe9bb7fb92611> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Lorenzo"^^xsd:string ;
+	dbp:address "calle doctor piga 2"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.40875465706089"^^xsd:float ;
+	dbp:longitude "-3.6989955651926554"^^xsd:float ;
+	dbp:phoneNumber "915 273 461"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9c4a0713fb71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/252a3dbaeb32e7690242ad3b556e626b> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Lucas"^^xsd:string ;
+	dbp:address "plaza paloma de la paz 1"^^xsd:string ;
+	dbp:district "VILLAVERDE"^^xsd:string ;
+	dbp:latitude "40.34287594435619"^^xsd:float ;
+	dbp:longitude "-3.6876595507400585"^^xsd:float ;
+	dbp:phoneNumber "917 972 609"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=3624ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Villaverde_(Madrid)> .
+
+<http://www.madridonyou.es/resources/6e16656a6ee1de7232164767ccfa7920> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Luis de los Franceses"^^xsd:string ;
+	dbp:address "calle lagasca 89"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:latitude "40.43210112425737"^^xsd:float ;
+	dbp:longitude "-3.684771362675984"^^xsd:float ;
+	dbp:phoneNumber "914 355 160"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=2f5a0713fb71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> .
+
+<http://www.madridonyou.es/resources/630b7d8dd49a0bab667498f287d68c16> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Luis Gonzaga"^^xsd:string ;
+	dbp:address "calle martires de la ventilla 103"^^xsd:string ;
+	dbp:district "TETUAN"^^xsd:string ;
+	dbp:latitude "40.471648788293514"^^xsd:float ;
+	dbp:longitude "-3.6941383152556804"^^xsd:float ;
+	dbp:phoneNumber "913 152 073"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c834ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Tetuan_(Madrid)> .
+
+<http://www.madridonyou.es/resources/9b9b05072dd20d1cc3e54607b84c889b> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Manuel y San Benito"^^xsd:string ;
+	dbp:address "calle alcala 83"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:latitude "40.42074217866137"^^xsd:float ;
+	dbp:longitude "-3.6860471147515685"^^xsd:float ;
+	dbp:phoneNumber "914 357 682"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=b17a0713fb71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> .
+
+<http://www.madridonyou.es/resources/37d0b499fb84a552c17fcbb1442d7895> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Marcos"^^xsd:string ;
+	dbp:address "calle san leonardo 10"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.42476160196848"^^xsd:float ;
+	dbp:longitude "-3.7111617863516715"^^xsd:float ;
+	dbp:phoneNumber "915 471 079 "^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=448a0713fb71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/4baf54f36935058bcc696fcef3f4689b> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Martin de Porres"^^xsd:string ;
+	dbp:address "calle abegondo 28"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:latitude "40.47633616330272"^^xsd:float ;
+	dbp:longitude "-3.6503003188997"^^xsd:float ;
+	dbp:phoneNumber "913 820 494"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5b44ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> .
+
+<http://www.madridonyou.es/resources/c5b270a763686e776039618cc709f3a6> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Mateo"^^xsd:string ;
+	dbp:address "avenida la verbena de la paloma 16"^^xsd:string ;
+	dbp:district "VILLAVERDE"^^xsd:string ;
+	dbp:latitude "40.357941932775155"^^xsd:float ;
+	dbp:longitude "-3.6962447229867457"^^xsd:float ;
+	dbp:phoneNumber "913 171 935"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=ed54ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Villaverde_(Madrid)> .
+
+<http://www.madridonyou.es/resources/856b503e276cc491e7e6e0ac1b9f4b17> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Matias"^^xsd:string ;
+	dbp:address "plaza iglesia 2"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:latitude "40.47278410477163"^^xsd:float ;
+	dbp:longitude "-3.64107636456447"^^xsd:float ;
+	dbp:phoneNumber "917 631 662"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7074ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> .
+
+<http://www.madridonyou.es/resources/5ee0070c40a7c781507b38c59c3eb8d4> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Miguel Arcangel de Carabanchel"^^xsd:string ;
+	dbp:address "calle general ricardos 21"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.39637721346998"^^xsd:float ;
+	dbp:longitude "-3.717944871579785"^^xsd:float ;
+	dbp:phoneNumber "914 727 716"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9594ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/0ee8b85a85a49346fdff9665312a5cc4> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Miguel Arcangel de Chamartin"^^xsd:string ;
+	dbp:address "avenida burgos 2"^^xsd:string ;
+	dbp:district "CHAMARTIN"^^xsd:string ;
+	dbp:latitude "40.468931638303765"^^xsd:float ;
+	dbp:longitude "-3.6768290766268428"^^xsd:float ;
+	dbp:phoneNumber "913 020 100"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0384ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/page/Chamartin_(Madrid)> .
+
+<http://www.madridonyou.es/resources/dd7970532bfa1449085b8f43fc39a7d5> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Miguel Arcangel de Fuencarral"^^xsd:string ;
+	dbp:address "calle islas bermudas 28"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:latitude "40.49408934867759"^^xsd:float ;
+	dbp:longitude "-3.688233267356295"^^xsd:float ;
+	dbp:phoneNumber "917 340 692"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=28a4ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> .
+
+<http://www.madridonyou.es/resources/2bf283c05b601f21364d052ca0ec798d> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Miguel de los Santos"^^xsd:string ;
+	dbp:address "calle lopez de hoyos 39"^^xsd:string ;
+	dbp:district "CHAMARTIN"^^xsd:string ;
+	dbp:latitude "40.441150475172854"^^xsd:float ;
+	dbp:longitude "-3.6794627982734913"^^xsd:float ;
+	dbp:phoneNumber "915 635 333"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=bab4ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/page/Chamartin_(Madrid)> .
+
+<http://www.madridonyou.es/resources/dda99de58ff020cfb57fec1404c97003> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Millan y San Cayetano"^^xsd:string ;
+	dbp:address "calle embajadores 15"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.409461123751505"^^xsd:float ;
+	dbp:longitude "-3.705791428982776"^^xsd:float ;
+	dbp:phoneNumber "915 270 790"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=d69a0713fb71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/f20c1bc2bdf4a87617d7324d7b788759> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Nicolas de Bari de los Servitas"^^xsd:string ;
+	dbp:address "plaza san nicolas 6"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.415793260849824"^^xsd:float ;
+	dbp:longitude "-3.7118688527171226"^^xsd:float ;
+	dbp:phoneNumber "915 594 064"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7838f0bde551c010VgnVCM2000000c205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/e2eabaf96372e20a9e3d4b5f83723a61> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Pablo"^^xsd:string ;
+	dbp:address "calle el escritor 25"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.389687015822595"^^xsd:float ;
+	dbp:longitude "-3.653542772631358"^^xsd:float ;
+	dbp:phoneNumber "913 030 175"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=dfd4ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/a098b2eb3138551138d127925d092d67> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Pablo de la Cruz"^^xsd:string ;
+	dbp:address "avenida madro&ntilde;os 40"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:latitude "40.45698546073524"^^xsd:float ;
+	dbp:longitude "-3.6388858099534422"^^xsd:float ;
+	dbp:phoneNumber "913 002 981"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=4dc4ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> .
+
+<http://www.madridonyou.es/resources/cae82d4350cc23aca7fc9ae38dab38ab> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Patricio"^^xsd:string ;
+	dbp:address "calle alejandro gonzalez 12"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:latitude "40.42953463528204"^^xsd:float ;
+	dbp:longitude "-3.6629470987953554"^^xsd:float ;
+	dbp:phoneNumber "917 252 230"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=62f4ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> .
+
+<http://www.madridonyou.es/resources/22c5a901070d1c2ad33e821d071ae97e> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Pedro Advincula"^^xsd:string ;
+	dbp:address "calle sierra gorda 5"^^xsd:string ;
+	dbp:district "VILLA DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.3802481264865"^^xsd:float ;
+	dbp:longitude "-3.620348016062302"^^xsd:float ;
+	dbp:phoneNumber "913 311 222"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=48ddb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Villa_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/7ae11af20803185120e83d3ce4fb4ed7> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Pedro Apostol (Carabanchel)"^^xsd:string ;
+	dbp:address "plaza seis de diciembre 1"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.373567429555585"^^xsd:float ;
+	dbp:longitude "-3.750390601566717"^^xsd:float ;
+	dbp:phoneNumber "915 086 959"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=830eb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/300d1539c3b6aa1793b5678b857732cf> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Pedro Apostol. Calle Orion"^^xsd:string ;
+	dbp:address "calle orion 2"^^xsd:string ;
+	dbp:district "BARAJAS"^^xsd:string ;
+	dbp:latitude "40.47465668024863"^^xsd:float ;
+	dbp:longitude "-3.578121184801616"^^xsd:float ;
+	dbp:phoneNumber "913 056 204"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=4eedb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Barajas_(Madrid)> .
+
+<http://www.madridonyou.es/resources/519626a6bcb58aec01cd1cc6cdb0dbbe> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Pedro Martir de los Padres Dominicos"^^xsd:string ;
+	dbp:address "avenida burgos 204"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:latitude "40.50224958387765"^^xsd:float ;
+	dbp:longitude "-3.659189517802438"^^xsd:float ;
+	dbp:phoneNumber "913 024 246"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=2e953d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> .
+
+<http://www.madridonyou.es/resources/8a057268a74a5f1201285aa667585e15> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Pedro Nolasco"^^xsd:string ;
+	dbp:address "calle do&ntilde;a francisquita 27"^^xsd:string ;
+	dbp:district "VILLAVERDE"^^xsd:string ;
+	dbp:latitude "40.356082791035504"^^xsd:float ;
+	dbp:longitude "-3.699770291408342"^^xsd:float ;
+	dbp:phoneNumber "913 179 572"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c91eb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Villaverde_(Madrid)> .
+
+<http://www.madridonyou.es/resources/0de66105f2620c8d2f1082abe7fbaef0> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Pedro Poveda"^^xsd:string ;
+	dbp:address "avenida camino de santiago 10"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:latitude "40.49866855024185"^^xsd:float ;
+	dbp:longitude "-3.6740241005198735"^^xsd:float ;
+	dbp:phoneNumber "630 842 873"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=4125ebdd8854f410VgnVCM2000000c205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> .
+
+<http://www.madridonyou.es/resources/b5a1d925221b37e2e399f7b319038ba0> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Pedro Regalado y San Jose de Calasanz"^^xsd:string ;
+	dbp:address "plaza pe&ntilde;a gudina 1"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.3867371429162"^^xsd:float ;
+	dbp:longitude "-3.6637172457005978"^^xsd:float ;
+	dbp:phoneNumber "917 862 230"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=f43eb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/2da6cc4a5d3a7ee43c1b3af99267ed17> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Pio X"^^xsd:string ;
+	dbp:address "calle doctor casal 9"^^xsd:string ;
+	dbp:district "MONCLOA-ARAVACA"^^xsd:string ;
+	dbp:latitude "40.42673075126026"^^xsd:float ;
+	dbp:longitude "-3.733404209361858"^^xsd:float ;
+	dbp:phoneNumber "915 472 127"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=fa4eb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Moncloa-Aravaca> .
+
+<http://www.madridonyou.es/resources/07845cd9aefa6cde3f8926d25138a3a2> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Rafael Arcangel"^^xsd:string ;
+	dbp:address "calle isla de saipan 35"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:latitude "40.475748885061186"^^xsd:float ;
+	dbp:longitude "-3.7305161163525526"^^xsd:float ;
+	dbp:phoneNumber "913 739 400"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=a16eb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> .
+
+<http://www.madridonyou.es/resources/ece4ce6461d6c3b196a58981cb97e27a> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Rafael Arnaiz"^^xsd:string ;
+	dbp:address "calle octavio paz 2"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:latitude "40.48999784668903"^^xsd:float ;
+	dbp:longitude "-3.6575356472619203"^^xsd:float ;
+	dbp:phoneNumber "917 048 661"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=4742ebdd8854f410VgnVCM2000000c205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> .
+
+<http://www.madridonyou.es/resources/9627c45df543c816a3ddf2d8ea686a99> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Raimundo de Penafort"^^xsd:string ;
+	dbp:address "calle esteban carros 35"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.37401627968452"^^xsd:float ;
+	dbp:longitude "-3.657408165038576"^^xsd:float ;
+	dbp:phoneNumber "917 857 017"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=997eb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/e761813f83dfc86fa1c6e0da5510c3b8> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Ramon Nonato"^^xsd:string ;
+	dbp:address "calle melquiades biencinto 10"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.397227380925486"^^xsd:float ;
+	dbp:longitude "-3.6693349561194504"^^xsd:float ;
+	dbp:phoneNumber "914 339 301"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7995ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/828752f77ada1b8badf688bb8be59f9d> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Ricardo"^^xsd:string ;
+	dbp:address "calle gaztambide 22"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:latitude "40.433428408805845"^^xsd:float ;
+	dbp:longitude "-3.7155210177417177"^^xsd:float ;
+	dbp:phoneNumber "915 432 291"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5a9eb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/page/Chamartin_(Madrid)> .
+
+<http://www.madridonyou.es/resources/1ea97de85eb634d580161c603422437f> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Romualdo"^^xsd:string ;
+	dbp:address "calle ascao 30"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.42999396282743"^^xsd:float ;
+	dbp:longitude "-3.6405991175956873"^^xsd:float ;
+	dbp:phoneNumber "913 675 135"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=96ceb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/f095cedd23b99f1696fc8caecbcf257e> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Roque"^^xsd:string ;
+	dbp:address "calle abolengo 10"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.38913511955554"^^xsd:float ;
+	dbp:longitude "-3.7363776865741594"^^xsd:float ;
+	dbp:phoneNumber "914 616 210"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9cdeb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/898aef0932f6aaecda27aba8e9903991> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Sebastian"^^xsd:string ;
+	dbp:address "calle atocha 39"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.41350544318075"^^xsd:float ;
+	dbp:longitude "-3.701472719930406"^^xsd:float ;
+	dbp:phoneNumber "914 291 361"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5e0fb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/acb5d1120b8a0b8d3d97905ba9a72dc4> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Sebastian Martir"^^xsd:string ;
+	dbp:address "plaza parroquia 1"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.380040400811396"^^xsd:float ;
+	dbp:longitude "-3.7413207215629054"^^xsd:float ;
+	dbp:phoneNumber "914 628 536"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=97feb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/c90e274d55309db944076afb3ff9c391> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Simon y San Judas"^^xsd:string ;
+	dbp:address "avenida orcasur 0"^^xsd:string ;
+	dbp:district "USERA"^^xsd:string ;
+	dbp:latitude "40.37038446580724"^^xsd:float ;
+	dbp:longitude "-3.70056603706231"^^xsd:float ;
+	dbp:phoneNumber "913 178 059"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=092fb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Usera> .
+
+<http://www.madridonyou.es/resources/d880067f879409df09ac50ba315707aa> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Timoteo"^^xsd:string ;
+	dbp:address "calle sierra de gredos 26"^^xsd:string ;
+	dbp:district "VILLA DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.37919610256715"^^xsd:float ;
+	dbp:longitude "-3.6266526817915965"^^xsd:float ;
+	dbp:phoneNumber "913 311 222"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c84fb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Villa_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/4b26dc4663ccf960c8538d595d0a1d3a> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Valentin y San Casimiro"^^xsd:string ;
+	dbp:address "calle villajimena 75"^^xsd:string ;
+	dbp:district "VICALVARO"^^xsd:string ;
+	dbp:latitude "40.407097827485586"^^xsd:float ;
+	dbp:longitude "-3.606275317900553"^^xsd:float ;
+	dbp:phoneNumber "913 718 941"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0e5fb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Vicalvaro> .
+
+<http://www.madridonyou.es/resources/9308b0d6e5898366a4a986bc33f3d3e7> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Vicente de Paul"^^xsd:string ;
+	dbp:address "plaza san vicente de paul 1"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.3853810852385"^^xsd:float ;
+	dbp:longitude "-3.725969104633047"^^xsd:float ;
+	dbp:phoneNumber "915 693 818"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=047fb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/0b105cf1504c4e241fcc6d519ea962fb> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Vicente Ferrer"^^xsd:string ;
+	dbp:address "calle ibiza 43"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:latitude "40.4182359609083"^^xsd:float ;
+	dbp:longitude "-3.6725370704183042"^^xsd:float ;
+	dbp:phoneNumber "915 041 521"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=4a8fb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/943aa0fcda4ee2901a7de9321663b114> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia San Victor"^^xsd:string ;
+	dbp:address "calle ramon gomez de la serna 101"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:latitude "40.48222205249464"^^xsd:float ;
+	dbp:longitude "-3.726905188579619"^^xsd:float ;
+	dbp:phoneNumber "913 736 764"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=75afb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> .
+
+<http://www.madridonyou.es/resources/91d0dbfd38d950cb716c4dd26c5da08a> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Adela"^^xsd:string ;
+	dbp:address "calle san faustino 6"^^xsd:string ;
+	dbp:district "SAN BLAS-CANILLEJAS"^^xsd:string ;
+	dbp:latitude "40.44715519402989"^^xsd:float ;
+	dbp:longitude "-3.609111502480519"^^xsd:float ;
+	dbp:phoneNumber "917 421 921"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7bbfb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/San_Blas-Canillejas> .
+
+<http://www.madridonyou.es/resources/63a7769efbcc83107e5e385ccc6429de> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Ana y Nuestra Senora de la Esperanza"^^xsd:string ;
+	dbp:address "calle ca&ntilde;ada 35"^^xsd:string ;
+	dbp:district "MORATALAZ"^^xsd:string ;
+	dbp:latitude "40.405419690009424"^^xsd:float ;
+	dbp:longitude "-3.645021156304465"^^xsd:float ;
+	dbp:phoneNumber "914 303 298"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=71dfb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Moratalaz> .
+
+<http://www.madridonyou.es/resources/d594b1a945b5d645e59e21f88bd2d83b> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa angela de la Cruz"^^xsd:string ;
+	dbp:address "calle cesar manrique 7"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:latitude "40.47262213558603"^^xsd:float ;
+	dbp:longitude "-3.7205729912660668"^^xsd:float ;
+	dbp:phoneNumber "913 733 691"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=b7efb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> .
+
+<http://www.madridonyou.es/resources/97108695bd93b6be52fa0334874c8722> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Barbara"^^xsd:string ;
+	dbp:address "calle general casta&ntilde;os 2"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.42428879388528"^^xsd:float ;
+	dbp:longitude "-3.6940873878242177"^^xsd:float ;
+	dbp:phoneNumber "913 194 811"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=6effb069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/f34185c4ca5d58e781d4f14173d41e5d> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Beatriz"^^xsd:string ;
+	dbp:address "calle concejal francisco jose jimenez martin 130"^^xsd:string ;
+	dbp:district "LATINA"^^xsd:string ;
+	dbp:latitude "40.400403986918796"^^xsd:float ;
+	dbp:longitude "-3.7478367537776114"^^xsd:float ;
+	dbp:phoneNumber "914 647 066"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9c10b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Latina_(Madrid)> .
+
+<http://www.madridonyou.es/resources/758be1f9f7a7efac938ed8bd97c0e1cb> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Bibiana"^^xsd:string ;
+	dbp:address "calle alcocer 9"^^xsd:string ;
+	dbp:district "VILLAVERDE"^^xsd:string ;
+	dbp:latitude "40.350247042735425"^^xsd:float ;
+	dbp:longitude "-3.6964246403270287"^^xsd:float ;
+	dbp:phoneNumber "917 965 881"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=4630b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Villaverde_(Madrid)> .
+
+<http://www.madridonyou.es/resources/e1fc9c082df6cfff8cbcfff2b5a722ef> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Casilda"^^xsd:string ;
+	dbp:address "calle parador del sol 10"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.393347659705874"^^xsd:float ;
+	dbp:longitude "-3.709593988018716"^^xsd:float ;
+	dbp:phoneNumber "915 691 090"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=4c40b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/f2bff080785c76aa81dbaffce7dea0ad> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Catalina de Alejandria"^^xsd:string ;
+	dbp:address "calle rambla 5"^^xsd:string ;
+	dbp:district "BARAJAS"^^xsd:string ;
+	dbp:latitude "40.45782898468129"^^xsd:float ;
+	dbp:longitude "-3.5956445930957286"^^xsd:float ;
+	dbp:phoneNumber "917 426 437"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=4260b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Barajas_(Madrid)> .
+
+<http://www.madridonyou.es/resources/7e8d7e5ccbddfd9576be61e3ab86aa73> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Catalina de Siena"^^xsd:string ;
+	dbp:address "calle juan de urbieta 57"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:latitude "40.408677099665184"^^xsd:float ;
+	dbp:longitude "-3.6741272429417076"^^xsd:float ;
+	dbp:phoneNumber "915 512 507"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=8770b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/56503192b14190d3826780d47c0d3bf3> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Catalina Laboure"^^xsd:string ;
+	dbp:address "calle arroyo opa&ntilde;el 29"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.38739838831175"^^xsd:float ;
+	dbp:longitude "-3.7203237047626203"^^xsd:float ;
+	dbp:phoneNumber "914 699 179"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=bd80b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/88855547570f7ff053fff7c54e5148cc> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Cecilia"^^xsd:string ;
+	dbp:address "calle medina de pomar 11"^^xsd:string ;
+	dbp:district "BARAJAS"^^xsd:string ;
+	dbp:latitude "40.45198463362452"^^xsd:float ;
+	dbp:longitude "-3.5845663868554682"^^xsd:float ;
+	dbp:phoneNumber "917 475 814"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=2fa0b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Barajas_(Madrid)> .
+
+<http://www.madridonyou.es/resources/735143e9ff8c47def504f1ba0442df98> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Cristina"^^xsd:string ;
+	dbp:address "paseo extremadura 32"^^xsd:string ;
+	dbp:district "LATINA"^^xsd:string ;
+	dbp:latitude "40.41383727525878"^^xsd:float ;
+	dbp:longitude "-3.7279485176578415"^^xsd:float ;
+	dbp:phoneNumber "914 644 970"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=25c0b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Latina_(Madrid)> .
+
+<http://www.madridonyou.es/resources/39cd7b469beae7c617c73e0d008195ef> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Cruz"^^xsd:string ;
+	dbp:address "calle atocha 6"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.414608558946085"^^xsd:float ;
+	dbp:longitude "-3.705255882048698"^^xsd:float ;
+	dbp:phoneNumber "913 691 239"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=40e0b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/0a348ede8ac3768875037baca5de6e26> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Elena"^^xsd:string ;
+	dbp:address "calle orfila 1"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:latitude "40.427437349794005"^^xsd:float ;
+	dbp:longitude "-3.6933534811225455"^^xsd:float ;
+	dbp:phoneNumber "913 191 875"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=67f0b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Chamberi> .
+
+<http://www.madridonyou.es/resources/7d2be41b1bde6ff8fe45150c37488ebb> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Eugenia"^^xsd:string ;
+	dbp:address "calle virgen de las vi&ntilde;as 17"^^xsd:string ;
+	dbp:district "VILLA DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.38025586201322"^^xsd:float ;
+	dbp:longitude "-3.6087206082757124"^^xsd:float ;
+	dbp:phoneNumber "917 650 362"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=2e01b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Villa_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/0141a8aedb1b53970fac7c81dac79fbe> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Eulalia de Merida"^^xsd:string ;
+	dbp:address "calle pedroches 5"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.3796743689357"^^xsd:float ;
+	dbp:longitude "-3.669903376835299"^^xsd:float ;
+	dbp:phoneNumber "917 858 383"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9621b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/0ffaca95e3e5242ba1097ad8a9a6e95d> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Feliciana"^^xsd:string ;
+	dbp:address "calle trafalgar 19"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:latitude "40.43197737572386"^^xsd:float ;
+	dbp:longitude "-3.700910096265308"^^xsd:float ;
+	dbp:phoneNumber "914 489 905"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=e041b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Chamberi> .
+
+<http://www.madridonyou.es/resources/98afdcc1ebd85daa0f1749c5e56b9d8c> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Florentina"^^xsd:string ;
+	dbp:address "calle longares 8"^^xsd:string ;
+	dbp:district "SAN BLAS-CANILLEJAS"^^xsd:string ;
+	dbp:latitude "40.43142237577199"^^xsd:float ;
+	dbp:longitude "-3.6096886871893625"^^xsd:float ;
+	dbp:phoneNumber "913 133 663"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=e651b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/San_Blas-Canillejas> .
+
+<http://www.madridonyou.es/resources/afab3e9707435d6b0888b566d7ad3ff8> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Gema"^^xsd:string ;
+	dbp:address "calle leizaran 24"^^xsd:string ;
+	dbp:district "CHAMARTIN"^^xsd:string ;
+	dbp:latitude "40.447894125461964"^^xsd:float ;
+	dbp:longitude "-3.681688718771783"^^xsd:float ;
+	dbp:phoneNumber "915 635 068"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0d61b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/page/Chamartin_(Madrid)> .
+
+<http://www.madridonyou.es/resources/196f5641aa9dc87067da4ff90fd81e7b> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Ines"^^xsd:string ;
+	dbp:address "avenida real de pinto 72"^^xsd:string ;
+	dbp:district "VILLAVERDE"^^xsd:string ;
+	dbp:latitude "40.34287492199279"^^xsd:float ;
+	dbp:longitude "-3.707251624305595"^^xsd:float ;
+	dbp:phoneNumber "917 967 181"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0981b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Villaverde_(Madrid)> .
+
+<http://www.madridonyou.es/resources/e6ba70fc093b4ce912d769ede1ceeba8> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Irene"^^xsd:string ;
+	dbp:address "calle andaluces 7"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.390597911831264"^^xsd:float ;
+	dbp:longitude "-3.638858903756565"^^xsd:float ;
+	dbp:phoneNumber "917 771 719"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0f91b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/67606d48e361ce176ca71fd54fcf4286> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Luisa de Marillac"^^xsd:string ;
+	dbp:address "avenida abrantes 111"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.378874834395646"^^xsd:float ;
+	dbp:longitude "-3.7305289359271807"^^xsd:float ;
+	dbp:phoneNumber "914 691 960"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=05b1b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/87d330ffc62865e862522896d08dc162> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maravillas de Jesus"^^xsd:string ;
+	dbp:address "calle morales 64"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.36186553356243"^^xsd:float ;
+	dbp:longitude "-3.765371191569051"^^xsd:float ;
+	dbp:phoneNumber "917 524 136"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0a0b25a10f92a110VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/da6ea77475918a3d83c7e49223d453cc> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Margarita Maria de Alacoque"^^xsd:string ;
+	dbp:address "calle jaime vera 33"^^xsd:string ;
+	dbp:district "LATINA"^^xsd:string ;
+	dbp:latitude "40.40980649816479"^^xsd:float ;
+	dbp:longitude "-3.7285415133975706"^^xsd:float ;
+	dbp:phoneNumber "914 649 930"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0bc1b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Latina_(Madrid)> .
+
+<http://www.madridonyou.es/resources/d3802b1dc0d80d8a3c8ccc6ccc068e7c> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria"^^xsd:string ;
+	dbp:address "avenida burgos 12"^^xsd:string ;
+	dbp:district "CHAMARTIN"^^xsd:string ;
+	dbp:latitude "40.473848069808064"^^xsd:float ;
+	dbp:longitude "-3.6757105430292083"^^xsd:float ;
+	dbp:phoneNumber "917 680 725"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=bb04b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/page/Chamartin_(Madrid)> .
+
+<http://www.madridonyou.es/resources/abdeb6f575ac5c6676b747bca8d09cc2> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria de Cervellon"^^xsd:string ;
+	dbp:address "calle belisana 2"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.45749636314002"^^xsd:float ;
+	dbp:longitude "-3.657029970531773"^^xsd:float ;
+	dbp:phoneNumber "913 002 902"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=01e1b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/228b25587479f2fc7570428e8bcbabdc> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria de Fontarron"^^xsd:string ;
+	dbp:address "calle ramon perez de ayala 32"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.3989148850395"^^xsd:float ;
+	dbp:longitude "-3.6530899391430474"^^xsd:float ;
+	dbp:phoneNumber "914 302 351"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=e9f1b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/b89c30965ebc74912de879f22da62dbf> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria de la Cabeza"^^xsd:string ;
+	dbp:address "ronda segovia 1"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.41328418324546"^^xsd:float ;
+	dbp:longitude "-3.716981257691412"^^xsd:float ;
+	dbp:phoneNumber "913 658 518"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=4b12b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/e7e69cdf28f8ce6b69b4e1853ee21bab> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria de la Caridad"^^xsd:string ;
+	dbp:address "calle fermin caballero 39"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:latitude "40.48486511548358"^^xsd:float ;
+	dbp:longitude "-3.7045276665663915"^^xsd:float ;
+	dbp:phoneNumber "917 306 851"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=8132b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> .
+
+<http://www.madridonyou.es/resources/8d7628dd7a710c8638dbd22d4421ee46> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria de la Esperanza"^^xsd:string ;
+	dbp:address "calle fermin caballero 53"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:latitude "40.483080303551255"^^xsd:float ;
+	dbp:longitude "-3.7076474197617926"^^xsd:float ;
+	dbp:phoneNumber "917 392 222"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9942b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> .
+
+<http://www.madridonyou.es/resources/62e7f2e090fe150ef8deb4466fdc81b3> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria de la Fe"^^xsd:string ;
+	dbp:address "calle puerto de maspalomas 16"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:latitude "40.47880850659646"^^xsd:float ;
+	dbp:longitude "-3.713761015315405"^^xsd:float ;
+	dbp:phoneNumber "913 860 220"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7362b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> .
+
+<http://www.madridonyou.es/resources/967990de5b3eac7b87d49a13c6834978> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria de Martala"^^xsd:string ;
+	dbp:address "calle fobos 2"^^xsd:string ;
+	dbp:district "MORATALAZ"^^xsd:string ;
+	dbp:latitude "40.40882802221503"^^xsd:float ;
+	dbp:longitude "-3.6347295106313413"^^xsd:float ;
+	dbp:phoneNumber "913 713 294"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7972b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Moratalaz> .
+
+<http://www.madridonyou.es/resources/62dc49db76fbc6abfc0617ced6c53441> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria de Nazaret"^^xsd:string ;
+	dbp:address "calle ca&ntilde;ada del santisimo 27"^^xsd:string ;
+	dbp:district "VILLA DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.36648844495459"^^xsd:float ;
+	dbp:longitude "-3.596900948645162"^^xsd:float ;
+	dbp:phoneNumber "627 071 241"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=98e83af83a54f410VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Villa_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/c0e8517b1fe0b5270f3f41d4b56d6118> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria del Bosque"^^xsd:string ;
+	dbp:address "calle manuel uribe 1"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.4644800965384"^^xsd:float ;
+	dbp:longitude "-3.6645998357162135"^^xsd:float ;
+	dbp:phoneNumber "913 000 646"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7f82b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/52c409f1571f500e28f490a302a12540> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria del Buen Aire"^^xsd:string ;
+	dbp:address "calle encomienda de palacios 192"^^xsd:string ;
+	dbp:district "MORATALAZ"^^xsd:string ;
+	dbp:latitude "40.39940241336233"^^xsd:float ;
+	dbp:longitude "-3.641640649015935"^^xsd:float ;
+	dbp:phoneNumber "917 730 363"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=75a2b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Moratalaz> .
+
+<http://www.madridonyou.es/resources/6a450490f238b4ddff085d66a916a206> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria del Camino"^^xsd:string ;
+	dbp:address "calle encomienda de palacios 334"^^xsd:string ;
+	dbp:district "MORATALAZ"^^xsd:string ;
+	dbp:latitude "40.39643929309246"^^xsd:float ;
+	dbp:longitude "-3.634954876493032"^^xsd:float ;
+	dbp:phoneNumber "917 721 569"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=bbb2b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Moratalaz> .
+
+<http://www.madridonyou.es/resources/4cf33e18ede11b79827bc78b7f2075ae> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria del Monte Carmelo"^^xsd:string ;
+	dbp:address "calle ayala 35"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:latitude "40.42777634196356"^^xsd:float ;
+	dbp:longitude "-3.683324619190937"^^xsd:float ;
+	dbp:phoneNumber "914 351 660"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=e6d2b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> .
+
+<http://www.madridonyou.es/resources/d87ca511e2a8593c8039ef732f5bffed> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria del Parque"^^xsd:string ;
+	dbp:address "calle santa virgilia 13"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:latitude "40.47725595734675"^^xsd:float ;
+	dbp:longitude "-3.6420862978327064"^^xsd:float ;
+	dbp:phoneNumber "917 631 228"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5ee2b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> .
+
+<http://www.madridonyou.es/resources/c4fa7aecedac73641320d24d5bf3bf38> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria del Pilar"^^xsd:string ;
+	dbp:address "calle reyes magos 3"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:latitude "40.412100206424185"^^xsd:float ;
+	dbp:longitude "-3.674184973880875"^^xsd:float ;
+	dbp:phoneNumber "915 748 120"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=2603b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/6add07cf50424b14fdf649da87843d01> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria del Pinar"^^xsd:string ;
+	dbp:address "calle jazmin 7"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.478908015024125"^^xsd:float ;
+	dbp:longitude "-3.666936492853305"^^xsd:float ;
+	dbp:phoneNumber "913 024 071"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=2c13b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/d8c9d05ec6e86d5bbad7a2f88a1701d0> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria del Pozo y Santa Marta"^^xsd:string ;
+	dbp:address "calle montanchez 13"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.374533733474344"^^xsd:float ;
+	dbp:longitude "-3.669287042842154"^^xsd:float ;
+	dbp:phoneNumber "917 861 189"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5733b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/6463c88460bd63bbe256e495c63aa40b> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria del Silencio"^^xsd:string ;
+	dbp:address "calle raimundo fernandez villaverde 18"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:latitude "40.44645379827357"^^xsd:float ;
+	dbp:longitude "-3.70108404423672"^^xsd:float ;
+	dbp:phoneNumber "915 546 236"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9c43b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Chamberi> .
+
+<http://www.madridonyou.es/resources/4da9d7b6d119db4d2d564a2197798380> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria del Val"^^xsd:string ;
+	dbp:address "avenida monforte de lemos 115"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:latitude "40.478227081663015"^^xsd:float ;
+	dbp:longitude "-3.708693644369923"^^xsd:float ;
+	dbp:phoneNumber "917 309 461"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0863b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> .
+
+<http://www.madridonyou.es/resources/76eb00f477ae2074b42f9c5045ae4001> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria Josefa del Corazon de Jesus"^^xsd:string ;
+	dbp:address "avenida la gavia 25"^^xsd:string ;
+	dbp:district "VILLA DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.372717994646166"^^xsd:float ;
+	dbp:longitude "-3.611609383129395"^^xsd:float ;
+	dbp:phoneNumber "914 254 468"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=54aca0752bf0e510VgnVCM2000001f4a900aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Villa_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/69f357fcc8e6d119f3d95f33cedb5915> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria La Antigua"^^xsd:string ;
+	dbp:address "calle virgen de la antigua 9"^^xsd:string ;
+	dbp:district "VICALVARO"^^xsd:string ;
+	dbp:latitude "40.40172520926162"^^xsd:float ;
+	dbp:longitude "-3.6051665218853537"^^xsd:float ;
+	dbp:phoneNumber """917 765 202
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9e73b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Vicalvaro> .
+
+<http://www.madridonyou.es/resources/dce8af15f064d1accb98887a21029b08> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria la Blanca"^^xsd:string ;
+	dbp:address "plaza villa de canillejas 1"^^xsd:string ;
+	dbp:district "SAN BLAS-CANILLEJAS"^^xsd:string ;
+	dbp:latitude "40.44521583994072"^^xsd:float ;
+	dbp:longitude "-3.6112755082967087"^^xsd:float ;
+	dbp:phoneNumber "917 410 355"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c993b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/San_Blas-Canillejas> .
+
+<http://www.madridonyou.es/resources/d6a053393e63924b227e7a4a32af838a> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria la Blanca de Montecarmelo"^^xsd:string ;
+	dbp:address "calle monasterio de oseira 25"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:latitude "40.512079203751064"^^xsd:float ;
+	dbp:longitude "-3.695912476173436"^^xsd:float ;
+	dbp:phoneNumber "914 109 815"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9d058aa6bd91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> .
+
+<http://www.madridonyou.es/resources/60a0575ee6ce460e1d86c0e9d281c4f1> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria la Mayor y San Julian"^^xsd:string ;
+	dbp:address "calle cenicientos 1"^^xsd:string ;
+	dbp:district "TETUAN"^^xsd:string ;
+	dbp:latitude "40.45775176629402"^^xsd:float ;
+	dbp:longitude "-3.705411974831119"^^xsd:float ;
+	dbp:phoneNumber "913 114 170"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=3328ff632081c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Tetuan_(Madrid)> .
+
+<http://www.madridonyou.es/resources/78d69f40906679a976dc4d45cebffbe6> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria la Real de la Almudena"^^xsd:string ;
+	dbp:address "calle mayor 90"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.41521119054696"^^xsd:float ;
+	dbp:longitude "-3.7142200549476727"^^xsd:float ;
+	dbp:phoneNumber "915 480 930"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0fa3b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/a05d886123a54de3ca4b0985b718fb9b> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria Madre de la Iglesia"^^xsd:string ;
+	dbp:address "calle gomez de arteche 30"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.36881495577835"^^xsd:float ;
+	dbp:longitude "-3.7566394279327944"^^xsd:float ;
+	dbp:phoneNumber "915 082 374"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=45c3b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/774b0e07753b0b94d1a1c5b0543b5fe1> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria Magdalena"^^xsd:string ;
+	dbp:address "calle dracena 23"^^xsd:string ;
+	dbp:district "CHAMARTIN"^^xsd:string ;
+	dbp:latitude "40.46340992767375"^^xsd:float ;
+	dbp:longitude "-3.67051044011457"^^xsd:float ;
+	dbp:phoneNumber "913 454 938"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=4bd3b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/page/Chamartin_(Madrid)> .
+
+<http://www.madridonyou.es/resources/f95ec3de395b4bce25b39ef6138da871> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Maria Micaela y San Enrique"^^xsd:string ;
+	dbp:address "calle san german  23"^^xsd:string ;
+	dbp:district "TETUAN"^^xsd:string ;
+	dbp:latitude "40.45622644488271"^^xsd:float ;
+	dbp:longitude "-3.696963415991364"^^xsd:float ;
+	dbp:phoneNumber "915 794 269"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=80f3b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Tetuan_(Madrid)> .
+
+<http://www.madridonyou.es/resources/ecdcd675b3a4cbb5578baf72f255ec21> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Matilde"^^xsd:string ;
+	dbp:address "calle lopez de hoyos 166"^^xsd:string ;
+	dbp:district "CHAMARTIN"^^xsd:string ;
+	dbp:latitude "40.446483072284444"^^xsd:float ;
+	dbp:longitude "-3.670330403563394"^^xsd:float ;
+	dbp:phoneNumber "914 132 820"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=b124b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/page/Chamartin_(Madrid)> .
+
+<http://www.madridonyou.es/resources/1305f6c705349316360c3ccfe7cfe847> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Monica"^^xsd:string ;
+	dbp:address "calle principe de vergara 87"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:latitude "40.43628582493575"^^xsd:float ;
+	dbp:longitude "-3.6794256146633564"^^xsd:float ;
+	dbp:phoneNumber "914 118 960"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=ed34b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> .
+
+<http://www.madridonyou.es/resources/ba304f3809ed31d0ad97b5a2b5df2a39> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Paula"^^xsd:string ;
+	dbp:address "carretera canillas 115"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:latitude "40.46656008335928"^^xsd:float ;
+	dbp:longitude "-3.6392360327935314"^^xsd:float ;
+	dbp:phoneNumber "913 811 266"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=e354b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> .
+
+<http://www.madridonyou.es/resources/818de4d2ec21cfcb149ced7a5bed25ab> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Rita"^^xsd:string ;
+	dbp:address "calle gaztambide 75"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:latitude "40.43845634670502"^^xsd:float ;
+	dbp:longitude "-3.715373878141743"^^xsd:float ;
+	dbp:phoneNumber "915 490 133"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=e964b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Chamberi> .
+
+<http://www.madridonyou.es/resources/1d2a48c55f6f10010887cc7d849469a1> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Rosa de Lima"^^xsd:string ;
+	dbp:address "calle via carpetana 47"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.39885593724936"^^xsd:float ;
+	dbp:longitude "-3.733537635392138"^^xsd:float ;
+	dbp:phoneNumber "914 281 170"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9084b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/e1228be46de6a0234ac22ded31417bc7> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Rosalia"^^xsd:string ;
+	dbp:address "calle las pedro&ntilde;eras 13"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:latitude "40.465866687242666"^^xsd:float ;
+	dbp:longitude "-3.6309843583716894"^^xsd:float ;
+	dbp:phoneNumber "913 001 988"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=ad94b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> .
+
+<http://www.madridonyou.es/resources/dc0dc766db0c00c16549ad56d594d247> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Teresa Benedicta de la Cruz"^^xsd:string ;
+	dbp:address "calle senda del infante 22"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:latitude "40.48948949494469"^^xsd:float ;
+	dbp:longitude "-3.7201515921425043"^^xsd:float ;
+	dbp:phoneNumber "913 763 479"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=b3cf6fdb2541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> .
+
+<http://www.madridonyou.es/resources/92ba9f87fede33e30cde0525ac27ce50> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Teresa de Calcuta"^^xsd:string ;
+	dbp:address "calle minerva 58"^^xsd:string ;
+	dbp:district "VICALVARO"^^xsd:string ;
+	dbp:latitude "40.39677413854557"^^xsd:float ;
+	dbp:longitude "-3.6061355724326614"^^xsd:float ;
+	dbp:phoneNumber "917 768 162"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=3b898142a0d6e410VgnVCM2000000c205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Vicalvaro> .
+
+<http://www.madridonyou.es/resources/6754e06e46dfa419d5afe3c9781cecad> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Teresa y San Jose"^^xsd:string ;
+	dbp:address "plaza espa&ntilde;a 14"^^xsd:string ;
+	dbp:district "MONCLOA-ARAVACA"^^xsd:string ;
+	dbp:latitude "40.4225775509256"^^xsd:float ;
+	dbp:longitude "-3.714710539571387"^^xsd:float ;
+	dbp:phoneNumber "915 479 105"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=a3b4b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Moncloa-Aravaca> .
+
+<http://www.madridonyou.es/resources/57f04bb2975420e3b4c73920c687cad7> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santa Teresa y Santa Isabel"^^xsd:string ;
+	dbp:address "glorieta pintor sorolla 2"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:latitude "40.43507812578093"^^xsd:float ;
+	dbp:longitude "-3.699150189888235"^^xsd:float ;
+	dbp:phoneNumber "914 483 620"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=6fc4b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/page/Chamberi> .
+
+<http://www.madridonyou.es/resources/842424a1d0595b76ec4fa03c46e8d755> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santas Justa y Rufina"^^xsd:string ;
+	dbp:address "calle santa aurea 7"^^xsd:string ;
+	dbp:district "LATINA"^^xsd:string ;
+	dbp:latitude "40.40716308851109"^^xsd:float ;
+	dbp:longitude "-3.7348299146743167"^^xsd:float ;
+	dbp:phoneNumber "914 639 960"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=a5e4b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Latina_(Madrid)> .
+
+<http://www.madridonyou.es/resources/cff02a74da64d145a4aed3a577a106ab> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santas Perpetua y Felicidad"^^xsd:string ;
+	dbp:address "calle santa felicidad 1"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.42668923239821"^^xsd:float ;
+	dbp:longitude "-3.6499987334929016"^^xsd:float ;
+	dbp:phoneNumber "914 052 783"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=a105b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/9426c311e76888b3b2368150cd05f362> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santiago el Mayor y Nuestra Senora de las Cruces"^^xsd:string ;
+	dbp:address "calle santa cruz de marcenado 11"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.42866052669565"^^xsd:float ;
+	dbp:longitude "-3.708550322183878"^^xsd:float ;
+	dbp:phoneNumber "915 426 582"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=ac15b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/0084ae4bc24c0795d1e6a4f58444d39b> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santiago y San Juan Bautista"^^xsd:string ;
+	dbp:address "plaza santiago 24"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.41652031892383"^^xsd:float ;
+	dbp:longitude "-3.7108392672110684"^^xsd:float ;
+	dbp:phoneNumber "915 480 824"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=e235b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/f23d125da1e29e34c552f448610ff25f> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santisima Trinidad"^^xsd:string ;
+	dbp:address "calle martinez villergas 8"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.439847970639065"^^xsd:float ;
+	dbp:longitude "-3.6522124629579524"^^xsd:float ;
+	dbp:phoneNumber "914 047 391"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0f45b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/e91068fff3d7fa1594dfdf3b4308433a> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santisimo Cristo de la Esperanza"^^xsd:string ;
+	dbp:address "calle misterios 38"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.441281010385794"^^xsd:float ;
+	dbp:longitude "-3.64245135622082"^^xsd:float ;
+	dbp:phoneNumber "913 670 208"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7665b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/d38ee19a4815c4aeba48227913092a6e> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santisimo Cristo de la Guia - San Juan de Sahagun"^^xsd:string ;
+	dbp:address "camino viejo de vicalvaro 18"^^xsd:string ;
+	dbp:district "VICALVARO"^^xsd:string ;
+	dbp:latitude "40.40501123774939"^^xsd:float ;
+	dbp:longitude "-3.615837754707104"^^xsd:float ;
+	dbp:phoneNumber "917 767 301"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=6385b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Vicalvaro> .
+
+<http://www.madridonyou.es/resources/b7fede84c2be02ccb9c77107956560eb> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santisimo Cristo de la Salud"^^xsd:string ;
+	dbp:address "calle ayala 12"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:latitude "40.4278378287955"^^xsd:float ;
+	dbp:longitude "-3.688146901277836"^^xsd:float ;
+	dbp:phoneNumber "914 359 803"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c0a5b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> .
+
+<http://www.madridonyou.es/resources/8ed36a8485e30937b99c0d247e9c3832> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santisimo Cristo de la Victoria"^^xsd:string ;
+	dbp:address "calle blasco de garay 33"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:latitude "40.43360527552804"^^xsd:float ;
+	dbp:longitude "-3.7116793866842746"^^xsd:float ;
+	dbp:phoneNumber "915 437 657"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=a1b53d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Chamberi> .
+
+<http://www.madridonyou.es/resources/2974788b53f73e7950e8aa49f3a306db> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santisimo Cristo del Amor"^^xsd:string ;
+	dbp:address "calle rafael finat 46"^^xsd:string ;
+	dbp:district "LATINA"^^xsd:string ;
+	dbp:latitude "40.378656476172964"^^xsd:float ;
+	dbp:longitude "-3.771097909474073"^^xsd:float ;
+	dbp:phoneNumber "917 064 939"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=8cc53d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Latina_(Madrid)> .
+
+<http://www.madridonyou.es/resources/ddf9029977a61241841edeae15e9b53f> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santisimo Redentor"^^xsd:string ;
+	dbp:address "calle felix boix 13"^^xsd:string ;
+	dbp:district "CHAMARTIN"^^xsd:string ;
+	dbp:latitude "40.46336374850606"^^xsd:float ;
+	dbp:longitude "-3.6860559380181925"^^xsd:float ;
+	dbp:phoneNumber "913 453 600"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=bfd53d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/page/Chamartin_(Madrid)> .
+
+<http://www.madridonyou.es/resources/f3c89b7be367aa4246f90aa007efe525> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santisimo Sacramento"^^xsd:string ;
+	dbp:address "calle alcalde sainz de baranda 3"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:latitude "40.4171617249341"^^xsd:float ;
+	dbp:longitude "-3.6775358654754835"^^xsd:float ;
+	dbp:phoneNumber "915 733 204"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5c063d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/ddcbe25988981920c872c1787382f04d> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santo Cristo de la Misericordia"^^xsd:string ;
+	dbp:address "calle numancia 8"^^xsd:string ;
+	dbp:district "TETUAN"^^xsd:string ;
+	dbp:latitude "40.454665855235916"^^xsd:float ;
+	dbp:longitude "-3.712078453348987"^^xsd:float ;
+	dbp:phoneNumber "914 504 847"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5f163d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Tetuan_(Madrid)> .
+
+<http://www.madridonyou.es/resources/6d6968d87c240c699190e2d8c029fa9d> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santo Cristo del Olivar"^^xsd:string ;
+	dbp:address "calle ca&ntilde;izares 4"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.413107854258804"^^xsd:float ;
+	dbp:longitude "-3.70166895865617"^^xsd:float ;
+	dbp:phoneNumber "913 693 000"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=52363d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/0060ef47b12160b9198302ebdb144dcf> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santo Domingo de Guzman"^^xsd:string ;
+	dbp:address "calle camarena 183"^^xsd:string ;
+	dbp:district "LATINA"^^xsd:string ;
+	dbp:latitude "40.38760029746739"^^xsd:float ;
+	dbp:longitude "-3.755046991390931"^^xsd:float ;
+	dbp:phoneNumber "917 182 713"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=fd0d0713fb71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Latina_(Madrid)> .
+
+<http://www.madridonyou.es/resources/6c91724b896cdcf48285039ab05b3aaf> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santo Domingo de la Calzada"^^xsd:string ;
+	dbp:address "canada real galiana 4"^^xsd:string ;
+	dbp:district "VILLA DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.35747277692355"^^xsd:float ;
+	dbp:longitude "-3.5640940621195476"^^xsd:float ;
+	dbp:phoneNumber "695 792 209"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=55463d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Villa_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/ba036d228858d76fb89189853a5503bd> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santo Domingo Savio"^^xsd:string ;
+	dbp:address "calle santo domingo savio 2"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.430416107246955"^^xsd:float ;
+	dbp:longitude "-3.634295811440002"^^xsd:float ;
+	dbp:phoneNumber "913 683 105"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=58563d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/5c80985bd40b8ce792f8c786bb23fe54> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santo Nino de Cebu"^^xsd:string ;
+	dbp:address "calle lucio del valle 4"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:latitude "40.44009015462179"^^xsd:float ;
+	dbp:longitude "-3.707538371382549"^^xsd:float ;
+	dbp:phoneNumber "915 331 033"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=1b663d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Chamberi> .
+
+<http://www.madridonyou.es/resources/39ea40e164f970c54b0530436d5a9f7a> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santo Tomas Apostol"^^xsd:string ;
+	dbp:address "calle fernando gabriel 18"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.424663059741754"^^xsd:float ;
+	dbp:longitude "-3.6368941477562604"^^xsd:float ;
+	dbp:phoneNumber "917 545 505"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=1e763d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/781397bc0630d47ab531ea850bddcf63> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santo Tomas de Villanueva"^^xsd:string ;
+	dbp:address "calle leoneses 6"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.38238562242698"^^xsd:float ;
+	dbp:longitude "-3.647852675119803"^^xsd:float ;
+	dbp:phoneNumber "913 038 646"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=11963d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/5fef3eff51dc719c4a9f565a742d78f2> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santos Apostoles Felipe y Santiago el Menor"^^xsd:string ;
+	dbp:address "calle poeta blas de otero 79"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.4222373281895"^^xsd:float ;
+	dbp:longitude "-3.6518537374797626"^^xsd:float ;
+	dbp:phoneNumber "913 554 246"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=14a63d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/ca851e9f71b25d2d588b7e0d4de3d627> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santos Cosme y Damian"^^xsd:string ;
+	dbp:address "calle ramirez tome 22"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:latitude "40.389761241361015"^^xsd:float ;
+	dbp:longitude "-3.648359291453027"^^xsd:float ;
+	dbp:phoneNumber "917 774 769"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=d6b63d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> .
+
+<http://www.madridonyou.es/resources/a8166da05c5a094f7dc03724b41886e5> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santos Inocentes"^^xsd:string ;
+	dbp:address "calle embajadores 209"^^xsd:string ;
+	dbp:district "ARGANZUELA"^^xsd:string ;
+	dbp:latitude "40.38714034837897"^^xsd:float ;
+	dbp:longitude "-3.690253823821967"^^xsd:float ;
+	dbp:phoneNumber "915 396 644"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=99c63d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Arganzuela> .
+
+<http://www.madridonyou.es/resources/8baca01b732cf56f7ce83df216514363> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Santos Justo y Pastor"^^xsd:string ;
+	dbp:address "plaza dos de mayo 11"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.42667642437817"^^xsd:float ;
+	dbp:longitude "-3.7044741914350965"^^xsd:float ;
+	dbp:phoneNumber "915 217 925"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=dcd63d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/8abfe8ac9ec214d68541fcb888c0b4c3> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Transfiguracion del Senor"^^xsd:string ;
+	dbp:address "calle isabelita usera 34"^^xsd:string ;
+	dbp:district "USERA"^^xsd:string ;
+	dbp:latitude "40.3834839413912"^^xsd:float ;
+	dbp:longitude "-3.7079235781732676"^^xsd:float ;
+	dbp:phoneNumber "914 751 875"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9fe63d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Usera> .
+
+<http://www.madridonyou.es/resources/f92586a25bb3145facd64ab20fd554ff> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen de La Candelaria"^^xsd:string ;
+	dbp:address "plaza nuestra senora de la candelaria 1"^^xsd:string ;
+	dbp:district "SAN BLAS-CANILLEJAS"^^xsd:string ;
+	dbp:latitude "40.43193943055567"^^xsd:float ;
+	dbp:longitude "-3.6141262628461504"^^xsd:float ;
+	dbp:phoneNumber "913 203 905"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=92073d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/San_Blas-Canillejas> .
+
+<http://www.madridonyou.es/resources/4764f37856fc727f70b666b8d0c4ab7a> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen de La Fuensanta"^^xsd:string ;
+	dbp:address "calle san filiberto 9"^^xsd:string ;
+	dbp:district "USERA"^^xsd:string ;
+	dbp:latitude "40.38573108884355"^^xsd:float ;
+	dbp:longitude "-3.7146154582435367"^^xsd:float ;
+	dbp:phoneNumber "914 696 877"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=15173d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Usera> .
+
+<http://www.madridonyou.es/resources/aba18772fc70c8cbf79a79f413ef102b> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen de La Nueva"^^xsd:string ;
+	dbp:address "calle calanda 28"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:latitude "40.46228317076973"^^xsd:float ;
+	dbp:longitude "-3.642061657641845"^^xsd:float ;
+	dbp:phoneNumber "913 002 127"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=18273d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> .
+
+<http://www.madridonyou.es/resources/7553e94d39fd4649ff75386a83ed3789> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen de La Oliva"^^xsd:string ;
+	dbp:address "calle castillo de simancas 1"^^xsd:string ;
+	dbp:district "SAN BLAS-CANILLEJAS"^^xsd:string ;
+	dbp:latitude "40.4287339302711"^^xsd:float ;
+	dbp:longitude "-3.6272301391916852"^^xsd:float ;
+	dbp:phoneNumber "913 043 762"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=1b373d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/San_Blas-Canillejas> .
+
+<http://www.madridonyou.es/resources/d0aa518d4d3bfc721aa0b8ab4ef32269> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen de La Paloma y San Pedro el Real"^^xsd:string ;
+	dbp:address "calle toledo 98"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.40814049050016"^^xsd:float ;
+	dbp:longitude "-3.7110693007323374"^^xsd:float ;
+	dbp:phoneNumber "913 654 669"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5e473d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/d2d2c6e2445eef2bcff6bf0fdf69846c> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen de La Providencia y San Cayetano"^^xsd:string ;
+	dbp:address "calle ferrer del rio 18"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:latitude "40.43443807055464"^^xsd:float ;
+	dbp:longitude "-3.6718731697725486"^^xsd:float ;
+	dbp:phoneNumber "917 262 422"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=51673d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> .
+
+<http://www.madridonyou.es/resources/56db57b4db0a6fcb7f9e0c0b504f6472> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen de Lluc"^^xsd:string ;
+	dbp:address "calle virgen del sagrario 22"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.436064349534234"^^xsd:float ;
+	dbp:longitude "-3.648980715764547"^^xsd:float ;
+	dbp:phoneNumber "914 083 545 "^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=54773d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/34ffeb359a192eb8174b6854643cc046> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen de Los Llanos"^^xsd:string ;
+	dbp:address "plaza virgen de los llanos 1"^^xsd:string ;
+	dbp:district "LATINA"^^xsd:string ;
+	dbp:latitude "40.377239028819616"^^xsd:float ;
+	dbp:longitude "-3.779610495432089"^^xsd:float ;
+	dbp:phoneNumber "917 058 471"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=57873d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Latina_(Madrid)> .
+
+<http://www.madridonyou.es/resources/240c945bb72980130446fc2b40fbb8e0> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen de Los Remedios"^^xsd:string ;
+	dbp:address "calle tomasa ruiz 8"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:latitude "40.396014279260996"^^xsd:float ;
+	dbp:longitude "-3.711071332498309"^^xsd:float ;
+	dbp:phoneNumber "915 698 947"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5a973d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> .
+
+<http://www.madridonyou.es/resources/87ae6fb631f7c8a627e8e28785d9992d> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen de Nuria"^^xsd:string ;
+	dbp:address "calle juan de urbieta 5"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:latitude "40.403887392280765"^^xsd:float ;
+	dbp:longitude "-3.6782158948830608"^^xsd:float ;
+	dbp:phoneNumber "915 520 297"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=357aff632081c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/a928731e103dfc64c0027fa84709689e> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen del Castillo"^^xsd:string ;
+	dbp:address "avenida san luis 42"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:latitude "40.473561352383825"^^xsd:float ;
+	dbp:longitude "-3.6503089389917607"^^xsd:float ;
+	dbp:phoneNumber "917 644 486"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=dda73d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> .
+
+<http://www.madridonyou.es/resources/7d2a383e54274888b4b73b97e1aaa491> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen del Coro"^^xsd:string ;
+	dbp:address "calle virgen de la alegria 12"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:latitude "40.4337147571673"^^xsd:float ;
+	dbp:longitude "-3.656645165415626"^^xsd:float ;
+	dbp:phoneNumber "914 032 935"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=85c73d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> .
+
+<http://www.madridonyou.es/resources/2cfa3753d6a524711acb5fce38eeca1a> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen del Cortijo"^^xsd:string ;
+	dbp:address "calle ona 91"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:latitude "40.48774033383058"^^xsd:float ;
+	dbp:longitude "-3.663189118552132"^^xsd:float ;
+	dbp:phoneNumber "917 663 081"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=88d73d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> .
+
+<http://www.madridonyou.es/resources/5505712229fb1eb500efadddc0353264> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen del Mar"^^xsd:string ;
+	dbp:address "calle peones 2"^^xsd:string ;
+	dbp:district "SAN BLAS-CANILLEJAS"^^xsd:string ;
+	dbp:latitude "40.42655202493092"^^xsd:float ;
+	dbp:longitude "-3.617507770548038"^^xsd:float ;
+	dbp:phoneNumber "913 069 753"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=81f73d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/San_Blas-Canillejas> .
+
+<http://www.madridonyou.es/resources/1b32a022c52c0c6255c2a32e580be34f> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen del Refugio y Santa Lucia"^^xsd:string ;
+	dbp:address "calle manresa 60"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:latitude "40.491863823601186"^^xsd:float ;
+	dbp:longitude "-3.694311178526011"^^xsd:float ;
+	dbp:phoneNumber "917 342 045"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=67088c7c0f91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> .
+
+<http://www.madridonyou.es/resources/e36286b94d3c219f414e0427e5f73aa5> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Virgen Peregrina"^^xsd:string ;
+	dbp:address "calle diego de leon 36"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:latitude "40.43469027180194"^^xsd:float ;
+	dbp:longitude "-3.6811191182941503"^^xsd:float ;
+	dbp:phoneNumber "914 111 212"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=82288c7c0f91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> .
+
+<http://www.madridonyou.es/resources/9e740b84bb48a64dde25061566299467> a dbo:ReligiousBuilding ;
+	dbp:name "Parroquia Visitacion de Nuestra Senora"^^xsd:string ;
+	dbp:address "calle pico de los artilleros 82"^^xsd:string ;
+	dbp:district "MORATALAZ"^^xsd:string ;
+	dbp:latitude "40.407302967830155"^^xsd:float ;
+	dbp:longitude "-3.6400892956674387"^^xsd:float ;
+	dbp:phoneNumber "917 733 705"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=b5388c7c0f91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Moratalaz> .
+
+<http://www.madridonyou.es/resources/8814014ad4978bb4915cfb2c67f2cf33> a dbo:ReligiousBuilding ;
+	dbp:name "Primer Monasterio de la Visitacion (Las Salesas)"^^xsd:string ;
+	dbp:address "calle santa engracia 20"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:latitude "40.43022928515631"^^xsd:float ;
+	dbp:longitude "-3.6964945333521664"^^xsd:float ;
+	dbp:phoneNumber "914 487 822"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=21a13d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Chamberi> .
+
+<http://www.madridonyou.es/resources/72007983849f4fcb0ad565439834756b> a dbo:ReligiousBuilding ;
+	dbp:name "Real Basilica Nuestra Senora de Atocha"^^xsd:string ;
+	dbp:address "calle julian gayarre 1"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:latitude "40.40572253343359"^^xsd:float ;
+	dbp:longitude "-3.68326652731545"^^xsd:float ;
+	dbp:phoneNumber "914 344 020"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=b22413db5b71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/82b0639a82d0cc70b8f5830fd2b06868> a dbo:ReligiousBuilding ;
+	dbp:name "Real Basilica San Francisco el Grande"^^xsd:string ;
+	dbp:address "calle san buenaventura 1"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.41084005024222"^^xsd:float ;
+	dbp:longitude "-3.714503845728281"^^xsd:float ;
+	dbp:phoneNumber "913 653 800 "^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=ef8d0713fb71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/69f268fb2ba1068615b3219c6e8f57e8> a dbo:ReligiousBuilding ;
+	dbp:name "Real Monasterio de la Encarnacion"^^xsd:string ;
+	dbp:address "plaza encarnacion 1"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.41967800877382"^^xsd:float ;
+	dbp:longitude "-3.711567962866152"^^xsd:float ;
+	dbp:phoneNumber "914 548 700 (Informacion general)"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=72ad0713fb71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/a1a7320289e653d6d6eb49e143fc6bac> a dbo:ReligiousBuilding ;
+	dbp:name "Real Monasterio de Santa Isabel"^^xsd:string ;
+	dbp:address "calle santa isabel 48"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.41213027498252"^^xsd:float ;
+	dbp:longitude "-3.6994547941964946"^^xsd:float ;
+	dbp:phoneNumber "914 548 700 (Informacion general)"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=545b544a249c6110VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/75df63609809c7a2052fdffe5c00a84e> a dbo:ReligiousBuilding ;
+	dbp:name "Real Oratorio del Caballero de Gracia"^^xsd:string ;
+	dbp:address "calle caballero de gracia 5"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.41953675995833"^^xsd:float ;
+	dbp:longitude "-3.700769178078419"^^xsd:float ;
+	dbp:phoneNumber "915 326 937 / 915 240 664"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=ef153d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/a7bdd222ec7bbc3ca2c481a0b630b268> a dbo:ReligiousBuilding ;
+	dbp:name "Santuario Nuestra Senora de los Peligros"^^xsd:string ;
+	dbp:address "calle joaquin costa 49"^^xsd:string ;
+	dbp:district "CHAMARTIN"^^xsd:string ;
+	dbp:latitude "40.44225176356738"^^xsd:float ;
+	dbp:longitude "-3.682150539114885"^^xsd:float ;
+	dbp:phoneNumber "915 613 241"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=8d3a8c7c0f91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/page/Chamartin_(Madrid)> .
+
+<http://www.madridonyou.es/resources/3db11d259a9db7fb8965bdf25ec850b9> a dbo:ReligiousBuilding ;
+	dbp:name "Santuario Nuestra Senora de Lourdes"^^xsd:string ;
+	dbp:address "calle fortuny 21"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:latitude "40.430190394656044"^^xsd:float ;
+	dbp:longitude "-3.690964947193256"^^xsd:float ;
+	dbp:phoneNumber "913 197 780"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=4d561e79ee71c010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Chamberi> .
+
+<http://www.madridonyou.es/resources/3316e7da525c16d9392554ad07e119be> a dbo:ReligiousBuilding ;
+	dbp:name "Santuario Nuestra Senora de Sch�nstatt"^^xsd:string ;
+	dbp:address "calle serrano 97"^^xsd:string ;
+	dbp:district "CHAMARTIN"^^xsd:string ;
+	dbp:latitude "40.4382983860259"^^xsd:float ;
+	dbp:longitude "-3.686449566813232"^^xsd:float ;
+	dbp:phoneNumber "915 618 992"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=067f755cf659f010VgnVCM2000000c205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/page/Chamartin_(Madrid)> .
+
+<http://www.madridonyou.es/resources/e1b7ef0c616c251cd499ca72cd7f97df> a dbo:ReligiousBuilding ;
+	dbp:name "Segundo Monasterio de la Visitacion (Las Salesas)"^^xsd:string ;
+	dbp:address "calle san bernardo 72"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:latitude "40.42746767635856"^^xsd:float ;
+	dbp:longitude "-3.7062036161064373"^^xsd:float ;
+	dbp:phoneNumber "915 222 965"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=a4b13d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> .
+
+<http://www.madridonyou.es/resources/cca88ea1152e884c7bc54a8698818782> a dbo:ReligiousBuilding ;
+	dbp:name "Tercer Monasterio de la Visitacion (Las Salesas)"^^xsd:string ;
+	dbp:address "paseo san francisco de sales 4"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:latitude "40.43969242475297"^^xsd:float ;
+	dbp:longitude "-3.7165307035563613"^^xsd:float ;
+	dbp:phoneNumber "915 333 436"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=67c13d232e91f010VgnVCM1000000b205a0aRCRD> ;
+	dbp:location <http://dbpedia.org/resource/Chamberi> .
