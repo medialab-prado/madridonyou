@@ -1,0 +1,436 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbp: <http://dbpedia.org/property/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://madridonyou.es/resources/a2b7382bb596e34d02d24fb197e653d7> a dbo:Museum ;
+	dbp:name "Casa Museo Lope de Vega"^^xsd:string ;
+	owl:sameAs <http://dbpedia.org/resource/House-Museum_of_Lope_de_Vega> ;
+	dbp:address "calle cervantes 11"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.414358466555235"^^xsd:float ;
+	dbp:longitude "-3.6974741545860015"^^xsd:float ;
+	dbp:phoneNumber "914 299 216"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=4eff8c46145e8110VgnVCM2000000c205a0aRCRD> ;
+	rdfs:comment "Para la visita es  imprescindible reserva anticipada  en:  casamuseolopedevega@madrid.org  o en el telefono: 914 299 216, en horario del museo.  De martes a domingo de 10 a 18 horas.  Cerrado los lunes, dias 1 y 6 de enero, 1 de mayo, 9 de noviembre y 24, 25 y 31 de diciembre.  Este horario puede sufrir alteraciones por actividades extraordinarias que se celebran en este espacio."^^xsd:string .
+
+<http://madridonyou.es/resources/48361618e16f4608602887058e49074f> a dbo:Museum ;
+	dbp:name "Castillo de la Alameda"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Castillo_de_La_Alameda> ;
+	dbp:address "calle antonio sancha 1"^^xsd:string ;
+	dbp:district "BARAJAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Barajas_(Madrid)> ;
+	dbp:latitude "40.45835460563491"^^xsd:float ;
+	dbp:longitude "-3.5932903820278788"^^xsd:float ;
+	dbp:phoneNumber """913 667 415                                                                         
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=fe43c4be8e688210VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "Abierto fines de semana y festivos (incluso los lunes festivos)  De 1 de abril a 15 de junio y de 15 de septiembre a 30 de septiembre: sabados, domingos y festivos de 10 a 21 horas.  De 16 de junio a 15 de septiembre: sabados, domingos y festivos de 10 a 20 horas.  De octubre a marzo: sabados, domingos y festivos de 10 a 18 horas.  Cerrado: 24, 25, 31 de diciembre, 1 de enero, 6 de enero, 1 de mayo."^^xsd:string .
+
+<http://madridonyou.es/resources/f8bf09f5fceaea80e1f864a1b48938bf> a dbo:Museum ;
+	dbp:name "Cason del Buen Retiro"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Casón_del_Buen_Retiro> ;
+	dbp:address "calle alfonso xii 28"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> ;
+	dbp:latitude "40.415263749471535"^^xsd:float ;
+	dbp:longitude "-3.689232811717636"^^xsd:float ;
+	dbp:phoneNumber "913 302 828 / 913 302 009"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=f0443d0b5e71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "Mananas     De lunes a jueves, de 9 a 15 h (Servicio de libros y otros materiales hasta las 14:30 horas)    Viernes, de 9 a 14:30 horas (Servicio de libros y otros materiales hasta las 14 h)     Tardes   Lunes y miercoles, de 15 a 18 horas (Servicio de libros y otros materiales hasta las 17:30 horas)   Horario de verano     Desde el 16 de junio al 15 de septiembre, de lunes a viernes, de 9 a 14:30 horas"^^xsd:string .
+
+<http://madridonyou.es/resources/1621144014ea9a814b61ec88edd0cc36> a dbo:Museum ;
+	dbp:name "Centro Social y Cultural La Casa Encendida"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/La_Casa_Encendida> ;
+	dbp:address "ronda valencia 2"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.40595710517701"^^xsd:float ;
+	dbp:longitude "-3.699779793558763"^^xsd:float ;
+	dbp:phoneNumber """902 430 322                                                                 
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c27f8899fc81c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "De martes a domingo de 10 a 22 horas (todos los dias del ano, excepto festividades nacionales y de la Comunidad de Madrid)  Exposiciones: de 10 a 21:45 horas"^^xsd:string .
+
+<http://madridonyou.es/resources/62dff30214c2202abe8fc0a6f1c1086f> a dbo:Museum ;
+	dbp:name "Ermita de San Antonio de la Florida (Museo)"^^xsd:string ;
+	owl:sameAs <http://dbpedia.org/resource/Royal_Chapel_of_St._Anthony_of_La_Florida> ;
+	dbp:address "glorieta san antonio de la florida 5"^^xsd:string ;
+	dbp:district "MONCLOA-ARAVACA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Moncloa-Aravaca> ;
+	dbp:latitude "40.425256682855846"^^xsd:float ;
+	dbp:longitude "-3.725725718176111"^^xsd:float ;
+	dbp:phoneNumber "915 420 722"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=75950204770e7310VgnVCM2000000c205a0aRCRD> ;
+	rdfs:comment "Horario de Verano hasta el 15 de septiembre:  De martes a domingos de 9:30 a 14 horas y de 15 a 19 horas.   Cerrado  los lunes, incluidos festivos, y los dias 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre.   ultimo pase de visita:  20 minutos antes del cierre (el desalojo de las salas comenzara 10 minutos antes)   Por motivos de conservacion, el aforo maximo es de 25 personas en el interior de la capilla.  Los sabados que se celebren visitas animadas para familias se interrumpira la visita durante el desarrollo de las mismas.  Este horario y la apertura de salas pueden sufrir modificaciones."^^xsd:string .
+
+<http://madridonyou.es/resources/333cb763facc6ce398ff83845f224d62> a dbo:Museum ;
+	dbp:name "Monasterio de las Descalzas Reales"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Monasterio_de_las_Descalzas_Reales_(Madrid)> ;
+	dbp:address "plaza descalzas 3"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.418233359889484"^^xsd:float ;
+	dbp:longitude "-3.706213134639163"^^xsd:float ;
+	dbp:phoneNumber """914 548 700                                                             
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=12e113db5b71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "Solo con visita guiada  .     De martes a sabado de 10 a 14 horas y de 16 a 18:30 horas  Domingos y festivos, de 10 a 15 horas. Cerrado los lunes"^^xsd:string .
+
+<http://madridonyou.es/resources/aebf7782a3d445f43cf30ee2c0d84dee> a dbo:Museum ;
+	dbp:name "Museo Arqueologico Nacional"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_Arqueológico_Nacional_(España)> ;
+	dbp:address "calle serrano 13"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.42327763947072"^^xsd:float ;
+	dbp:longitude "-3.688418705931963"^^xsd:float ;
+	dbp:phoneNumber """915 777 912                                                                     
+                                                                                     
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=8fd8ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "De martes a sabados de 9:30 a 20 horas  Domingos y festivos de 9:30 a 15 horas    Cerrado    Todos los lunes del ano.  1 y 6 de enero, 1de mayo y 24, 25 y 31 de diciembre.    Horario de cierre de las taquillas:  15 minutos antes del cierre del Museo.   Dias festivos 2017. Horario 9.30 a 15 horas:   13 y 14 de abril; 2 de mayo;15 de agosto; 12 de octubre; 1 de noviembre; 9 de noviembre; 6 de diciembre; 8 de diciembre."^^xsd:string .
+
+<http://madridonyou.es/resources/fdeea652a89ec3e970d22a86698ac8c4> a dbo:Museum ;
+	dbp:name "Museo Cerralbo"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_Cerralbo> ;
+	dbp:address "calle ventura rodriguez 17"^^xsd:string ;
+	dbp:district "MONCLOA-ARAVACA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Moncloa-Aravaca> ;
+	dbp:latitude "40.42376732078657"^^xsd:float ;
+	dbp:longitude "-3.7146170388153497"^^xsd:float ;
+	dbp:phoneNumber "915 473 646 / 47"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=a4efb0c40971c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "De martes a sabado de 9:30 a 15 horas.  Jueves de 17 a 20 horas, excepto festivos.  Domingos y festivos de 10 a 15 horas.  Cerrado:  Todos los lunes.  1 y 6 de enero.  1 de mayo.  24, 25 y 31 de diciembre.  Por fiesta local."^^xsd:string .
+
+<http://madridonyou.es/resources/1f4fe6a4411edc2ff625888b4093e917> a dbo:Museum ;
+	dbp:name "Museo Geominero"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Museo_Geominero> ;
+	dbp:address "calle rios rosas 23"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Chamberí> ;
+	dbp:latitude "40.442047952073665"^^xsd:float ;
+	dbp:longitude "-3.699670468881422"^^xsd:float ;
+	dbp:phoneNumber "913 495 759"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=ff0bef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "De lunes a domingo y festivos de 9 a 14 horas  Cerrado los dias 1 y 6 de enero y 24, 25 y 31 de diciembre  Visitas guiadas para grupos de lunes a viernes, previa peticion cita"^^xsd:string .
+
+<http://madridonyou.es/resources/f3e52c300b822a8123e7ace55fe15c08> a dbo:Museum ;
+	dbp:name "Museo Lazaro Galdiano"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_Lázaro_Galdiano> ;
+	dbp:address "calle serrano 122"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.436750328725985"^^xsd:float ;
+	dbp:longitude "-3.6861980129207894"^^xsd:float ;
+	dbp:phoneNumber "915 616 084"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7d1aef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "Martes a sabados de 10 a 16:30 horas.  Domingos de 10 a 15 horas.  Cerrado todos los lunes.  Grupos y visitas guiadas consultar."^^xsd:string .
+
+<http://madridonyou.es/resources/83b012f7208477739018f3cea87a58d9> a dbo:Museum ;
+	dbp:name "Museo Nacional Centro de Arte Reina Sofia (MNCARS)"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa> ;
+	dbp:address "calle santa isabel 52"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.40854131574014"^^xsd:float ;
+	dbp:longitude "-3.6940316511856017"^^xsd:float ;
+	dbp:phoneNumber """917 741 000                                                                                         
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=69d8275bad5a1210VgnVCM2000000c205a0aRCRD> ;
+	rdfs:comment "De lunes a sabado de 10 a 21 horas y domingos de 10 a 19 horas.  Martes cerrado (incluso festivos).  Cerrado 1 y 6 enero, 1 de mayo y 15 de mayo, 9 de noviembre, 24, 25 y 31 de diciembre"^^xsd:string .
+
+<http://madridonyou.es/resources/df4fe8a8bcd5c95cdb640aa9793bb32b> a dbo:Museum ;
+	dbp:name "Museo Nacional de Antropologia"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_Nacional_de_Antropolog%C3%ADa_(Espa%C3%B1a)> ;
+	dbp:address "calle alfonso xii 68"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> ;
+	dbp:latitude "40.407887537677716"^^xsd:float ;
+	dbp:longitude "-3.688862923660605"^^xsd:float ;
+	dbp:phoneNumber "915 306 418 /915 395 995"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=456079262ef5d010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "De martes a sabado de 9:30 a 20 horas.  Domingos y festivos: de 10 a 15 horas.  Cerrado todos los lunes del ano y los dias 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre y un festivo local."^^xsd:string .
+
+<http://madridonyou.es/resources/9afefc52942cb83c7c1f14b2139b09ba> a dbo:Museum ;
+	dbp:name "Museo Nacional de Artes Decorativas"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_Nacional_de_Artes_Decorativas> ;
+	dbp:address "calle montalban 12"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> ;
+	dbp:latitude "40.417891279015194"^^xsd:float ;
+	dbp:longitude "-3.689754685481908"^^xsd:float ;
+	dbp:phoneNumber "915 326 499 / 915 326 845 Reserva actividades infantiles: 910 505 755 Biblioteca: 910 505 768 Atencion a investigadores: 910 505 763"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=287079262ef5d010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "Del 8 de septiembre al 30 de junio:    Martes a sabados de 9:30 a 15 horas.  Domingo y festivos: de 10 a 15 horas.  Jueves tarde de 17 a 20 horas.    Del 5 de julio al 4 de septiembre:    Martes a sabados de 9:30 a 15 horas.  Domingo y festivos: de 10 a 15 horas.    Cerrado:  todos los lunes del ano, 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre y un festivo local."^^xsd:string .
+
+<http://madridonyou.es/resources/a96d3afec184766bfeca7a9f989fc7e7> a dbo:Museum ;
+	dbp:name "Museo Nacional de Ciencias Naturales"^^xsd:string ;
+	owl:sameAs <http://dbpedia.org/page/Museo_Nacional_de_Ciencias_Naturales> ;
+	dbp:address "calle jose gutierrez abascal 2"^^xsd:string ;
+	dbp:district "CHAMARTIN"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Chamartín_(Madrid)> ;
+	dbp:latitude "40.44042007613476"^^xsd:float ;
+	dbp:longitude "-3.690220716379925"^^xsd:float ;
+	dbp:phoneNumber "914 111 328 (centralita)"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=8edbef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "De martes a viernes de 10 a 17 horas.  Sabados, domingos y festivos de 10 a 20 horas.  Sabados y domingos de agosto de 10 a 15 horas.        Cerrado : todos los lunes no festivos, 1 y 6 de enero, 1 de mayo y 25 de diciembre."^^xsd:string .
+
+<http://madridonyou.es/resources/6492d38d732122c58b44e3fdc3e9e9f3> a dbo:Museum ;
+	dbp:name "Museo Naval"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_Naval_de_Madrid> ;
+	dbp:address "paseo prado 5"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> ;
+	dbp:latitude "40.41751289873052"^^xsd:float ;
+	dbp:longitude "-3.692768317427539"^^xsd:float ;
+	dbp:phoneNumber "915 238 516 / 609 467 117 (martes y viernes de 9 a 14 horas) "^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=a30cef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "De martes a domingo de 10 a 19 horas  Cerrado los lunes y los festivos 1 y 6 de enero y 24, 25 y 31 de diciembre  Agosto, martes a domingo de 10 a 15 horas"^^xsd:string .
+
+<http://madridonyou.es/resources/e0a209539d1e74ab9fe46b9e01a19a97> a dbo:Museum ;
+	dbp:name "Museo Postal y Telegrafico"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_Postal_y_Telegr%C3%A1fico> ;
+	dbp:address "calle tapia de casariego 6"^^xsd:string ;
+	dbp:district "MONCLOA-ARAVACA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Moncloa-Aravaca> ;
+	dbp:latitude "40.467706026917405"^^xsd:float ;
+	dbp:longitude "-3.7690721403206724"^^xsd:float ;
+	dbp:phoneNumber "917 400 668 / 917 400 664 (biblioteca)"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c82cef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "Museo: de lunes a viernes de 9 a 14 y de 16 a 18 horas  Biblioteca: de lunes a viernes de 9 a 14 y de 16 a 18 horas"^^xsd:string .
+
+<http://madridonyou.es/resources/52c7aeaf55fdf776714f5c2668bda802> a dbo:Museum ;
+	dbp:name "Museo Sorolla"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_Sorolla> ;
+	dbp:address "paseo general martinez campos 37"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Chamberí> ;
+	dbp:latitude "40.43557863874977"^^xsd:float ;
+	dbp:longitude "-3.6923288211390055"^^xsd:float ;
+	dbp:phoneNumber "913 101 584"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=6dd05e93aad9c110VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "De martes a sabado: de 9:30 a 20 horas   Domingos: de 10 a 15 horas  Cerrado: todos los lunes del ano, 1 de enero, 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre y dos festivos locales."^^xsd:string .
+
+<http://madridonyou.es/resources/978d76676f5e7918f81d28e7d092ca0d> a dbo:Museum ;
+	dbp:name "Museo Thyssen-Bornemisza"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_Thyssen-Bornemisza> ;
+	dbp:address "paseo prado 8"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.41600553697803"^^xsd:float ;
+	dbp:longitude "-3.694744831131079"^^xsd:float ;
+	dbp:phoneNumber """917 911 370                                                                                                                                                                                                                        
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0b8079262ef5d010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "Colecciones permanentes:   lunes de 12 a 16 horas (acceso gratuito gracias al patrocinio de MasterCard). Martes a domingos de 10 a 19 horas.    Exposiciones temporales : consultar horario especifico en Museo.  ultimo acceso 1 hora antes del cierre. El desalojo de todas las salas tendra lugar 5 minutos antes del cierre.   Avisos y aperturas extraordinarias:  los dias 1 de enero, 1 de mayo y 25 de diciembre el Museo permanecera cerrado. El 24 y el 31 de diciembre el horario de apertura del Museo sera de 10 a 15 horas"^^xsd:string .
+
+<http://madridonyou.es/resources/0b1ec366924b26fc98fa7b71a9c249cf> a dbo:Museum ;
+	dbp:name "Museo de America"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_de_Am%C3%A9rica> ;
+	dbp:address "avenida reyes catolicos 6"^^xsd:string ;
+	dbp:district "MONCLOA-ARAVACA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Moncloa-Aravaca> ;
+	dbp:latitude "40.43792950973577"^^xsd:float ;
+	dbp:longitude "-3.72186494128936"^^xsd:float ;
+	dbp:phoneNumber "915 439 437 / 915 492 641"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c929ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "Horario:    De martes a sabado, de 9:30 a 15 horas  Jueves, apertura continuada de 9:30 a 19 horas  Domingos y festivos de 10 a 15 horas    Cerrado:  todos los lunes del ano, dias 1 y 6 de enero, 1 de mayo, dias 24, 25 y 31 de diciembre y un festivo local."^^xsd:string .
+
+<http://madridonyou.es/resources/fb2e203234df6dee15934e448ee88971> a dbo:Museum ;
+	dbp:name "Museo de Escultura al Aire Libre de la Castellana"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_Arte_P%C3%BAblico_de_Madrid> ;
+	dbp:address "paseo castellana 40"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.433219398671156"^^xsd:float ;
+	dbp:longitude "-3.6876122680805956"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=eca9ef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "Entrada libre. Espacio urbano abierto  Abierto 24 horas al dia los 365 dias del ano."^^xsd:string .
+
+<http://madridonyou.es/resources/955cb567b6e38f4c6b3f28cc857fc38c> a dbo:Museum ;
+	dbp:name "Museo de Historia de Madrid"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Museo_de_Historia_de_Madrid> ;
+	dbp:address "calle fuencarral 78"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.42577054821346"^^xsd:float ;
+	dbp:longitude "-3.700845660719608"^^xsd:float ;
+	dbp:phoneNumber "917 011 863"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=8f3079262ef5d010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "HORARIO DE VERANO:  de martes a domingo de 10:00 a 19 horas.  Cerrado : todos los lunes y los dias 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre."^^xsd:string .
+
+<http://madridonyou.es/resources/a29d1598024f9e87beab4b98411d48ce> a dbo:Museum ;
+	dbp:name "Museo de San Isidro. Los Origenes de Madrid"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_de_San_Isidro> ;
+	dbp:address "plaza san andres 1"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.41207900253883"^^xsd:float ;
+	dbp:longitude "-3.7108161027466378"^^xsd:float ;
+	dbp:phoneNumber "913 667 415"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7b7aef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "General:  de martes a domingo y festivos de 9:30 a 20 horas.   16 de junio a 15 de septiembre:  martes a domingo de 10 a 19 horas.   Cerrado:  todos los lunes, 1 y 6 de enero, 1 de mayo y 24, 25 y 31 de diciembre."^^xsd:string .
+
+<http://madridonyou.es/resources/ec3de171b8d5d2c23039d239f4ec19a6> a dbo:Museum ;
+	dbp:name "Museo de la Catedral de la Almudena"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Catedral_de_Santa_Mar%C3%ADa_la_Real_de_la_Almudena_de_Madrid> ;
+	dbp:address "calle bailen 10"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.415538770017406"^^xsd:float ;
+	dbp:longitude "-3.7136931154460564"^^xsd:float ;
+	dbp:phoneNumber "915 592 874"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=82cb8d0e78d22110VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "De lunes a sabado de 10 a 14:30 horas  Cerrado los domingos, fiestas de precepto y dias de actos de culto especiales"^^xsd:string .
+
+<http://madridonyou.es/resources/6f4920ea25403ec77bee9efce43ea25e> a dbo:Museum ;
+	dbp:name "Museo del Ferrocarril de Madrid"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_del_Ferrocarril_de_Madrid> ;
+	dbp:address "paseo delicias 61"^^xsd:string ;
+	dbp:district "ARGANZUELA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Arganzuela> ;
+	dbp:latitude "40.400281290485566"^^xsd:float ;
+	dbp:longitude "-3.693817192160563"^^xsd:float ;
+	dbp:phoneNumber """902 228 822                                                                                                 
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=091c4291ae91f010VgnVCM2000000c205a0aRCRD> ;
+	rdfs:comment "Del 1 de enero al 31 de mayo y del 1 de octubre al 31 de diciembre:    Lunes a jueves, de 9.30 a 15 horas.  Viernes, sabado, domingo y festivos de 10 a 20 horas (el segundo viernes de mes permanecera abierto hasta las 18 horas)    Del 1 de junio al 30 de septiembre   Lunes a domingo, de 10.00 a 15 horas.   Cerrado: 25 de diciembre, 1 y 6 de enero."^^xsd:string .
+
+<http://madridonyou.es/resources/1359aa933b48b754a2f54adb688bfa77> a dbo:Museum ;
+	dbp:name "Museo del Prado"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_del_Prado> ;
+	dbp:address "calle ruiz de alarcon 23"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> ;
+	dbp:latitude "40.41358458131178"^^xsd:float ;
+	dbp:longitude "-3.691325445518223"^^xsd:float ;
+	dbp:phoneNumber "913 302 800"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=060079262ef5d010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "De lunes a sabado de 10 a 20 horas  Domingos y festivos de 10 a 19 horas  Cerrado los dias 1 de enero, 1 de mayo y 25 de diciembre  Horario reducido, de 10 a 14 horas, los dias 6 de enero, 24 y 31 de diciembre  Acceso al museo hasta 30 minutos antes del cierre (el desalojo de las salas comienza 10 minutos antes del cierre)  Horario gratuito, de lunes a sabado de 18 a 20 horas y domingos y festivos de 17 a 19 horas"^^xsd:string .
+
+<http://madridonyou.es/resources/2eace51d8f796d04991c831a07059758> a dbo:Museum ;
+	dbp:name "Museo del Romanticismo"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Museo_Nacional_del_Romanticismo_(Madrid)> ;
+	dbp:address "calle san mateo 13"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.42585510296794"^^xsd:float ;
+	dbp:longitude "-3.6987835425963063"^^xsd:float ;
+	dbp:phoneNumber "914 481 045 / 914 480 163"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=706cef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "Horario de invierno  (de noviembre a abril)  De martes a sabado: de 9:30 a 18:30. Domingos y festivos: de 10 a 15 horas   Horario de verano  (de mayo a octubre)  De martes a sabado: de 9:30 a 20:30. Domingos y festivos: de 10 a 15 horas   Cerrado:  Todos los lunes, 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre."^^xsd:string .
+
+<http://madridonyou.es/resources/bdc4626aa1d1df8e14d80d345b2a442d> a dbo:Museum ;
+	dbp:name "Museo del Traje. Centro de Investigacion del Patrimonio Etnologico (CIPE)"^^xsd:string ;
+	owl:sameAs <http://dbpedia.org/page/Museo_del_Traje> ;
+	dbp:address "avenida juan de herrera 2"^^xsd:string ;
+	dbp:district "MONCLOA-ARAVACA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Moncloa-Aravaca> ;
+	dbp:latitude "40.439657822278555"^^xsd:float ;
+	dbp:longitude "-3.7278378564088275"^^xsd:float ;
+	dbp:phoneNumber "915 504 700 "^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=053c4291ae91f010VgnVCM2000000c205a0aRCRD> ;
+	rdfs:comment "De martes a sabado de 9:30 a 19 horas. Domingos y festivos de 10 a 15 horas.  Verano (julio y agosto): los jueves se amplia el horario de 9: 30 a 22:30 horas.  Cerrado: todos los lunes, 1 y 6 de enero, 1 de mayo, 9 de noviembre, 24, 25 y 31 de diciembre."^^xsd:string .
+
+<http://madridonyou.es/resources/2d405b367158e3f12d7c1e31a96b3af3> a dbo:Museum ;
+	dbp:name "Palacio Real"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Palacio_Real_de_Madrid> ;
+	dbp:address "calle bailen 0"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.42075212551193"^^xsd:float ;
+	dbp:longitude "-3.712699107286406"^^xsd:float ;
+	dbp:phoneNumber "914 548 700 (Informacion general)"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=47ddef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "Horario    De octubre a marzo: de 10 a 18 horas  De abril a septiembre: de 10 a 20 horas  Cierre taquillas una hora antes  Dia 14 de junio de 2017 cerrado a las 15 horas  Dia 15 de junio de 2017 cerrado en jornada completa"^^xsd:string .
+
+<http://madridonyou.es/resources/16ba72172e6a4f1de54d11ab6967e371> a dbo:Museum ;
+	dbp:name "Palacio de Liria"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Palacio_de_Liria> ;
+	dbp:address "calle princesa 20"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.42680681645222"^^xsd:float ;
+	dbp:longitude "-3.7125979731032404"^^xsd:float ;
+	dbp:phoneNumber "915 475 302 y 915 481 550"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=22bdef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "Las visitas:  viernes a las 10, 11 y 12 horas . Cada turno estara formado por un maximo de 15 personas."^^xsd:string .
+
+<http://madridonyou.es/resources/654ad60ebd1ae29cedc37da04b6b0672> a dbo:Museum ;
+	dbp:name "Panteon de Hombres Ilustres"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Pante%C3%B3n_de_Hombres_Ilustres> ;
+	dbp:address "calle julian gayarre 3"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> ;
+	dbp:latitude "40.40622617519116"^^xsd:float ;
+	dbp:longitude "-3.683413041846525"^^xsd:float ;
+	dbp:phoneNumber "914 548 700 (Informacion general)"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=361cef4d7f71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "De martes a sabado de 10 a 14 y de 16 a 18:30 horas  Domingos y festivos de 10 a 15 horas. Lunes cerrado  Cerrado todos los lunes del ano"^^xsd:string .
+
+<http://madridonyou.es/resources/01894d6f048493d2cacde3c579c315a3> a dbo:Museum ;
+	dbp:name "Planetario de Madrid"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Planetario_de_Madrid> ;
+	dbp:address "avenida planetario 16"^^xsd:string ;
+	dbp:district "ARGANZUELA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Arganzuela> ;
+	dbp:latitude "40.39227092120195"^^xsd:float ;
+	dbp:longitude "-3.684968648157021"^^xsd:float ;
+	dbp:phoneNumber """914 673 461 (reserva grupos)                                                                                                                                                                                                                                                                                                                                                                                                                                               
+914 673 898 (contestador automatico de informacion)"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c9c5b069a541f010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "EN LA ACTUALIDAD, CERRADO PARA PROCEDER A SU RENOVACIoN TECNOLoGICA."^^xsd:string .
+
+<http://madridonyou.es/resources/4d6b3e38b952600251ee92fe603170ff> a dbo:Museum ;
+	dbp:name "Real Fabrica de Tapices"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Real_F%C3%A1brica_de_Tapices> ;
+	dbp:address "calle fuenterrabia 2"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> ;
+	dbp:latitude "40.406087329011655"^^xsd:float ;
+	dbp:longitude "-3.682515969574079"^^xsd:float ;
+	dbp:phoneNumber "914 340 550"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=53cbff632081c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "De lunes a viernes de 10 a 14 horas.  Cerrado: sabados, domingos, festivos, Semana Santa y agosto."^^xsd:string .
+
+<http://madridonyou.es/resources/a1a7320289e653d6d6eb49e143fc6bac> a dbo:Museum ;
+	dbp:name "Real Monasterio de Santa Isabel"^^xsd:string ;
+	owl:sameAs <http://dbpedia.org/page/Royal_Monastery_of_Santa_Isabel> ;
+	dbp:address "calle santa isabel 48"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.41213027498252"^^xsd:float ;
+	dbp:longitude "-3.6994547941964946"^^xsd:float ;
+	dbp:phoneNumber "914 548 700 (Informacion general)"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=545b544a249c6110VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "El acceso al templo solo es posible en horario de culto y por la fachada principal."^^xsd:string .
+
+<http://madridonyou.es/resources/69f268fb2ba1068615b3219c6e8f57e8> a dbo:Museum ;
+	dbp:name "Real Monasterio de la Encarnacion"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Real_Monasterio_de_la_Encarnaci%C3%B3n> ;
+	dbp:address "plaza encarnacion 1"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.41967800877382"^^xsd:float ;
+	dbp:longitude "-3.711567962866152"^^xsd:float ;
+	dbp:phoneNumber "914 548 700 (Informacion general)"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=72ad0713fb71c010VgnVCM1000000b205a0aRCRD> ;
+	rdfs:comment "De martes a sabado: de 10 a 14 horas y de 16 a 18:30 horas  Domingos y festivos: de 10 a 15 horas. Tardes cerrado  Cierre taquillas: una hora antes  Cerrado todos los lunes del ano"^^xsd:string .
+
+<http://madridonyou.es/resources/1b4f877baadb44b36ff73a44e05ebd4c> a dbo:Museum ;
+	dbp:name "Templo de Debod"^^xsd:string ;
+	owl:sameAs <http://dbpedia.org/page/Temple_of_Debod> ;
+	dbp:address "calle ferraz 1"^^xsd:string ;
+	dbp:district "MONCLOA-ARAVACA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Moncloa-Aravaca> ;
+	dbp:latitude "40.42425096551599"^^xsd:float ;
+	dbp:longitude "-3.716531855540272"^^xsd:float ;
+	dbp:phoneNumber "913 667 415 (Museo de San Isidro / Templo de Debod)"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=13b432df1d51c010VgnVCM2000000c205a0aRCRD> ;
+	rdfs:comment "De martes a domingos y festivos: de 10:00 a 20:00 horas   El templo permanece cerrado los lunes y los dias 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre.   ultimo pase de visita 15 minutos antes del cierre.  Este horario y la apertura de salas pueden sufrir modificaciones, por favor, confirmelo en el telefono de informacion del museo."^^xsd:string .

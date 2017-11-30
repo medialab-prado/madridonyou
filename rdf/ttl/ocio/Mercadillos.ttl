@@ -1,0 +1,277 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix edbp: <http://es.dbpedia.org/page/> .
+@prefix dbp: <http://dbpedia.org/property/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://madridonyou.es/resources/323c18a51a900dcdcd37c0cb3207cf61> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica UVA Hortaleza (Distrito Hortaleza)"^^xsd:string ;
+	rdfs:comment "Domingos de 9 a 14 horas"^^xsd:string ;
+	dbp:address "carretera estacion de hortaleza 16"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> ;
+	dbp:latitude "40.479473210968706"^^xsd:float ;
+	dbp:longitude "-3.6515575746954614"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=f75f92355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/a0f15903fa20c9b96994cea76d690fab> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de Camino de las Cruces (Distrito Carabanchel)"^^xsd:string ;
+	rdfs:comment "Lunes de 9 a 14 horas, excepto festivos."^^xsd:string ;
+	dbp:address "camino cruces 6"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> ;
+	dbp:latitude "40.37467890972045"^^xsd:float ;
+	dbp:longitude "-3.7554092617091417"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=65bf92355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/bd722d51bdd676cc03c87b2ab18b7437> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de El Pardo (Distrito Fuencarral - El Pardo)"^^xsd:string ;
+	rdfs:comment "Viernes de 9 a 14 horas"^^xsd:string ;
+	dbp:address "calle san leandro 9"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> ;
+	dbp:latitude "40.51788643866983"^^xsd:float ;
+	dbp:longitude "-3.7756892543609064"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=18cf92355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/6104abd0046e4bbf15ea8f5c46a36a2d> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de Orcasur (Distrito Usera)"^^xsd:string ;
+	rdfs:comment "Sabados de 9 a 14 horas"^^xsd:string ;
+	dbp:address "avenida orcasur 60"^^xsd:string ;
+	dbp:district "USERA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Usera> ;
+	dbp:latitude "40.36806275578338"^^xsd:float ;
+	dbp:longitude "-3.7001297500715613"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9d5092355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/4e8e9b0fe6c343a2aabf404e39208981> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de Parque de la Cornisa (Distrito Centro)"^^xsd:string ;
+	rdfs:comment "Todos los martes y sabados no festivos de 9 a 14 horas"^^xsd:string ;
+	dbp:address "plaza campillo del mundo nuevo 3"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.40644768286364"^^xsd:float ;
+	dbp:longitude "-3.707987344713689"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=68f2e7510551c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/7ba054da97e273e54bbcf190aa5a1bb6> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de Rafael Finat (Distrito Latina)"^^xsd:string ;
+	rdfs:comment "Sabados de 9 a 14 horas"^^xsd:string ;
+	dbp:address "avenida poblados 62"^^xsd:string ;
+	dbp:district "LATINA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Latina_(Madrid)> ;
+	dbp:latitude "40.38491112027893"^^xsd:float ;
+	dbp:longitude "-3.7612257496008246"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=d21092355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/4123de1fe8a9630ecd3fbcabaaa95189> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de San Cristobal de los angeles (Distrito Villaverde)"^^xsd:string ;
+	rdfs:comment "Jueves de 9 a 14 horas"^^xsd:string ;
+	dbp:address "calle burjasot 1"^^xsd:string ;
+	dbp:district "VILLAVERDE"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Villaverde_(Madrid)> ;
+	dbp:latitude "40.34452019989438"^^xsd:float ;
+	dbp:longitude "-3.686887364713823"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=a59092355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/8c14a9e096dc5c833af02ae23cbc0a65> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de San Restituto (Distrito Moncloa-Aravaca)"^^xsd:string ;
+	rdfs:comment "Jueves de 9 a 14 horas"^^xsd:string ;
+	dbp:address "calle san restituto 24"^^xsd:string ;
+	dbp:district "MONCLOA-ARAVACA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Moncloa-Aravaca> ;
+	dbp:latitude "40.46500944601515"^^xsd:float ;
+	dbp:longitude "-3.7118692033210126"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=58a092355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/67fc57486b0fa4d0870568426f32171e> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de Santa Ana (Distrito Fuencarral - El Pardo)"^^xsd:string ;
+	rdfs:comment "Miercoles de 9 a 14 horas"^^xsd:string ;
+	dbp:address "calle san cugat del valles 8"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> ;
+	dbp:latitude "40.496893825424046"^^xsd:float ;
+	dbp:longitude "-3.6953071080027495"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0bb092355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/651f76e4e5691207b9b2af1f51a780aa> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de Villaverde Alto"^^xsd:string ;
+	rdfs:comment "Sabados de 9 a 14 horas"^^xsd:string ;
+	dbp:address "paseo ferroviarios 2"^^xsd:string ;
+	dbp:district "VILLAVERDE"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Villaverde_(Madrid)> ;
+	dbp:latitude "40.34738953464962"^^xsd:float ;
+	dbp:longitude "-3.715870883860481"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c50192355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/db2ed8586b1b0c3bb5e046904a1b1f59> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de Via Lusitana (Distrito Carabanchel)"^^xsd:string ;
+	rdfs:comment "Jueves de 9 a 14 horas, excepto festivos."^^xsd:string ;
+	dbp:address "calle via lusitana 2"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> ;
+	dbp:latitude "40.38322268627912"^^xsd:float ;
+	dbp:longitude "-3.7210449941102177"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=13f092355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/9c013c10279e5d4f94428c3a8fc69597> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de avenida de Asturias (Distrito Tetuan)"^^xsd:string ;
+	rdfs:comment "Domingos y festivos, de 9 a 14 horas"^^xsd:string ;
+	dbp:address "avenida asturias 2"^^xsd:string ;
+	dbp:district "TETUAN"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Tetuán_(Madrid)> ;
+	dbp:latitude "40.46687948276402"^^xsd:float ;
+	dbp:longitude "-3.690220214214766"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=ea4092355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/50a505acfcdc52e6e704164f1d65b474> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de avenida de Felipe II (Distrito Salamanca)"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.42429581104769"^^xsd:float ;
+	dbp:longitude "-3.6761810611835473"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=009f92355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/251be5d69cc38dd1d2a72a8b1c324b6a> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de la calle Alcorisa - camino Silvano (Distrito Hortaleza)"^^xsd:string ;
+	rdfs:comment "Martes de 9 a 14 horas."^^xsd:string ;
+	dbp:address "calle silvano 71"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> ;
+	dbp:latitude "40.46145434282499"^^xsd:float ;
+	dbp:longitude "-3.6404378797404813"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=cadf92355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/07a97691a99801434b7f82702b14cbc6> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de la calle Aragoneses (Distrito Puente Vallecas)"^^xsd:string ;
+	rdfs:comment "Lunes de 9 a 14 horas"^^xsd:string ;
+	dbp:address "calle aragoneses 1"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> ;
+	dbp:latitude "40.38234447287553"^^xsd:float ;
+	dbp:longitude "-3.643929214820054"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=aa6f92355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/d5a92a68f9af953b26eafb935a054ce7> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de la calle Ayerbe (Distrito Barajas)"^^xsd:string ;
+	rdfs:comment "Sabados de 9 a 14 horas. Excepto durante las fiestas del distrito que se celebran en septiembre."^^xsd:string ;
+	dbp:address "calle ayerbe 22"^^xsd:string ;
+	dbp:district "BARAJAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Barajas_(Madrid)> ;
+	dbp:latitude "40.470939251480736"^^xsd:float ;
+	dbp:longitude "-3.5774640906620263"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=b2af92355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/c9dbd0b8b755799ec462e24e2eb66bac> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de la calle Fontarron (Distrito Puente de Vallecas)"^^xsd:string ;
+	rdfs:comment "Jueves de 9 a 14 horas"^^xsd:string ;
+	dbp:address "calle ramon perez de ayala 17"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> ;
+	dbp:latitude "40.39885490923299"^^xsd:float ;
+	dbp:longitude "-3.650944698027474"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7def92355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/8277ee21b1f8107795126b1e8d803f1a> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de la calle Gandhi (Distrito Ciudad Lineal)"^^xsd:string ;
+	rdfs:comment "Viernes de 9 a 14 horas"^^xsd:string ;
+	dbp:address "calle gandhi 16"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> ;
+	dbp:latitude "40.424255982276584"^^xsd:float ;
+	dbp:longitude "-3.6339196583262754"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=200092355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/5e5b2d99a9a070119580c5bf49e90bb4> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de la calle Gorrion (Distrito Carabanchel)"^^xsd:string ;
+	rdfs:comment "Lunes de 9 a 14 horas, excepto festivos."^^xsd:string ;
+	dbp:address "calle vicente quesada 4"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> ;
+	dbp:latitude "40.396922359390835"^^xsd:float ;
+	dbp:longitude "-3.730158356659085"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=852092355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/7e3f1da13fa6bff785ccbdf2bbc64ef2> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de la calle San Roman del Valle (Distrito San Blas - Canillejas)"^^xsd:string ;
+	rdfs:comment "Martes de 9 a 14 horas"^^xsd:string ;
+	dbp:address "calle san roman del valle 8"^^xsd:string ;
+	dbp:district "SAN BLAS-CANILLEJAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/San_Blas-Canillejas> ;
+	dbp:latitude "40.42027705095574"^^xsd:float ;
+	dbp:longitude "-3.621741078700336"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5d7f92355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/47f17aa979b53fbf7930d7e8bc2f3f03> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de la calle Santa Genoveva (Distrito Ciudad Lineal)"^^xsd:string ;
+	rdfs:comment "Jueves y sabados de 9 a 14 horas, excepto durante las fiestas del distrito celebradas durante dos semanas de septiembre."^^xsd:string ;
+	dbp:address "avenida trece rosas 9"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> ;
+	dbp:latitude "40.42627295716398"^^xsd:float ;
+	dbp:longitude "-3.6471182978336296"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=bdc092355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/367cc8d9187529f374fde004f70061ff> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de la calle Sierra Gorda (Distrito Villa de Vallecas)"^^xsd:string ;
+	rdfs:comment "Martes de 9 a 14 horas"^^xsd:string ;
+	dbp:address "calle sierra gorda 31"^^xsd:string ;
+	dbp:district "VILLA DE VALLECAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Villa_de_Vallecas> ;
+	dbp:latitude "40.38109513840808"^^xsd:float ;
+	dbp:longitude "-3.6169511425751266"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=60e092355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/6ee0208730157b0b4d5d44705f954895> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de la calle Villablanca (Distrito Vicalvaro)"^^xsd:string ;
+	rdfs:comment "Jueves de 9 a 14 horas, excepto jueves santo y fiestas del Distrito (celebradas en junio)"^^xsd:string ;
+	dbp:address "calle villablanca 87"^^xsd:string ;
+	dbp:district "VICALVARO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Vicálvaro> ;
+	dbp:latitude "40.40509588019403"^^xsd:float ;
+	dbp:longitude "-3.597996097245818"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=f28092355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/bbbdef0b9bc5d4e6735581fa7f6a614b> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de la colonia Ciudad de los angeles (Distrito Villaverde)"^^xsd:string ;
+	rdfs:comment "Jueves de 9 a 14 horas"^^xsd:string ;
+	dbp:address "paseo gigantes y cabezudos 54"^^xsd:string ;
+	dbp:district "VILLAVERDE"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Villaverde_(Madrid)> ;
+	dbp:latitude "40.35451487853377"^^xsd:float ;
+	dbp:longitude "-3.6938424734230515"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=383092355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/d8ac6e006a14a77ea97286998139c7f2> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de la colonia Marconi (Distrito Villaverde)"^^xsd:string ;
+	rdfs:comment "Domingos de 9 a 14 horas"^^xsd:string ;
+	dbp:address "calle san eustaquio 29"^^xsd:string ;
+	dbp:district "VILLAVERDE"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Villaverde_(Madrid)> ;
+	dbp:latitude "40.33271410365036"^^xsd:float ;
+	dbp:longitude "-3.701082788141882"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=96645c2cdc41c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/c45bec92e6d3ba17476f218f068b081d> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica de ronda del Sur (Distrito Puente de Vallecas)"^^xsd:string ;
+	rdfs:comment "Domingos de 9 a 14 horas"^^xsd:string ;
+	dbp:address "ronda sur 231"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> ;
+	dbp:latitude "40.37362311563833"^^xsd:float ;
+	dbp:longitude "-3.6631527179191012"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=407092355c51c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/9fccd04fe67747a7de261215c0cfea76> a edbp:Mercadillo ;
+	dbp:name "Mercadillo en la via publica. El Rastro"^^xsd:string ;
+	rdfs:comment "Todos los domingos y festivos de 9 a 15 horas"^^xsd:string ;
+	dbp:address "calle ribera de curtidores 19"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.408614766057475"^^xsd:float ;
+	dbp:longitude "-3.7071850660071277"^^xsd:float ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=781192355c51c010VgnVCM2000000c205a0aRCRD> .

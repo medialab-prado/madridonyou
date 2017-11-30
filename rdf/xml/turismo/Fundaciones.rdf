@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/861578d797aeb0634f77aff3f488cca2">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/foundation"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fundacion Comite Olimpico Espanol</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Comite_Olimpico_Espanol"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle arequipa 13</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HORTALEZA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Hortaleza"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.46869588603971</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.634207569525505</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 815 500</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.coe.es"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/7bfa32686d200c64cb46de03ac2eac0d">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/foundation"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fundacion del Futbol Profesional</dbp:name>
+	<owl:sameAs rdf:resource="http://dbpedia.org/page/Liga_de_Fútbol_Profesional"/>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle hernandez de tejada 10</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CIUDAD LINEAL</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Ciudad_Lineal"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.447227044276445</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6504913598835316</dbp:longitude>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">912 055 030</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.laliga.es/"/>
+</rdf:Description>
+
+</rdf:RDF>

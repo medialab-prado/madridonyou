@@ -1,0 +1,30 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbp: <http://dbpedia.org/property/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://madridonyou.es/resources/861578d797aeb0634f77aff3f488cca2> a dbo:foundation ;
+	dbp:name "Fundacion Comite Olimpico Espanol"^^xsd:string ;
+	owl:sameAs <http://dbpedia.org/resource/Comite_Olimpico_Espanol> ;
+	dbp:address "calle arequipa 13"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> ;
+	dbp:latitude "40.46869588603971"^^xsd:float ;
+	dbp:longitude "-3.634207569525505"^^xsd:float ;
+	dbp:phoneNumber "913 815 500"^^xsd:string ;
+	dbp:url <http://www.coe.es> .
+
+<http://madridonyou.es/resources/7bfa32686d200c64cb46de03ac2eac0d> a dbo:foundation ;
+	dbp:name "Fundacion del Futbol Profesional"^^xsd:string ;
+	owl:sameAs <http://dbpedia.org/page/Liga_de_Fútbol_Profesional> ;
+	dbp:address "calle hernandez de tejada 10"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> ;
+	dbp:latitude "40.447227044276445"^^xsd:float ;
+	dbp:longitude "-3.6504913598835316"^^xsd:float ;
+	dbp:phoneNumber "912 055 030"^^xsd:string ;
+	dbp:url <http://www.laliga.es/> .

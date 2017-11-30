@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:edbp="http://es.dbpedia.org/page/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/323c18a51a900dcdcd37c0cb3207cf61">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica UVA Hortaleza (Distrito Hortaleza)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Domingos de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">carretera estacion de hortaleza 16</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HORTALEZA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Hortaleza"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.479473210968706</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6515575746954614</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f75f92355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/a0f15903fa20c9b96994cea76d690fab">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de Camino de las Cruces (Distrito Carabanchel)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lunes de 9 a 14 horas, excepto festivos.</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">camino cruces 6</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.37467890972045</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7554092617091417</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=65bf92355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/bd722d51bdd676cc03c87b2ab18b7437">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de El Pardo (Distrito Fuencarral - El Pardo)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Viernes de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle san leandro 9</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FUENCARRAL-EL PARDO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Fuencarral-El_Pardo"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.51788643866983</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7756892543609064</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=18cf92355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/6104abd0046e4bbf15ea8f5c46a36a2d">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de Orcasur (Distrito Usera)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sabados de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida orcasur 60</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USERA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Usera"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.36806275578338</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7001297500715613</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=9d5092355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/4e8e9b0fe6c343a2aabf404e39208981">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de Parque de la Cornisa (Distrito Centro)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Todos los martes y sabados no festivos de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza campillo del mundo nuevo 3</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.40644768286364</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.707987344713689</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=68f2e7510551c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/7ba054da97e273e54bbcf190aa5a1bb6">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de Rafael Finat (Distrito Latina)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sabados de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida poblados 62</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LATINA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Latina_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.38491112027893</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7612257496008246</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d21092355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/4123de1fe8a9630ecd3fbcabaaa95189">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de San Cristobal de los angeles (Distrito Villaverde)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jueves de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle burjasot 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VILLAVERDE</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Villaverde_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.34452019989438</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.686887364713823</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=a59092355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/8c14a9e096dc5c833af02ae23cbc0a65">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de San Restituto (Distrito Moncloa-Aravaca)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jueves de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle san restituto 24</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MONCLOA-ARAVACA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Moncloa-Aravaca"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.46500944601515</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7118692033210126</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=58a092355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/67fc57486b0fa4d0870568426f32171e">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de Santa Ana (Distrito Fuencarral - El Pardo)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Miercoles de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle san cugat del valles 8</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FUENCARRAL-EL PARDO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Fuencarral-El_Pardo"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.496893825424046</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6953071080027495</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0bb092355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/651f76e4e5691207b9b2af1f51a780aa">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de Villaverde Alto</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sabados de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paseo ferroviarios 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VILLAVERDE</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Villaverde_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.34738953464962</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.715870883860481</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c50192355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/db2ed8586b1b0c3bb5e046904a1b1f59">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de Via Lusitana (Distrito Carabanchel)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jueves de 9 a 14 horas, excepto festivos.</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle via lusitana 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.38322268627912</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7210449941102177</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=13f092355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/9c013c10279e5d4f94428c3a8fc69597">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de avenida de Asturias (Distrito Tetuan)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Domingos y festivos, de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida asturias 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TETUAN</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Tetuán_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.46687948276402</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.690220214214766</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ea4092355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/50a505acfcdc52e6e704164f1d65b474">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de avenida de Felipe II (Distrito Salamanca)</dbp:name>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42429581104769</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6761810611835473</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=009f92355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/251be5d69cc38dd1d2a72a8b1c324b6a">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de la calle Alcorisa - camino Silvano (Distrito Hortaleza)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Martes de 9 a 14 horas.</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle silvano 71</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HORTALEZA</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Hortaleza"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.46145434282499</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6404378797404813</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=cadf92355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/07a97691a99801434b7f82702b14cbc6">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de la calle Aragoneses (Distrito Puente Vallecas)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lunes de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle aragoneses 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.38234447287553</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.643929214820054</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=aa6f92355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/d5a92a68f9af953b26eafb935a054ce7">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de la calle Ayerbe (Distrito Barajas)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sabados de 9 a 14 horas. Excepto durante las fiestas del distrito que se celebran en septiembre.</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle ayerbe 22</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BARAJAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Barajas_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.470939251480736</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.5774640906620263</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=b2af92355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/c9dbd0b8b755799ec462e24e2eb66bac">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de la calle Fontarron (Distrito Puente de Vallecas)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jueves de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle ramon perez de ayala 17</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.39885490923299</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.650944698027474</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=7def92355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/8277ee21b1f8107795126b1e8d803f1a">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de la calle Gandhi (Distrito Ciudad Lineal)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Viernes de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle gandhi 16</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CIUDAD LINEAL</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Ciudad_Lineal"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.424255982276584</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6339196583262754</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=200092355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/5e5b2d99a9a070119580c5bf49e90bb4">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de la calle Gorrion (Distrito Carabanchel)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lunes de 9 a 14 horas, excepto festivos.</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle vicente quesada 4</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.396922359390835</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.730158356659085</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=852092355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/7e3f1da13fa6bff785ccbdf2bbc64ef2">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de la calle San Roman del Valle (Distrito San Blas - Canillejas)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Martes de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle san roman del valle 8</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAN BLAS-CANILLEJAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/San_Blas-Canillejas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42027705095574</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.621741078700336</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=5d7f92355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/47f17aa979b53fbf7930d7e8bc2f3f03">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de la calle Santa Genoveva (Distrito Ciudad Lineal)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jueves y sabados de 9 a 14 horas, excepto durante las fiestas del distrito celebradas durante dos semanas de septiembre.</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida trece rosas 9</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CIUDAD LINEAL</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Ciudad_Lineal"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.42627295716398</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6471182978336296</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bdc092355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/367cc8d9187529f374fde004f70061ff">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de la calle Sierra Gorda (Distrito Villa de Vallecas)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Martes de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle sierra gorda 31</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VILLA DE VALLECAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Villa_de_Vallecas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.38109513840808</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6169511425751266</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=60e092355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/6ee0208730157b0b4d5d44705f954895">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de la calle Villablanca (Distrito Vicalvaro)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jueves de 9 a 14 horas, excepto jueves santo y fiestas del Distrito (celebradas en junio)</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle villablanca 87</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VICALVARO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Vicálvaro"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.40509588019403</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.597996097245818</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f28092355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/bbbdef0b9bc5d4e6735581fa7f6a614b">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de la colonia Ciudad de los angeles (Distrito Villaverde)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jueves de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paseo gigantes y cabezudos 54</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VILLAVERDE</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Villaverde_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.35451487853377</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6938424734230515</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=383092355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/d8ac6e006a14a77ea97286998139c7f2">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de la colonia Marconi (Distrito Villaverde)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Domingos de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle san eustaquio 29</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VILLAVERDE</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Villaverde_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.33271410365036</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.701082788141882</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=96645c2cdc41c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/c45bec92e6d3ba17476f218f068b081d">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica de ronda del Sur (Distrito Puente de Vallecas)</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Domingos de 9 a 14 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ronda sur 231</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.37362311563833</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.6631527179191012</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=407092355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://madridonyou.es/resources/9fccd04fe67747a7de261215c0cfea76">
+	<rdf:type rdf:resource="http://es.dbpedia.org/page/Mercadillo"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercadillo en la via publica. El Rastro</dbp:name>
+	<rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Todos los domingos y festivos de 9 a 15 horas</rdfs:comment>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle ribera de curtidores 19</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.408614766057475</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.7071850660071277</dbp:longitude>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=781192355c51c010VgnVCM2000000c205a0aRCRD"/>
+</rdf:Description>
+
+</rdf:RDF>

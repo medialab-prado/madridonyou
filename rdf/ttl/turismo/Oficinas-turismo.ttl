@@ -1,0 +1,332 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbp: <http://dbpedia.org/property/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://madridonyou.es/resources/162374d21c0d143fba590435fbf7e2cc> a dbo:office ;
+	dbp:name "Oficina de Turismo de Andalucia."^^xsd:string ;
+	dbp:address "avenida felipe ii 15"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.424183525039"^^xsd:float ;
+	dbp:longitude "-3.673810495427334"^^xsd:float ;
+	dbp:phoneNumber "912 031 200"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=d0abc974d4ae6510VgnVCM1000001d4a900aRCRD> .
+
+<http://madridonyou.es/resources/e71f0aa2ed94afb5e84cabf28aea9dfb> a dbo:office ;
+	dbp:name "Oficina de Turismo de Andorra"^^xsd:string ;
+	dbp:address "calle alcala 73"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.420463942385524"^^xsd:float ;
+	dbp:longitude "-3.6873880759267004"^^xsd:float ;
+	dbp:phoneNumber "914 317 453"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=eb68444a2951c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/9387150725befd867f4bd624576b9145> a dbo:office ;
+	dbp:name "Oficina de Turismo de Austria"^^xsd:string ;
+	dbp:address "calle juan alvarez mendizabal 1"^^xsd:string ;
+	dbp:district "MONCLOA-ARAVACA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Moncloa-Aravaca> ;
+	dbp:latitude "40.42352919018361"^^xsd:float ;
+	dbp:longitude "-3.7137893492193244"^^xsd:float ;
+	dbp:phoneNumber "915 426 832"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=b659eddb85d6e410VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/702b30dce5700d02e4581ea6122879ef> a dbo:office ;
+	dbp:name "Oficina de Turismo de Brasil"^^xsd:string ;
+	dbp:address "calle almagro 28"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Chamberí> ;
+	dbp:latitude "40.43017960044132"^^xsd:float ;
+	dbp:longitude "-3.692768600492918"^^xsd:float ;
+	dbp:phoneNumber "917 020 689"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=b15d47048781c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/b356e7aed7ee82589e54a466e0dca157> a dbo:office ;
+	dbp:name "Oficina de Turismo de Castilla - Leon"^^xsd:string ;
+	dbp:address "calle alcala 105"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.42177018095319"^^xsd:float ;
+	dbp:longitude "-3.6828394778643716"^^xsd:float ;
+	dbp:phoneNumber "915 780 324"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c93c19d41471c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/8d917ee2013f097c962fa85297f0ffea> a dbo:office ;
+	dbp:name "Oficina de Turismo de China"^^xsd:string ;
+	dbp:address "calle gran via 39"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.42009464369331"^^xsd:float ;
+	dbp:longitude "-3.705324957516307"^^xsd:float ;
+	dbp:phoneNumber "915 480 011 "^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0dad19d41471c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/168411596e4c04bb30eaf83385d15c96> a dbo:office ;
+	dbp:name "Oficina de Turismo de Cuba"^^xsd:string ;
+	dbp:address "paseo habana 50"^^xsd:string ;
+	dbp:district "CHAMARTIN"^^xsd:string ;
+	dbp:location <http://dbpedia.org/page/Chamberí> ;
+	dbp:latitude "40.4509737804771"^^xsd:float ;
+	dbp:longitude "-3.6864959795755223"^^xsd:float ;
+	dbp:phoneNumber "914 113 097"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=048c19d41471c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/1ba922ac006a8e5f2b123684c2f4d65f> a dbo:office ;
+	dbp:name "Oficina de Turismo de Francia"^^xsd:string ;
+	dbp:address "calle serrano 40"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.42603070001693"^^xsd:float ;
+	dbp:longitude "-3.68752726535081"^^xsd:float ;
+	dbp:phoneNumber """915 489 737 (Informacion)           
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=bbbc19d41471c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/9c00c015dd972511f07e7a8752e0cc2e> a dbo:office ;
+	dbp:name "Oficina de Turismo de Gran Bretana"^^xsd:string ;
+	dbp:address "paseo castellana 259"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> ;
+	dbp:latitude "40.47592404926307"^^xsd:float ;
+	dbp:longitude "-3.6872691224974417"^^xsd:float ;
+	dbp:phoneNumber "917 146 497"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=fc37eddb85d6e410VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/489c6d68b55121aa7644432b9e2b07e6> a dbo:office ;
+	dbp:name "Oficina de Turismo de Guatemala"^^xsd:string ;
+	dbp:address "calle fernando el santo 27"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Chamberí> ;
+	dbp:latitude "40.42811147922819"^^xsd:float ;
+	dbp:longitude "-3.69060179113649"^^xsd:float ;
+	dbp:phoneNumber "913 440 347 / 913 441 417"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=df5f44e4373f6310VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/7f650a872c8ada674c272eed2b19bea6> a dbo:office ;
+	dbp:name "Oficina de Turismo de Holanda"^^xsd:string ;
+	dbp:address "paseo castellana 141"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> ;
+	dbp:latitude "40.47592404926307"^^xsd:float ;
+	dbp:longitude "-3.6872691224974417"^^xsd:float ;
+	dbp:phoneNumber "917 498 082"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=d320ac7ab6d6e410VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/2d5d4cf93ccf992b3fe617b32b8296a3> a dbo:office ;
+	dbp:name "Oficina de Turismo de Irlanda"^^xsd:string ;
+	dbp:address "paseo castellana 46"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.43419977951646"^^xsd:float ;
+	dbp:longitude "-3.6878816351465096"^^xsd:float ;
+	dbp:phoneNumber "917 456 420"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=f50d19d41471c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/974aa39be46f0ba832c70a2bcf9b816c> a dbo:office ;
+	dbp:name "Oficina de Turismo de Iran"^^xsd:string ;
+	dbp:address "calle maria de molina 26"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.4375784193194"^^xsd:float ;
+	dbp:longitude "-3.6848033506224906"^^xsd:float ;
+	dbp:phoneNumber "915 643 613"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=66e6e7510551c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/14ad095ecc1c3e1b87f3c522836e9158> a dbo:office ;
+	dbp:name "Oficina de Turismo de Italia"^^xsd:string ;
+	dbp:address "paseo castellana 114"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.436434892176365"^^xsd:float ;
+	dbp:longitude "-3.6862183867739926"^^xsd:float ;
+	dbp:phoneNumber "915 670 670"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=1b2d19d41471c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/c44bebb973e14fe539676e0e9155b121> a dbo:office ;
+	dbp:name "Oficina de Turismo de Jordania"^^xsd:string ;
+	dbp:address "calle villanueva 5"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.4225708087371"^^xsd:float ;
+	dbp:longitude "-3.687598129527758"^^xsd:float ;
+	dbp:phoneNumber "917 813 987"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=ad3d19d41471c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/808ab3429a151b9b348751fe236fd522> a dbo:office ;
+	dbp:name "Oficina de Turismo de La Rioja"^^xsd:string ;
+	dbp:address "calle serrano 25"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.426596411628736"^^xsd:float ;
+	dbp:longitude "-3.687839531572201"^^xsd:float ;
+	dbp:phoneNumber "915 764 852"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5558bc4e9ef0b210VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/ca923c97a1ca2616a429d2e548f794c3> a dbo:office ;
+	dbp:name "Oficina de Turismo de Malta"^^xsd:string ;
+	dbp:address "paseo castellana 45"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Chamberí> ;
+	dbp:latitude "40.43569358766222"^^xsd:float ;
+	dbp:longitude "-3.689677189614338"^^xsd:float ;
+	dbp:phoneNumber "913 913 061"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=f8f6e7510551c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/c154d855a0f33bb1ee7365af5a204279> a dbo:office ;
+	dbp:name "Oficina de Turismo de Marruecos"^^xsd:string ;
+	dbp:address "calle ventura rodriguez 24"^^xsd:string ;
+	dbp:district "MONCLOA-ARAVACA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Moncloa-Aravaca> ;
+	dbp:latitude "40.42420902572595"^^xsd:float ;
+	dbp:longitude "-3.714574560417809"^^xsd:float ;
+	dbp:phoneNumber "915 412 995"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9fbd19d41471c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/561918f13a2832726ec7f2e16ecd76c1> a dbo:office ;
+	dbp:name "Oficina de Turismo de Mexico"^^xsd:string ;
+	dbp:address "carrera san jeronimo 46"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.41605298613373"^^xsd:float ;
+	dbp:longitude "-3.697338423479512"^^xsd:float ;
+	dbp:phoneNumber "915 611 827 / 915 613 520"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=22dd19d41471c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/50f5a0b224ddb1270e0f523c7efae216> a dbo:office ;
+	dbp:name "Oficina de Turismo de Noruega"^^xsd:string ;
+	dbp:address "plaza colon 2"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Chamberí> ;
+	dbp:latitude "40.42567707652306"^^xsd:float ;
+	dbp:longitude "-3.6909305470033527"^^xsd:float ;
+	dbp:phoneNumber "913 440 987"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7e78444a2951c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/eeed616bd5c04152c5221a1d420232d1> a dbo:office ;
+	dbp:name "Oficina de Turismo de Nueva York"^^xsd:string ;
+	dbp:address "calle bravo murillo 101"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Chamberí> ;
+	dbp:latitude "40.43466453809479"^^xsd:float ;
+	dbp:longitude "-3.700501765839506"^^xsd:float ;
+	dbp:phoneNumber "914 585 573"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=2e68a3eee7553210VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/ee07c6fb926a29e3a77a8212f6d03c01> a dbo:office ;
+	dbp:name "Oficina de Turismo de Peru"^^xsd:string ;
+	dbp:address "plaza marques de salamanca 10"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.429674007218026"^^xsd:float ;
+	dbp:longitude "-3.6792883340980196"^^xsd:float ;
+	dbp:phoneNumber "911 937 511"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=b4ed19d41471c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/62ce4772adc0fbeae29391fc0e22509c> a dbo:office ;
+	dbp:name "Oficina de Turismo de Polonia"^^xsd:string ;
+	dbp:address "calle princesa 3"^^xsd:string ;
+	dbp:district "MONCLOA-ARAVACA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Moncloa-Aravaca> ;
+	dbp:latitude "40.42474213964734"^^xsd:float ;
+	dbp:longitude "-3.7128591034859424"^^xsd:float ;
+	dbp:phoneNumber "915 414 808 / 915 414 333"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=47fd19d41471c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/cc9278caa262fa9229c91339d6632c1b> a dbo:office ;
+	dbp:name "Oficina de Turismo de Portugal"^^xsd:string ;
+	dbp:address "calle lagasca 88"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.42991206232817"^^xsd:float ;
+	dbp:longitude "-3.6847491581278606"^^xsd:float ;
+	dbp:phoneNumber "917 617 230"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=f3ad9a4aca553210VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/d3bbb7db3a960ca3c2afc4e901b73578> a dbo:office ;
+	dbp:name "Oficina de Turismo de Rumania"^^xsd:string ;
+	dbp:address "calle alcantara 49"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.43064345216766"^^xsd:float ;
+	dbp:longitude "-3.6737334953475242"^^xsd:float ;
+	dbp:phoneNumber "914 014 268"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=021399cf56d6e410VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/49efa4a1752df440cb7d48a74b0ad317> a dbo:office ;
+	dbp:name "Oficina de Turismo de Seychelles"^^xsd:string ;
+	dbp:address "calle princesa 40"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.429538155017795"^^xsd:float ;
+	dbp:longitude "-3.715255790482151"^^xsd:float ;
+	dbp:phoneNumber "917 020 804"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=1e17e7510551c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/c7c78b1b1039c7ad582c7b0d502df797> a dbo:office ;
+	dbp:name "Oficina de Turismo de Tahiti"^^xsd:string ;
+	dbp:address "calle serrano 40"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.426021621426464"^^xsd:float ;
+	dbp:longitude "-3.687538961488509"^^xsd:float ;
+	dbp:phoneNumber "915 489 747"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=90192b0194de1210VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/2a2107d1bcb556a30424faede85797a2> a dbo:office ;
+	dbp:name "Oficina de Turismo de Tunez"^^xsd:string ;
+	dbp:address "calle alberto aguilera 11"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.42967754133076"^^xsd:float ;
+	dbp:longitude "-3.7087142557455817"^^xsd:float ;
+	dbp:phoneNumber "915 481 435"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=145e19d41471c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/d8b1e8799e830314f9f50dd6b6f03c51> a dbo:office ;
+	dbp:name "Oficina de Turismo de la Comunidad de Madrid. Calle Alcala, 31"^^xsd:string ;
+	dbp:address "calle alcala 31"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.41842560545147"^^xsd:float ;
+	dbp:longitude "-3.6982941133384717"^^xsd:float ;
+	dbp:phoneNumber """Informacion turistica y cultural: 902 100 007            
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9a0b992ad93d2310VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/f04b8b59e703ac3889bf1ce4ca52db81> a dbo:office ;
+	dbp:name "Oficina de Turismo de la Comunidad de Madrid. Calle Duque de Medinaceli"^^xsd:string ;
+	dbp:address "calle duque de medinaceli 2"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.415295360876854"^^xsd:float ;
+	dbp:longitude "-3.6959869173057225"^^xsd:float ;
+	dbp:phoneNumber """Informacion turistica y cultural:  902 100 007    
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c26d19d41471c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/3372e5eee55ede903fe098d8e2d33f65> a dbo:office ;
+	dbp:name "Oficina de Turismo de la Comunidad de Madrid. Ifema. Feria de Madrid"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/IFEMA> ;
+	dbp:address "avenida partenon 5"^^xsd:string ;
+	dbp:district "BARAJAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Barajas_(Madrid)> ;
+	dbp:latitude "40.46428771594393"^^xsd:float ;
+	dbp:longitude "-3.6164023947650836"^^xsd:float ;
+	dbp:phoneNumber "Informacion turistica y cultural: 902 100 007"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=1286c040b8f36310VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/3ab1ba9281946d58b3af79ac29258167> a dbo:office ;
+	dbp:name "Punto de Informacion Turistica. Paseo del Prado"^^xsd:string ;
+	dbp:address "plaza neptuno 1"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> ;
+	dbp:latitude "40.41688576337496"^^xsd:float ;
+	dbp:longitude "-3.692184322678944"^^xsd:float ;
+	dbp:phoneNumber "915 787 810"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=1f6bdae9bb525510VgnVCM2000001f4a900aRCRD> .

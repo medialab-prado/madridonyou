@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.madridonyou/ontology#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.madridonyou/ontology#">
+    <Prefix name="" IRI="http://www.madridonyou/ontology#"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <DataProperty IRI="http://dbpedia.org/property/phoneNumber"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://es.dbpedia.org/page/Mercadillo"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://dbpedia.org/property/name"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://dbpedia.org/property/latitude"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://dbpedia.org/property/longitude"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty abbreviatedIRI="rdfs:comment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://dbpedia.org/ontology/Library"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://dbpedia.org/property/district"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://dbpedia.org/property/location"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://dbpedia.org/ontology/Museum"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://dbpedia.org/ontology/office"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://dbpedia.org/ontology/ReligiousBuilding"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://dbpedia.org/property/address"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://dbpedia.org/ontology/foundation"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://dbpedia.org/property/url"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://dbpedia.org/ontology/Monument"/>
+    </Declaration>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://dbpedia.org/property/address"/>
+        <ObjectUnionOf>
+            <Class IRI="http://dbpedia.org/ontology/Library"/>
+            <Class IRI="http://dbpedia.org/ontology/Monument"/>
+            <Class IRI="http://dbpedia.org/ontology/Museum"/>
+            <Class IRI="http://dbpedia.org/ontology/ReligiousBuilding"/>
+            <Class IRI="http://dbpedia.org/ontology/foundation"/>
+            <Class IRI="http://dbpedia.org/ontology/office"/>
+        </ObjectUnionOf>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://dbpedia.org/property/district"/>
+        <ObjectUnionOf>
+            <Class IRI="http://dbpedia.org/ontology/Library"/>
+            <Class IRI="http://dbpedia.org/ontology/Monument"/>
+            <Class IRI="http://dbpedia.org/ontology/Museum"/>
+            <Class IRI="http://dbpedia.org/ontology/ReligiousBuilding"/>
+            <Class IRI="http://dbpedia.org/ontology/foundation"/>
+            <Class IRI="http://dbpedia.org/ontology/office"/>
+        </ObjectUnionOf>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://dbpedia.org/property/latitude"/>
+        <ObjectUnionOf>
+            <Class IRI="http://dbpedia.org/ontology/Library"/>
+            <Class IRI="http://dbpedia.org/ontology/Monument"/>
+            <Class IRI="http://dbpedia.org/ontology/Museum"/>
+            <Class IRI="http://dbpedia.org/ontology/ReligiousBuilding"/>
+            <Class IRI="http://dbpedia.org/ontology/foundation"/>
+            <Class IRI="http://dbpedia.org/ontology/office"/>
+        </ObjectUnionOf>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://dbpedia.org/property/location"/>
+        <ObjectUnionOf>
+            <Class IRI="http://dbpedia.org/ontology/Library"/>
+            <Class IRI="http://dbpedia.org/ontology/Monument"/>
+            <Class IRI="http://dbpedia.org/ontology/Museum"/>
+            <Class IRI="http://dbpedia.org/ontology/ReligiousBuilding"/>
+            <Class IRI="http://dbpedia.org/ontology/foundation"/>
+            <Class IRI="http://dbpedia.org/ontology/office"/>
+        </ObjectUnionOf>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://dbpedia.org/property/longitude"/>
+        <ObjectUnionOf>
+            <Class IRI="http://dbpedia.org/ontology/Library"/>
+            <Class IRI="http://dbpedia.org/ontology/Monument"/>
+            <Class IRI="http://dbpedia.org/ontology/Museum"/>
+            <Class IRI="http://dbpedia.org/ontology/ReligiousBuilding"/>
+            <Class IRI="http://dbpedia.org/ontology/foundation"/>
+            <Class IRI="http://dbpedia.org/ontology/office"/>
+        </ObjectUnionOf>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://dbpedia.org/property/name"/>
+        <ObjectUnionOf>
+            <Class IRI="http://dbpedia.org/ontology/Library"/>
+            <Class IRI="http://dbpedia.org/ontology/Monument"/>
+            <Class IRI="http://dbpedia.org/ontology/Museum"/>
+            <Class IRI="http://dbpedia.org/ontology/ReligiousBuilding"/>
+            <Class IRI="http://dbpedia.org/ontology/foundation"/>
+            <Class IRI="http://dbpedia.org/ontology/office"/>
+        </ObjectUnionOf>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://dbpedia.org/property/phoneNumber"/>
+        <ObjectUnionOf>
+            <Class IRI="http://dbpedia.org/ontology/Library"/>
+            <Class IRI="http://dbpedia.org/ontology/Monument"/>
+            <Class IRI="http://dbpedia.org/ontology/Museum"/>
+            <Class IRI="http://dbpedia.org/ontology/ReligiousBuilding"/>
+            <Class IRI="http://dbpedia.org/ontology/foundation"/>
+            <Class IRI="http://dbpedia.org/ontology/office"/>
+        </ObjectUnionOf>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://dbpedia.org/property/url"/>
+        <ObjectUnionOf>
+            <Class IRI="http://dbpedia.org/ontology/Library"/>
+            <Class IRI="http://dbpedia.org/ontology/Monument"/>
+            <Class IRI="http://dbpedia.org/ontology/Museum"/>
+            <Class IRI="http://dbpedia.org/ontology/ReligiousBuilding"/>
+            <Class IRI="http://dbpedia.org/ontology/foundation"/>
+            <Class IRI="http://dbpedia.org/ontology/office"/>
+        </ObjectUnionOf>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty abbreviatedIRI="rdfs:comment"/>
+        <Class IRI="http://dbpedia.org/ontology/Museum"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="http://dbpedia.org/property/address"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://dbpedia.org/property/district"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://dbpedia.org/property/latitude"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://dbpedia.org/property/location"/>
+        <Datatype abbreviatedIRI="xsd:anyURI"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://dbpedia.org/property/longitude"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://dbpedia.org/property/name"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://dbpedia.org/property/phoneNumber"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://dbpedia.org/property/url"/>
+        <Datatype abbreviatedIRI="xsd:anyURI"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty abbreviatedIRI="rdfs:comment"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

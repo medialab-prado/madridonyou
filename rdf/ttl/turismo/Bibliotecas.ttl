@@ -1,0 +1,569 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbp: <http://dbpedia.org/property/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://madridonyou.es/resources/b4568df26077653eeadf29596708c94b> a dbo:Library ;
+	dbp:name "Biblioteca Historica Municipal"^^xsd:string ;
+	dbp:address "calle conde duque 9"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.42737760210632"^^xsd:float ;
+	dbp:longitude "-3.7106116887809817"^^xsd:float ;
+	dbp:phoneNumber "Secretaria: 915885737. Informacion y Referencia: 915885767, 914800557 y 915885744 "^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=ccbc3d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/9ddfcb3b0c57ed911c5f4bf34407493e> a dbo:Library ;
+	dbp:name "Biblioteca Musical Victor Espinos"^^xsd:string ;
+	dbp:address "calle conde duque 9"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.42737760210632"^^xsd:float ;
+	dbp:longitude "-3.7106116887809817"^^xsd:float ;
+	dbp:phoneNumber """91 588 57 53 / 91 588 57 39 / 91 588 57 55                                                         
+91 588 57 60"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=d482270f58c6c310VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/21be9a4bd4f81549a9d1d241981cec3c> a dbo:Library ;
+	dbp:name "Biblioteca Publica Acuna"^^xsd:string ;
+	dbp:address "calle quintana 9"^^xsd:string ;
+	dbp:district "MONCLOA-ARAVACA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Moncloa-Aravaca> ;
+	dbp:latitude "40.427942010682415"^^xsd:float ;
+	dbp:longitude "-3.7169600607379985"^^xsd:float ;
+	dbp:phoneNumber """915 413 619                                                                       
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=e9ad995a8bf5d010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/e8fd4a8a5bab2b3785d794ab51fef55c> a dbo:Library ;
+	dbp:name "Biblioteca Publica Canillejas"^^xsd:string ;
+	dbp:address "calle musas 11"^^xsd:string ;
+	dbp:district "SAN BLAS-CANILLEJAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/San_Blas-Canillejas> ;
+	dbp:latitude "40.43776263645119"^^xsd:float ;
+	dbp:longitude "-3.6083782410803944"^^xsd:float ;
+	dbp:phoneNumber "917 424 499"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=a8cd995a8bf5d010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/c9036ddf3c6c397b23d2ec75377056f2> a dbo:Library ;
+	dbp:name "Biblioteca Publica Carabanchel Luis Rosales"^^xsd:string ;
+	dbp:address "calle antonia rodriguez sacristan 7"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> ;
+	dbp:latitude "40.373420234648606"^^xsd:float ;
+	dbp:longitude "-3.7480802097487653"^^xsd:float ;
+	dbp:phoneNumber """912 760 233                                                                                                          
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7a73f884ad3f9210VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/ac5dab2e99eee9cf9ec672e383691302> a dbo:Library ;
+	dbp:name "Biblioteca Publica Centro Pedro Salinas"^^xsd:string ;
+	dbp:address "glorieta puerta de toledo 1"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.40709558029403"^^xsd:float ;
+	dbp:longitude "-3.711046518464516"^^xsd:float ;
+	dbp:phoneNumber "913 665 407"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=67ed995a8bf5d010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/94e4451ad23909020c28b26ca3a13cb8> a dbo:Library ;
+	dbp:name "Biblioteca Publica Chamberi 'Jose Luis Sampedro'"^^xsd:string ;
+	dbp:address "calle felipe el hermoso 4"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Chamberí> ;
+	dbp:latitude "40.43539063992494"^^xsd:float ;
+	dbp:longitude "-3.6996132452669075"^^xsd:float ;
+	dbp:phoneNumber "914 459 782"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5a2279262ef5d010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/f0bda020d2470f2e74990a07a607ebd9> a dbo:Library ;
+	dbp:name "Biblioteca Publica Elena Fortun (Retiro)"^^xsd:string ;
+	dbp:address "calle doctor esquerdo 189"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> ;
+	dbp:latitude "40.40356992125351"^^xsd:float ;
+	dbp:longitude "-3.672414651864732"^^xsd:float ;
+	dbp:phoneNumber "915 019 146 "^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=44213d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/01f7bcbbe3c7bfcab8456603495841fb> a dbo:Library ;
+	dbp:name "Biblioteca Publica Fuencarral - El Pardo. Rafael Alberti"^^xsd:string ;
+	dbp:address "calle sangenjo 38"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> ;
+	dbp:latitude "40.48791129077104"^^xsd:float ;
+	dbp:longitude "-3.6984002338920092"^^xsd:float ;
+	dbp:phoneNumber "917 319 552 / 917 319 553"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=260e995a8bf5d010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/e5a4d6bf330f23a8707bb0d6001dfbe8> a dbo:Library ;
+	dbp:name "Biblioteca Publica Hortaleza"^^xsd:string ;
+	dbp:address "calle abertura 2"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> ;
+	dbp:latitude "40.47723185032398"^^xsd:float ;
+	dbp:longitude "-3.6496247031818596"^^xsd:float ;
+	dbp:phoneNumber "917 633 284"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=e42e995a8bf5d010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/e59bed9538a7a165e0d2a1c34335a4ab> a dbo:Library ;
+	dbp:name "Biblioteca Publica Latina - Antonio Mingote"^^xsd:string ;
+	dbp:address "calle rafael finat 51"^^xsd:string ;
+	dbp:district "LATINA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Latina_(Madrid)> ;
+	dbp:latitude "40.37944226151668"^^xsd:float ;
+	dbp:longitude "-3.769445829090458"^^xsd:float ;
+	dbp:phoneNumber "915 093 625"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c73e995a8bf5d010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/4abe17a1c80cbdd2aa241b70840879de> a dbo:Library ;
+	dbp:name "Biblioteca Publica Moratalaz"^^xsd:string ;
+	dbp:address "calle corregidor alonso de tobar 5"^^xsd:string ;
+	dbp:district "MORATALAZ"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Moratalaz> ;
+	dbp:latitude "40.404043531769375"^^xsd:float ;
+	dbp:longitude "-3.649450874958104"^^xsd:float ;
+	dbp:phoneNumber "914 394 688"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=457e995a8bf5d010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/d2cdf047a6674cef251d56544a3cf029> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Aluche (Latina)"^^xsd:string ;
+	dbp:address "calle camarena 10"^^xsd:string ;
+	dbp:district "LATINA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Latina_(Madrid)> ;
+	dbp:latitude "40.39597072367931"^^xsd:float ;
+	dbp:longitude "-3.7562716852987847"^^xsd:float ;
+	dbp:phoneNumber "91 719 89 96"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=7f0e3d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/d8d31bd778da8bdd536187c36e48892b> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Ana Maria Matute (Carabanchel)"^^xsd:string ;
+	dbp:address "calle de los comuneros de castilla 30"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> ;
+	dbp:latitude "40.3975850662447"^^xsd:float ;
+	dbp:longitude "-3.7207386328562357"^^xsd:float ;
+	dbp:phoneNumber """91 588 08 30                                                                                                                                                      
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=628e3d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/17ed8abedc255908be746d245e50263a> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Buenavista (Salamanca)"^^xsd:string ;
+	dbp:address "avenida toreros 5"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.43199309720514"^^xsd:float ;
+	dbp:longitude "-3.670929243543714"^^xsd:float ;
+	dbp:phoneNumber "91 724 08 04"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c53e3d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/97d98119037c5b8a9663cb21fb8ebf47> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Canillejas (San Blas-Canillejas)"^^xsd:string ;
+	dbp:address "calle boltana 23"^^xsd:string ;
+	dbp:district "SAN BLAS-CANILLEJAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/San_Blas-Canillejas> ;
+	dbp:latitude "40.44640229188281"^^xsd:float ;
+	dbp:longitude "-3.6117933204271098"^^xsd:float ;
+	dbp:phoneNumber "91 741 11 34"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=eb9e995a8bf5d010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/59e0b2658e9f2e77f8d4d83f8d07ca84> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Ciudad Lineal (Ciudad Lineal)"^^xsd:string ;
+	dbp:address "avenida institucion libre de ensenanza (antigua calle hermanos garcia noblejas) 14"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> ;
+	dbp:latitude "40.43641736294729"^^xsd:float ;
+	dbp:longitude "-3.637346971302506"^^xsd:float ;
+	dbp:phoneNumber "915 887 566"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=82ce995a8bf5d010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/e1314fc026da60d837353d20aefaf054> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Conde Duque (Centro)"^^xsd:string ;
+	dbp:address "calle conde duque 9"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.42738668300474"^^xsd:float ;
+	dbp:longitude "-3.7105999955473625"^^xsd:float ;
+	dbp:phoneNumber "91 588 59 10"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=13ec3d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/2ce02ac4b13a2e9c3b99f59ffbbbd7f9> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Damaso Alonso (Chamartin)"^^xsd:string ;
+	dbp:address "calle manuel ferrero 1"^^xsd:string ;
+	dbp:district "CHAMARTIN"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Chamartín_(Madrid)> ;
+	dbp:latitude "40.467453379213175"^^xsd:float ;
+	dbp:longitude "-3.6846112774442705"^^xsd:float ;
+	dbp:phoneNumber "91 350 31 50"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5870007f8441f010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/f0147baabbca0c5fb84973c06167d14a> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Eugenio Trias. Casa de Fieras de El Retiro"^^xsd:string ;
+	dbp:address "paseo fernan nunez 24"^^xsd:string ;
+	dbp:district "RETIRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Retiro_(Madrid)> ;
+	dbp:latitude "40.4166091081099"^^xsd:float ;
+	dbp:longitude "-3.6795930368034804"^^xsd:float ;
+	dbp:phoneNumber "91 480 48 38"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=e791bed05ceed310VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/abf16f3e792cd62c80b4644db25f4404> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Francisco Ayala (Vicalvaro)"^^xsd:string ;
+	dbp:address "bulevar indalecio prieto 21"^^xsd:string ;
+	dbp:district "VICALVARO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Vicálvaro> ;
+	dbp:latitude "40.39982891410407"^^xsd:float ;
+	dbp:longitude "-3.621281890570377"^^xsd:float ;
+	dbp:phoneNumber "91 301 64 66"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=f05279262ef5d010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/e22dd5dabde45eda5a1a67772c8e25dd> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Francisco Ibanez (Chamartin)"^^xsd:string ;
+	dbp:address "calle mantuano 51"^^xsd:string ;
+	dbp:district "CHAMARTIN"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Chamartín_(Madrid)> ;
+	dbp:latitude "40.44810636195716"^^xsd:float ;
+	dbp:longitude "-3.6762309620097398"^^xsd:float ;
+	dbp:phoneNumber "91 510 37 56"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0fce3d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/231141b34c82aa95e48810a9d1b33a79> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Gabriel Garcia Marquez (Usera)"^^xsd:string ;
+	dbp:address "plaza pueblo 2"^^xsd:string ;
+	dbp:district "USERA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Usera> ;
+	dbp:latitude "40.366768324753416"^^xsd:float ;
+	dbp:longitude "-3.701141063083806"^^xsd:float ;
+	dbp:phoneNumber """91 318 86 91                                                  
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=e4bf3d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/54e36c5ff5f6a1802925ca009f3ebb68> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Gerardo Diego (Villa de Vallecas)"^^xsd:string ;
+	dbp:address "calle monte aya 12"^^xsd:string ;
+	dbp:district "VILLA DE VALLECAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Villa_de_Vallecas> ;
+	dbp:latitude "40.37790196240434"^^xsd:float ;
+	dbp:longitude "-3.6227296605039516"^^xsd:float ;
+	dbp:phoneNumber "91 380 66 33"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=ca903d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/67b98e17ed75125c912af26dd15901a9> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Gloria Fuertes (Barajas)"^^xsd:string ;
+	dbp:address "avenida logrono 179"^^xsd:string ;
+	dbp:district "BARAJAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Barajas_(Madrid)> ;
+	dbp:latitude "40.46055947228695"^^xsd:float ;
+	dbp:longitude "-3.5937461811785347"^^xsd:float ;
+	dbp:phoneNumber "91 312 02 58"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=1f64c2c6e051c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/6a5dfac4be1502501489fc0f5a24b667> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Huerta de la Salud (Hortaleza)"^^xsd:string ;
+	dbp:address "calle mar de las antillas 10"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> ;
+	dbp:latitude "40.47571688103069"^^xsd:float ;
+	dbp:longitude "-3.64667257750353"^^xsd:float ;
+	dbp:phoneNumber "91 764 52 43"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9c5879262ef5d010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/e6c0394f5d2806033b89b3d2038ff62b> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Ivan de Vargas (Centro)"^^xsd:string ;
+	dbp:address "calle san justo 5"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.41410290844665"^^xsd:float ;
+	dbp:longitude "-3.7098591212735883"^^xsd:float ;
+	dbp:phoneNumber "917 586 211"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=0b60e92be3c5e210VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/b3f635b861138665e9d7fb98908d287a> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Jose Hierro (San Blas-Canillejas)"^^xsd:string ;
+	dbp:address "calle maria sevilla diago 15"^^xsd:string ;
+	dbp:district "SAN BLAS-CANILLEJAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/San_Blas-Canillejas> ;
+	dbp:latitude "40.433291625973624"^^xsd:float ;
+	dbp:longitude "-3.6105662311927453"^^xsd:float ;
+	dbp:phoneNumber "91 313 55 28"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=338879262ef5d010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/d25414405eb37dae1c14b18d6a2cac34> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Jose Saramago (Fuencarral-El Pardo)"^^xsd:string ;
+	dbp:address "avenida monforte de lemos 38"^^xsd:string ;
+	dbp:district "FUENCARRAL-EL PARDO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Fuencarral-El_Pardo> ;
+	dbp:latitude "40.47860087334554"^^xsd:float ;
+	dbp:longitude "-3.7094408342979954"^^xsd:float ;
+	dbp:phoneNumber "91 588 68 91"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=70d879262ef5d010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/cefab442b1728a7c1b49c63f1a55781c> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal La Chata (Carabanchel)"^^xsd:string ;
+	dbp:address "calle general ricardos 252"^^xsd:string ;
+	dbp:district "CARABANCHEL"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Carabanchel> ;
+	dbp:latitude "40.38330593504341"^^xsd:float ;
+	dbp:longitude "-3.7420633861175796"^^xsd:float ;
+	dbp:phoneNumber "91 422 05 33"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=d9a879262ef5d010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/4e8f4e419dfcea0432b4e78db83b22a8> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal La Elipa (Ciudad Lineal)"^^xsd:string ;
+	dbp:address "calle nuestra senora del villar 6"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> ;
+	dbp:latitude "40.42342659084215"^^xsd:float ;
+	dbp:longitude "-3.651841641389484"^^xsd:float ;
+	dbp:phoneNumber "91 403 63 22"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=697c598d1351c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/b41410c1bf53bb1c703c66cf1a20c1c7> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Manuel Vazquez Montalban (Tetuan)"^^xsd:string ;
+	dbp:address "calle francos rodriguez 67"^^xsd:string ;
+	dbp:district "TETUAN"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Tetuán_(Madrid)> ;
+	dbp:latitude "40.45749513485957"^^xsd:float ;
+	dbp:longitude "-3.710539712535917"^^xsd:float ;
+	dbp:phoneNumber """91 398 07 23                                                                                                                                     
+91 398 07 26"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=b5ca89e2c9e5d010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/e7314ada4e0093f4b36df18d99961a87> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Mario Vargas Llosa (Centro)"^^xsd:string ;
+	dbp:address "calle barcelo 2"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.426642215368176"^^xsd:float ;
+	dbp:longitude "-3.699722994908341"^^xsd:float ;
+	dbp:phoneNumber """914 802 433                                                                                                                                                   
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=6c4dbc2658739410VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/d9b05ab5aae3664ffb00a5d7d65e1666> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Maria Lejarraga (Hortaleza)"^^xsd:string ;
+	dbp:address "calle princesa de eboli 29"^^xsd:string ;
+	dbp:district "HORTALEZA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Hortaleza> ;
+	dbp:latitude "40.49041562546542"^^xsd:float ;
+	dbp:longitude "-3.655356751728003"^^xsd:float ;
+	dbp:phoneNumber "91 513 33 83"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=d862492de8c8c510VgnVCM2000001f4a900aRCRD> .
+
+<http://madridonyou.es/resources/ba1b3eba322eab5d895aa3023fe78b9c> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Maria Zambrano (Tetuan)"^^xsd:string ;
+	dbp:address "plaza donoso 5"^^xsd:string ;
+	dbp:district "TETUAN"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Tetuán_(Madrid)> ;
+	dbp:latitude "40.46903299144094"^^xsd:float ;
+	dbp:longitude "-3.6976620067964996"^^xsd:float ;
+	dbp:phoneNumber "91 733 90 43"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=74703d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/11c484ea9305ea4c7bb6b2e6d570d466> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Miguel Delibes (Moratalaz)"^^xsd:string ;
+	dbp:address "calle arroyo belincoso 11"^^xsd:string ;
+	dbp:district "MORATALAZ"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Moratalaz> ;
+	dbp:latitude "40.40971737692924"^^xsd:float ;
+	dbp:longitude "-3.6529822109115133"^^xsd:float ;
+	dbp:phoneNumber "91 328 73 00"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=9e8f3d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/e642f223cbe941750fd5d38668fabf2b> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Pablo Neruda (Ciudad Lineal)"^^xsd:string ;
+	dbp:address "calle ascao 4"^^xsd:string ;
+	dbp:district "CIUDAD LINEAL"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Ciudad_Lineal> ;
+	dbp:latitude "40.42941133441142"^^xsd:float ;
+	dbp:longitude "-3.6416899839787695"^^xsd:float ;
+	dbp:phoneNumber "91 406 14 72"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=d5c548d20675e010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/a63fc8c5d915e1f1a40f40e6c7499863> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Portazgo (Puente de Vallecas)"^^xsd:string ;
+	dbp:address "calle cantalapiedra 11"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> ;
+	dbp:latitude "40.393189968014696"^^xsd:float ;
+	dbp:longitude "-3.6554147649183943"^^xsd:float ;
+	dbp:phoneNumber "91 757 03 23"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=89a40a47f441f010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/052335232b11864986bb2fa20fa38748> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Pozo del Tio Raimundo (Puente de Vallecas)"^^xsd:string ;
+	dbp:address "avenida glorietas 19"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> ;
+	dbp:latitude "40.3735856436473"^^xsd:float ;
+	dbp:longitude "-3.6602546064905397"^^xsd:float ;
+	dbp:phoneNumber "91 507 07 34"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=d7203d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/df9028fcb6b065e000ffe8a4f03eeb38> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Pio Baroja (Arganzuela)"^^xsd:string ;
+	dbp:address "calle arganda 12"^^xsd:string ;
+	dbp:district "ARGANZUELA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Arganzuela> ;
+	dbp:latitude "40.40003652682007"^^xsd:float ;
+	dbp:longitude "-3.7074488154950584"^^xsd:float ;
+	dbp:phoneNumber "91 474 16 03"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=17f879262ef5d010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/442cde81694ca09a626eeddefd1b74ca> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal San Blas (San Blas-Canillejas)"^^xsd:string ;
+	dbp:address "calle san roman del valle 8"^^xsd:string ;
+	dbp:district "SAN BLAS-CANILLEJAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/San_Blas-Canillejas> ;
+	dbp:latitude "40.420231627534996"^^xsd:float ;
+	dbp:longitude "-3.6218113860909074"^^xsd:float ;
+	dbp:phoneNumber "91 313 52 97"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=2e403d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/7283518d47a05a09d33779a17adf1707> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Vallecas (Puente de Vallecas)"^^xsd:string ;
+	dbp:address "calle puerto del monasterio 1"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> ;
+	dbp:latitude "40.395023959810636"^^xsd:float ;
+	dbp:longitude "-3.665554302127492"^^xsd:float ;
+	dbp:phoneNumber "91 588 60 51"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=11c03d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/3e15cc11f979ed25912dff5b0669f2cd> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal Vicalvaro"^^xsd:string ;
+	dbp:address "calle villardondiego 36"^^xsd:string ;
+	dbp:district "VICALVARO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Vicálvaro> ;
+	dbp:latitude "40.405283650744316"^^xsd:float ;
+	dbp:longitude "-3.6086278232922804"^^xsd:float ;
+	dbp:phoneNumber "91 775 31 43"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=67e03d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/d1823f3f9ecc570e195fa1a89edd16d2> a dbo:Library ;
+	dbp:name "Biblioteca Publica Municipal angel Gonzalez (Latina)"^^xsd:string ;
+	dbp:address "calle granja de torrehermosa 1"^^xsd:string ;
+	dbp:district "LATINA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Latina_(Madrid)> ;
+	dbp:latitude "40.397074625115906"^^xsd:float ;
+	dbp:longitude "-3.7664885474841556"^^xsd:float ;
+	dbp:phoneNumber "91 512 35 42"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=ec750a2153ef9210VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/f39ae9ff3a81f499230c4126e01f421b> a dbo:Library ;
+	dbp:name "Biblioteca Publica Puente de Vallecas 'Miguel Hernandez'"^^xsd:string ;
+	dbp:address "avenida rafael alberti 36"^^xsd:string ;
+	dbp:district "PUENTE DE VALLECAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Puente_de_Vallecas> ;
+	dbp:latitude "40.38449423079662"^^xsd:float ;
+	dbp:longitude "-3.6429247082087737"^^xsd:float ;
+	dbp:phoneNumber "913 033 195"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=535979262ef5d010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/e9b73bccd1762555582b513ff9d02492> a dbo:Library ;
+	dbp:name "Biblioteca Publica Ruiz Egea"^^xsd:string ;
+	dbp:address "calle raimundo fernandez villaverde 6"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Chamberí> ;
+	dbp:latitude "40.446595985821794"^^xsd:float ;
+	dbp:longitude "-3.7028897237155656"^^xsd:float ;
+	dbp:phoneNumber "915 349 029"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=b2413d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/8698ff92115213ab187d31d4ee5da8ea> a dbo:Library ;
+	dbp:name "Biblioteca Publica Salamanca - Manuel Alvar"^^xsd:string ;
+	dbp:address "calle azcona 42"^^xsd:string ;
+	dbp:district "SALAMANCA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Salamanca_(Madrid)> ;
+	dbp:latitude "40.43440083847048"^^xsd:float ;
+	dbp:longitude "-3.66897244650415"^^xsd:float ;
+	dbp:phoneNumber "917 263 701 "^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=d51979262ef5d010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/1eb8f3246aecffc51378828093edcdcc> a dbo:Library ;
+	dbp:name "Biblioteca Publica Usera - Jose Hierro"^^xsd:string ;
+	dbp:address "avenida rafaela ybarra 43"^^xsd:string ;
+	dbp:district "USERA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Usera> ;
+	dbp:latitude "40.38188182427109"^^xsd:float ;
+	dbp:longitude "-3.7106164073640233"^^xsd:float ;
+	dbp:phoneNumber "914 229 501"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=943979262ef5d010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/6aa9bd14b2edcac06a1e703e66e76017> a dbo:Library ;
+	dbp:name "Biblioteca Publica Villa de Vallecas - Luis Martin Santos"^^xsd:string ;
+	dbp:address "plaza antonio maria segovia 2"^^xsd:string ;
+	dbp:district "VILLA DE VALLECAS"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Villa_de_Vallecas> ;
+	dbp:latitude "40.38091437280583"^^xsd:float ;
+	dbp:longitude "-3.613674447421734"^^xsd:float ;
+	dbp:phoneNumber "912 760 231"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=09ac38d60b41c010VgnVCM2000000c205a0aRCRD> .
+
+<http://madridonyou.es/resources/4fbfc967560eef990de7e92bbbe91509> a dbo:Library ;
+	dbp:name "Biblioteca Publica Villaverde - Maria Moliner"^^xsd:string ;
+	dbp:address "calle villalonso 16"^^xsd:string ;
+	dbp:district "VILLAVERDE"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Villaverde_(Madrid)> ;
+	dbp:latitude "40.34952409541233"^^xsd:float ;
+	dbp:longitude "-3.710123586489839"^^xsd:float ;
+	dbp:phoneNumber "917 230 194  "^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=127979262ef5d010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/be75a012836bcda38b7be0df5a1a9de5> a dbo:Library ;
+	dbp:name "Biblioteca Regional Joaquin Leguina"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/page/Biblioteca_Regional_Joaquin_Leguina> ;
+	dbp:address "calle ramirez de prado 3"^^xsd:string ;
+	dbp:district "ARGANZUELA"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Arganzuela> ;
+	dbp:latitude "40.39990747999322"^^xsd:float ;
+	dbp:longitude "-3.690042467266191"^^xsd:float ;
+	dbp:phoneNumber "917 208 850 / 917 208 860"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=71c2f95a5875b510VgnVCM2000001f4a900aRCRD> .
+
+<http://madridonyou.es/resources/dfc05caea5f75b105ccd435aadc24d4a> a dbo:Library ;
+	dbp:name "Biblioteca del Defensor del Pueblo"^^xsd:string ;
+	dbp:address "calle fortuny 22"^^xsd:string ;
+	dbp:district "CHAMBERI"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Chamberí> ;
+	dbp:latitude "40.433268128292234"^^xsd:float ;
+	dbp:longitude "-3.690017893133342"^^xsd:float ;
+	dbp:phoneNumber """914327900                                                                                                                                          
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=139ac21d2343c510VgnVCM1000001d4a900aRCRD> .
+
+<http://madridonyou.es/resources/db957c626a8cd7a27231adfbf51e20eb> a dbo:Library ;
+	dbp:name "Casa San Cristobal"^^xsd:string ;
+	dbp:address "calle rocafort 101"^^xsd:string ;
+	dbp:district "VILLAVERDE"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Villaverde_(Madrid)> ;
+	dbp:latitude "40.34244856729781"^^xsd:float ;
+	dbp:longitude "-3.686807481597248"^^xsd:float ;
+	dbp:phoneNumber "917 966 048"^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=dcdb3d0b5e71c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/1621144014ea9a814b61ec88edd0cc36> a dbo:Library ;
+	dbp:name "Centro Social y Cultural La Casa Encendida"^^xsd:string ;
+	dbp:address "ronda valencia 2"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.40595710517701"^^xsd:float ;
+	dbp:longitude "-3.699779793558763"^^xsd:float ;
+	dbp:phoneNumber """902 430 322                                                                 
+"""^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c27f8899fc81c010VgnVCM1000000b205a0aRCRD> .
+
+<http://madridonyou.es/resources/a501bebf79d570651ff601788ea9d16d> a dbo:Library ;
+	dbp:name "Hemeroteca Municipal"^^xsd:string ;
+	owl:sameAs <http://es.dbpedia.org/resource/Hemeroteca_Municipal_de_Madrid> ;
+	dbp:address "calle conde duque 11"^^xsd:string ;
+	dbp:district "CENTRO"^^xsd:string ;
+	dbp:location <http://dbpedia.org/resource/Centro_(Madrid)> ;
+	dbp:latitude "40.42802889001877"^^xsd:float ;
+	dbp:longitude "-3.710182353581842"^^xsd:float ;
+	dbp:phoneNumber "91 588 57 71 (Informacion general); 91 513 31 64 y 91 588 57 72 (Informacion especializada: infohemeroteca@madrid.es); 91 588 57 73 (Servicio reprografia: nmicrofilm@madrid.es)                                                            "^^xsd:string ;
+	dbp:url <http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&vgnextoid=11951e79ee71c010VgnVCM1000000b205a0aRCRD> .

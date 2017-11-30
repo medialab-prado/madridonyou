@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbo="http://dbpedia.org/ontology/"
+	xmlns:dbp="http://dbpedia.org/property/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/29da0a03b81e264655b82625d7501360">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Asamblea Cristiana de Madrid</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alora 7</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=03758105e2260410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.386.040.079.971.300</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-364.034.744.917.085</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/ead9427046d2044aa63e86418cab7429">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Asociacion Betel</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle antonia rodriguez sacristan 8</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=9de076172d71c010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.372.799.948.839.900</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.745.081.414.178.660</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/b9c09278d1c036294a041042462a9b74">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Asociacion Darse - Dar Ayuda para la Reinsercion Social España</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">camino alto de san isidro 16</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">676247792</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=358393b8cb901110VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">403.964.910.317.842</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-372.281.263.104.335</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/b7a9bfb8c05808c0697f899df91c7be0">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Catedral Anglicana de Madrid</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle beneficencia 18</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 452 560 / 609 876 913</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=94ef13db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.042.635.120.982.080</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.698.682.579.292.040</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/821867a4200674ce15d7a82413d98e68">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Catedral Ortodoxa Griega</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle nicaragua 12</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMARTIN</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 454 085</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=82547b503a71c010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.045.754.917.910.680</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.672.905.343.222.740</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/page/Chamartin_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/6a3ba4cd24ca8b4ad8b94e1f95311d54">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Centro Cultural Islamico. Mezquita de Madrid</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle salvador de madariaga 4</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CIUDAD LINEAL</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 262 610</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=a3b71e79ee71c010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.438.521.492.191.300</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.573.640.044.493.400</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Ciudad_Lineal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/7d77606ab9ffa3ead3a3cf70532c5247">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Centro de Evangelizacion Anuncio de Paz</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle puerto del monasterio 10</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=17bb8105e2260410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.039.477.355.030.100</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.665.233.691.809.310</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/bf6e9ec1f9de70b099f74d92449eb847">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comunidad Cristiana Maranatha</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle granada 8</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RETIRO</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=429604a5d0260410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.040.503.855.717.770</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.800.894.670.027.300</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Retiro_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/ad45e1151bef4ce985eeadf8fae57e4f">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Anglicana Episcopal de San Jorge</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle nuñez de balboa 43</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=48047b503a71c010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.042.669.852.639.710</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-368.277.143.067.568</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/e52804b71df44b099423f4f691a47f06">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Bautista Alameda de Osuna</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle joaquin ibarra 46</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BARAJAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bd9c1ea949750410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.455.005.219.463.800</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.592.907.109.932.930</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Barajas_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/24a3d753a0afc90f3f850135aa6eade3">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Bautista Barrio del Pilar</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle ginzo de limia 44</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FUENCARRAL-EL PARDO</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d7521ea949750410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.047.854.013.481.560</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.703.163.788.451.910</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Fuencarral-El_Pardo"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/399b23c98a69de3defd2db8c7c30d50f">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Bautista de Usera</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle madridejos 41</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USERA</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=9d28ec795b750410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.038.448.119.553.990</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.098.425.934.998.900</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Usera"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/596f54883af400c050dd24525f4ab5cc">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Bautista de Vallecas</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle san virgilio 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=19bdb607bec50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.039.566.870.843.570</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.630.979.420.842.500</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/ccad19d8866c86796a393a90ff144ec6">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Bautista El Buen Pastor</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza getafe 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMARTIN</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=27ff13db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.444.238.011.956.800</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.721.947.831.541.400</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/page/Chamartin_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/1a0da9315ab6d926da725fc355bab496">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Bautista General Lacy</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle general lacy 18</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ARGANZUELA</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ede51e79ee71c010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.403.586.898.197.800</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.690.928.534.913.430</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Arganzuela"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/2aa8c6cba2e53f56e8c76574a72e4b51">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Bautista Pueblo Nuevo</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle gutierre de cetina 13</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CIUDAD LINEAL</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0304efba3c850410VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.043.387.488.622.840</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.644.196.517.698.970</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Ciudad_Lineal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/8a1505f3c2367d99fb8ad128784db103">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Celebracion Cristiana (Comunidad Sendero de la Cruz)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle miguel fleta 11</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAN BLAS-CANILLEJAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f5e7efba3c850410VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.043.189.156.564.130</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.631.374.057.578.600</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/San_Blas-Canillejas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/f36cd6867a5365a7914f6b6d0013542a">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia CENFOL España</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alejandro villegas 34</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HORTALEZA</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=beddb8d07d850410VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.046.517.332.828.150</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.488.243.746.464.300</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Hortaleza"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/80990f754adeedf3e046aa1e021fd43a">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Centro Cristiano Adonay</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle maria martinez oviol 17</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VILLAVERDE</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e65fb8d07d850410VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.035.010.688.886.280</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.691.253.820.762.230</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Villaverde_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/b84abf41c69a3056c570672b3092433e">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Comunidad Cristiana de Fe</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle manuel ferrero 5</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMARTIN</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=5c77b8d07d850410VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.468.282.503.897.200</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.845.607.169.672.000</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/page/Chamartin_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/ddea0e3dda069e0836798de1184d77bd">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Adventista del Septimo Dia. Madrid Alenza</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alenza 6</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMBERI</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">652 669 072</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=435f6f065851c010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.044.356.545.097.690</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.004.998.266.858.400</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Chamberí"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/8bf4dda4330cb422dfbf16343678f5ae">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Adventista del Septimo Dia. Madrid Aluche</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle los yebenes 255</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LATINA</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">631 800 027</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=08470bf21677f010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.038.946.974.102.780</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.515.803.449.309.400</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Latina_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/14527fb35238898b7a84b3adbf0f38b6">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Adventista del Septimo Dia. Madrid Beneficencia</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle beneficencia 18</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">653 778 836</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ed570bf21677f010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.042.635.120.982.080</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.698.682.579.292.040</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/650faaf5ef35d3db290f8a724ac26376">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Adventista del Septimo Dia. Madrid Calatrava</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle secoya 19</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">615 364 456</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=3a870bf21677f010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.036.926.045.846.840</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.744.912.867.450.050</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/3a71f1887f904335c3aaab2a879edbda">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Adventista del Septimo Dia. Madrid Eben-Ezer</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle rusia 11</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAN BLAS-CANILLEJAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=925691f81c421510VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.042.423.100.660.820</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.610.095.282.640.810</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/San_Blas-Canillejas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/a413788aa4fc408d892d57d35f4a6335">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Adventista del Septimo Dia. Madrid Efes</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alejandro sanchez 49</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">630 107 994</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=5cb70bf21677f010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.390.153.190.373.000</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.220.850.553.963.800</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/4fe55225a00deb837784f88f7085a015">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Adventista del Septimo Dia. Madrid Emaus</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle rusia 11</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAN BLAS-CANILLEJAS</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">653 778 836</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d6d9493662e92110VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.042.423.100.660.820</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.610.095.282.640.810</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/San_Blas-Canillejas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/2e85d6f95d9c2cb818e28b9c04000768">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Adventista del Septimo Dia. Madrid Grupo brasileño</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">travesia juan francisco 4</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">645 402 526</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f1d689f2b4eed310VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.038.685.454.268.190</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.323.234.966.679.700</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/87578bdd9a191d39012ae829314273d9">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Adventista del Septimo Dia. Madrid Noviciado de Horeb</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle marquesa de arg&amp;uuml;eso 24</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">639 968 584</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=384fcef44b421510VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.039.143.027.890.690</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.723.877.858.559.500</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/678914eef56155523d715f3567b40ef3">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Adventista del Septimo Dia. Madrid Resurreccion</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle austria 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAN BLAS-CANILLEJAS</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">630 107 994</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=23e70bf21677f010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.424.737.348.819.900</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-360.803.688.991.874</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/San_Blas-Canillejas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/cf61a3575cc83d20e4dbd0719a533ffb">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Adventista del Septimo Dia. Madrid Vallecas</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle doctor bellido 13</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">630 994 327</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=26f70bf21677f010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.038.473.396.152.090</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.673.969.388.303.200</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/3458dbdb97262f3256816709678d6189">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Adventista del Septimo Dia. Madrid Ventas</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle hermanos gomez 32</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CIUDAD LINEAL</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">676 150 645</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0a08d5bfd677f010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.430.239.463.904.700</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.498.796.531.677.000</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Ciudad_Lineal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/88575a472d174875a692999bece583a0">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Evangelica de Aluche</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle nuestra señora de la luz 118</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LATINA</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=bf9b92355c51c010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.038.654.208.091.550</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.751.536.019.050.470</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Latina_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/0c437e29b62c6185d6429f1113e0eedc">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Evangelica de Chamartin</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle victor de la serna 58</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMARTIN</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=474204a5d0260410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.045.776.241.085.650</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.671.869.586.880.970</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/page/Chamartin_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/6a7bb4aed18afd1534f8764934666ebe">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Evangelica en Hortaleza (Eben Ezer)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle santa virgilia 5</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HORTALEZA</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=924b7b05a8350410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.047.803.083.728.160</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.436.863.685.291.500</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Hortaleza"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/12e24095f3004ed63fad0f96550aea5b">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Hosanna</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle alfaro 34</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=149a5bddd0950410VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.039.008.603.694.380</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.737.012.505.590.280</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/385046c878fe27fab49478e789f09603">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Reformada</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle cesar gonzalez ruano 25</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CIUDAD LINEAL</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=a5cc5bddd0950410VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.439.878.546.069.800</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.531.796.217.016.900</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Ciudad_Lineal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/17ea273cfb8a5c048484891dd37cec59">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Shalom Adonai</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plaza mondariz 10</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FUENCARRAL-EL PARDO</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=98296bbcdbc50410VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.478.096.305.847.500</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.050.349.888.320.500</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Fuencarral-El_Pardo"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/b7e2d65546c19372ced2ec6e7f7d633f">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cristiana Verbo</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle circe 32</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAN BLAS-CANILLEJAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=003ff181df160410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.042.486.074.067.440</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.608.556.691.010.070</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/San_Blas-Canillejas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/db241360524c97f50d0a8e9de0da59b1">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cuerpo de Cristo, Don Pedro</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle don pedro 10</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=a8319bd56dc50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.041.164.356.061.590</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.127.680.071.804.700</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/3260c70dd4709f22708d5a8b13a33a85">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Cuerpo de Cristo, General Ricardos</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle general ricardos 188</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=335d9bd56dc50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.038.632.169.648.760</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.353.691.693.981.700</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/3ad5758364436e9802d32d15981a2d52">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia de Cristo IEE</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle bravo murillo 85</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMBERI</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=03479bd56dc50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">404.449.301.823.601</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.042.284.365.191.200</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Chamberí"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/1b13bbe2185f78999d0247b366437242">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia de Cristo - Madrid</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle teruel 25</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TETUAN</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=4fb3b607bec50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.045.142.687.862.350</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.010.649.675.352.000</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Tetuán_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/8e76856dc5fbbe83bf5fa97369e574e3">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia de Dios (Verbo de Dios)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle puerto de pozazal 25</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VILLA DE VALLECAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=646b0ac0dfc50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.037.954.477.665.530</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.304.610.133.031.000</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Villa_de_Vallecas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/2ae6eadb68ab33f3f2cdfd8cbbfe3151">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia de Filadelfia Orcasur</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle albu&amp;ntilde;uelas 4</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USERA</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6b760ac0dfc50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">403.660.794.472.724</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.003.447.903.871.800</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Usera"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/500b883c98e38b50792ce34c0d4747e4">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia de Jesus</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle calatrava 25</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=04750a47f441f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.040.922.435.030.050</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.120.824.876.404.400</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/bcad76855c1128b16cda9a9633cac9b0">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia de la Cienciologia</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle santa catalina 7</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">912 092 170</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0606ac2e6481c010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.041.544.685.773.230</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.977.564.880.686.600</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/4569176088b67fadda3974e2099dbe41">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia de Los Elegidos de Dios</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle faro 8</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=fdea3ddd32d50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.038.119.767.358.170</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.264.778.892.367.400</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/db0f7cc07b0c2185410e19065e17f72e">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia de los Hermanos en La Vaguada</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle puerto de maspalomas 22</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FUENCARRAL-EL PARDO</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=3c33c91fc0d50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">404.791.594.681.295</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.138.237.216.851.700</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Fuencarral-El_Pardo"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/156935d920c5aa548b6ceef66dce3bf4">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Dios es Amor - Union Cristiana</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle prudencio alvaro 46</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CIUDAD LINEAL</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=dd257b05a8350410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.043.829.788.787.740</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.644.274.105.325.610</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Ciudad_Lineal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/69ce7a6a42cd543b3c92f090406caa8d">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Ejercito de Salvacion, Hermosilla</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle hermosilla 126</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=8d9f6f065851c010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.042.545.230.198.000</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.678.581.814.924.500</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/2a66d336537a7c84ef65068f343a642e">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia El Buen Pastor de Madrid</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">camino valderribas 96</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=7d373ddd32d50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.398.863.439.810.400</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.660.560.405.682.930</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/ffb30ecd0548de5f0807a00a77d35316">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Emanuel (U.C.E) Orcasitas (Orcasur)</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida orcasur 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USERA</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=2b96691af6d50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.037.038.446.580.720</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-370.056.603.706.231</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Usera"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/f9bac8a8081b2437584eac777f0c84aa">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Española Reformada Episcopal</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle beneficencia 18</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=37d53bf7d7d50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.042.635.120.982.080</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.698.682.579.292.040</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/dec3d338683bf54064d32057867c9b26">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica Casa de Oracion</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle felipe de diego 3</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=75ab8fd21ad50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.379.470.784.588.200</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.663.021.565.402.850</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/973d7d7e3c0ed3043d7e430e0f1c0cb2">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica Casa de Oracion de Madrid</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle londres 13</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=644198d978d50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.043.146.112.930.490</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.694.502.641.980.300</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/89fa0c7ca1bfb3c1bfa1418df78cdca2">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica China Española</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle carolinas 10</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TETUAN</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=5ff28fd21ad50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.451.241.419.899.200</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.704.895.759.227.490</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Tetuán_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/fabc60ca92dbe60872b16a2650f4cb4d">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica Cristo Vive</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle talia 32</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAN BLAS-CANILLEJAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=2224216f16350410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.447.416.389.559.100</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.142.317.394.076.200</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/San_Blas-Canillejas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/a31ca5e16b06522866bfe24d9be38a44">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica de Hermanos El Shadday</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle maria pedraza 11</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TETUAN</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=352afe5dfad50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.453.349.071.696.200</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.093.874.627.751.700</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Tetuán_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/898f0779799357ed7577447a907a8d60">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica del Nazareno</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle pelicano 26</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ef5dfe5dfad50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.383.690.841.533.700</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.728.283.631.976.340</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/b0075bc751b654de69d513bb8c4aa3b5">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica Eben Ezer Dios es amor</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida albufera 46</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=61a794d12cd50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.396.355.872.399.200</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.658.030.852.598.100</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/b0f9fac8aa2776dabb85b564eb5673ce">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica Encuetro con Dios</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle jose del prado y palacio 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MORATALAZ</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f0fe7b05a8350410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.040.995.541.329.680</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.653.903.803.273.290</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Moratalaz"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/4f8f66329829f270f9016693d8d9c33c">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica Española El Salvador</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle noviciado 5</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=5b850a47f441f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">404.255.730.852.911</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.081.171.132.637.800</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/c755b33567c7b2a8fbd5acaa9759dbbe">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica Fuente de la Vida</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle sierra carbonera 31</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e9e95ac33d160410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.039.224.017.330.220</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.663.983.360.780.890</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/6382a35f8ae175aeb38b657d397bc07f">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica Nueva Vida</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle argos 13</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAN BLAS-CANILLEJAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=4996e44317350410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.436.772.923.362.900</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.634.945.071.142.650</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/San_Blas-Canillejas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/3bf7cb726f6fecebc00f09576502d769">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica Pentecostal Amistad Cristiana</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle vallehermoso 70</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMBERI</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=64f10ac0dfc50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.437.256.742.788.900</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.708.286.842.692.640</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Chamberí"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/4048f2a8889ac2e6ae538c1e552bca2d">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica Pentecostal Bethel</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle fernando diaz de mendoza 3</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=a2cf6f065851c010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.039.425.444.284.570</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.130.323.684.423.100</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/8cd332543bb42f9e52d029194fb58bdd">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica Pentecostal Salem</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle cidro 8</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=6fb1e44317350410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.036.788.312.377.920</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.461.462.154.794.500</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/d9657f90a53ce0c2bafa9ea6de2ce923">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelica Pueblo Nuevo</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle villacarlos 14</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VICALVARO</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d6adfe5dfad50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.405.980.938.654.000</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.062.299.408.865.400</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Vicálvaro"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/4722065808abca1c722395090755d932">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Evangelio Cuadrangular Vida Nueva Usera</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle monederos 22</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USERA</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=db313ddd32d50410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.387.603.572.276.100</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.016.044.995.191.400</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Usera"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/6065ea95988e4872487f23eb1ab31324">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Filadelfia del Centro Cielos Abiertos</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle rodrigo de guevara 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CENTRO</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ac0a5ac33d160410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.409.306.745.878.800</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.708.936.586.322.550</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Centro_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/278211e97708b907572e20061dca3e79">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Internacional Alianza de Amor</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle antonio gonzalez porras 25</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=3f915ac33d160410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.039.066.598.347.710</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.178.606.509.833.800</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/01147e6677ef48444d5453eafea33204">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Resurreccion IEE</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle butron 20</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SAN BLAS-CANILLEJAS</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=306150adce160410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.042.486.074.067.440</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.608.556.691.010.070</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/San_Blas-Canillejas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/68a3ff27704364575565fa0ec0f9f086">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Servidores de Vida</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle castrojeriz 8</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=95f550adce160410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">403.872.624.683.693</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.390.081.955.917.400</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/3ff23b5360d5c03c361a74dc949625fb">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Tabernaculo de Alabanza</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle barca 4</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VICALVARO</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c944f181df160410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.399.476.185.079.000</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-35.941.165.757.961.300</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Vicálvaro"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/4b44748ea12568aaa18fafbc38f1d875">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iglesia Templo de Dios</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle marquesa de arg&amp;uuml;eso 22</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c70bf181df160410VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.391.475.542.527.600</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.238.429.956.192.000</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/18a47a587ae0621b60eded1ed6214efd">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mezquita Abu Bakr</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle anastasio herrero 5</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TETUAN</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 714 040 </dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=11a71e79ee71c010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.045.678.681.584.000</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.011.324.720.320.500</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Tetuán_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/869f53ab078a8692bc5a7f663b9552db">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Avenida Moratalaz</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">avenida moratalaz 143</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MORATALAZ</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 377 284</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=daca6dd8f677f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.040.710.531.270.070</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-364.807.785.428.665</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Moratalaz"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/52ddce29fa31a44c4f82d8372309d096">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Arroyo</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle arroyo 23</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TETUAN</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 140 296</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=a823784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.046.978.728.598.970</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.025.298.582.429.600</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Tetuán_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/408f7ecb3923737f40b3d3e7b1c98029">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Artistas</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle artistas 22</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TETUAN</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 337 233</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0e33784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.044.728.893.529.120</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.015.290.370.510.400</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Tetuán_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/ba75e8c77d18aabfb8bc678deb19be58">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Carrascales</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle carrascales 12</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USERA</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 768 456</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=13c13b49d7619210VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.038.152.721.787.890</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.082.093.955.604.000</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Usera"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/06ce92b40aaf98f0dfa258558cd28f25">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Chantada</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle chantada 43</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FUENCARRAL-EL PARDO</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 737 210</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=f493784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.047.295.576.678.730</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.161.763.610.140.800</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Fuencarral-El_Pardo"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/7818c5008b69c2025c2914e2786833ce">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Doctor Gomez Ulla</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle doctor gomez ulla 16</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SALAMANCA</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 253 649</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=11c3784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">404.299.768.268.144</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.667.513.892.714.280</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Salamanca_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/21eec35d1112eb815401265f952f4c55">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Guamo</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle guamo 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HORTALEZA</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 644 305</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=dbe3784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.472.423.257.425.900</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.329.921.848.042.200</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Hortaleza"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/3d2180f943059f643e0f4df1bfc09988">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Hilario Sangrador</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle hilario sangrador 8</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LATINA</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 794 301</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=1673784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.407.960.942.737.900</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.424.991.074.388.700</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Latina_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/fb6641c8bcacb4b42ce57bbfdd7a3c13">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Ignacio Ellacuria</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle ignacio ellacuria 3</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CIUDAD LINEAL</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 613 801</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=3104784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.042.908.450.325.940</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.565.765.500.624.200</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Ciudad_Lineal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/66e1bb084ae70a4d1daa8366cecb2730">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Jacobinia</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle jacobinia 70</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CARABANCHEL</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 622 474</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=9614784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.377.563.130.203.500</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-37.538.276.002.522.400</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Carabanchel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/ab27efaeef8d7747397e44bab5f28600">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Las Pedroñeras</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle las pedro&amp;ntilde;eras 46</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HORTALEZA</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 597 002</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=2ae45159bd619210VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.046.740.772.482.650</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.630.892.617.916.540</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Hortaleza"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/5326e96d806103ab0e6925cf92e45a50">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Luis Ruiz</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle luis ruiz 75</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CIUDAD LINEAL</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">913 759 717</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c9a65068d6619210VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">404.280.279.977.347</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.360.652.956.995.000</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Ciudad_Lineal"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/2bbd698e68081e29d4f6b222bc4096bb">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Marcudos</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle marcudos 4</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USERA</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 921 135</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=1c64784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.038.853.080.646.350</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.701.720.159.931.240</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Usera"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/4dfca1ac2d6221e9f79bce131e07c925">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Martin de Vargas</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle martin de vargas 26</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ARGANZUELA</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 176 543</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=d0ea6dd8f677f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.040.244.073.010.040</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.701.734.952.593.740</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Arganzuela"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/f8a4417f18d1e50b6434460e7cf2dda7">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Perez Herrera</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle perez herrera 2</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CHAMARTIN</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 169 439</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=c6fa6dd8f677f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.044.692.921.715.810</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.726.225.307.291.100</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/page/Chamartin_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/d4932675ecaf8c5b733f220ed4a4c797">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Puerto de Pozazal</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle puerto de pozazal 1</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VILLA DE VALLECAS</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">911 386 417</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=458e813cbcc4f010VgnVCM1000000b205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.037.941.728.069.030</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.290.579.482.359.900</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Villa_de_Vallecas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/a663021ffc1a1f5019878c96ac58ddf0">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle San Moises</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle san moises 39</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 157 133</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=e73b6dd8f677f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">40.382.077.738.308.300</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.665.580.023.171.380</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/7c8bd3ee6d5551ff4e59cbb9abbe3c98">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Santa Ana Baja</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle santa ana baja 48</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">FUENCARRAL-EL PARDO</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">917 348 698</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=ed4b6dd8f677f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">404.971.824.538.909</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.907.430.902.200.600</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Fuencarral-El_Pardo"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/6f9db2e5f72cdf24da5e93630099e224">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Tembleque</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle tembleque 64</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LATINA</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">915 188 149</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=0d24972577619210VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">403.951.784.294.787</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-3.760.316.231.056.660</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Latina_(Madrid)"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.madridonyou.es/resources/b25dd38082c99a1c14a2aa2412c0930c">
+	<rdf:type rdf:resource="http://dbpedia.org/ontology/ReligiousBuilding"/>
+	<dbp:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Testigos Cristianos de Jehova. Calle Venancio Martin</dbp:name>
+	<dbp:address rdf:datatype="http://www.w3.org/2001/XMLSchema#string">calle venancio martin 19</dbp:address>
+	<dbp:district rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PUENTE DE VALLECAS</dbp:district>
+	<dbp:phoneNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">914 399 065</dbp:phoneNumber>
+	<dbp:url rdf:resource="http://www.madrid.es/sites/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&amp;vgnextoid=2903784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	<dbp:latitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">4.039.795.732.762.330</dbp:latitude>
+	<dbp:longitude rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-36.614.706.779.617.700</dbp:longitude>
+	<dbp:location rdf:resource="http://dbpedia.org/resource/Puente_de_Vallecas"/>
+</rdf:Description>
+
+</rdf:RDF>
